@@ -1,0 +1,232 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* 애객 세끼 With Web Finder Color Palette */
+    /* Primary - 식욕을 자극하는 따뜻한 주황/빨강 계열 */
+    --primary: 24 100% 50%;
+    /* #FF6B35 - 따뜻한 주황 */
+    --primary-foreground: 0 0% 98%;
+
+    /* Secondary - 따뜻한 베이지/크림 계열 */
+    --secondary: 45 100% 95%;
+    /* #FFF8E7 - 따뜻한 크림 */
+    --secondary-foreground: 24 20% 20%;
+
+    /* Accent - 신선함을 강조하는 초록 계열 */
+    --accent: 142 76% 36%;
+    /* #16A34A - 신선한 초록 */
+    --accent-foreground: 0 0% 98%;
+
+    /* Grayscale - 배경, 텍스트, 경계선용 */
+    --background: 0 0% 100%;
+    /* 순백색 */
+    --foreground: 24 20% 10%;
+    /* 따뜻한 검정 */
+    --card: 0 0% 100%;
+    --card-foreground: 24 20% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 24 20% 10%;
+    --muted: 45 20% 96%;
+    /* 따뜻한 회색 */
+    --muted-foreground: 24 10% 45%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 24 10% 90%;
+    /* 따뜻한 경계선 */
+    --input: 24 10% 90%;
+    --ring: 24 100% 50%;
+    --radius: 0.75rem;
+    /* 더 부드러운 모서리 */
+
+    /* 애객 세끼 With Web Finder Typography Variables */
+    --font-family-sans: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+    --font-family-display: 'Pretendard', system-ui, sans-serif;
+
+    /* Font sizes */
+    --font-size-h1: 2.5rem;
+    /* 40px */
+    --font-size-h2: 2rem;
+    /* 32px */
+    --font-size-h3: 1.5rem;
+    /* 24px */
+    --font-size-h4: 1.25rem;
+    /* 20px */
+    --font-size-h5: 1.125rem;
+    /* 18px */
+    --font-size-h6: 1rem;
+    /* 16px */
+    --font-size-body: 1rem;
+    /* 16px */
+    --font-size-body-sm: 0.875rem;
+    /* 14px */
+    --font-size-caption: 0.75rem;
+    /* 12px */
+
+    /* Line heights */
+    --line-height-h1: 3rem;
+    --line-height-h2: 2.5rem;
+    --line-height-h3: 2rem;
+    --line-height-h4: 1.75rem;
+    --line-height-h5: 1.5rem;
+    --line-height-h6: 1.5rem;
+    --line-height-body: 1.6rem;
+    --line-height-body-sm: 1.4rem;
+    --line-height-caption: 1.2rem;
+
+    /* Font weights */
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --font-weight-extrabold: 800;
+
+    /* Chart colors for data visualization */
+    --chart-1: 24 100% 50%;
+    /* Primary orange */
+    --chart-2: 142 76% 36%;
+    /* Accent green */
+    --chart-3: 45 100% 50%;
+    /* Warm yellow */
+    --chart-4: 280 65% 60%;
+    /* Purple */
+    --chart-5: 340 75% 55%;
+    /* Pink */
+  }
+
+  .dark {
+    /* 애객 세끼 With Web Finder Dark Mode Color Palette */
+    /* Primary - 다크 모드에서도 따뜻함 유지 */
+    --primary: 24 100% 60%;
+    /* 더 밝은 주황 */
+    --primary-foreground: 24 20% 10%;
+
+    /* Secondary - 다크 모드용 따뜻한 회색 */
+    --secondary: 24 15% 15%;
+    /* 따뜻한 다크 그레이 */
+    --secondary-foreground: 0 0% 90%;
+
+    /* Accent - 다크 모드용 초록 */
+    --accent: 142 76% 46%;
+    /* 더 밝은 초록 */
+    --accent-foreground: 24 20% 10%;
+
+    /* Grayscale - 다크 모드용 */
+    --background: 24 20% 8%;
+    /* 따뜻한 검정 */
+    --foreground: 0 0% 90%;
+    --card: 24 15% 10%;
+    --card-foreground: 0 0% 90%;
+    --popover: 24 15% 10%;
+    --popover-foreground: 0 0% 90%;
+    --muted: 24 10% 15%;
+    --muted-foreground: 24 5% 65%;
+    --destructive: 0 62.8% 50%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 24 10% 20%;
+    --input: 24 10% 20%;
+    --ring: 24 100% 60%;
+
+    /* Chart colors for dark mode */
+    --chart-1: 24 100% 60%;
+    --chart-2: 142 76% 46%;
+    --chart-3: 45 100% 60%;
+    --chart-4: 280 65% 70%;
+    --chart-5: 340 75% 65%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-family-sans);
+    font-size: var(--font-size-body);
+    line-height: var(--line-height-body);
+    font-weight: var(--font-weight-normal);
+  }
+
+  /* 애객 세끼 With Web Finder Typography Classes */
+  h1 {
+    font-size: var(--font-size-h1);
+    line-height: var(--line-height-h1);
+    font-weight: var(--font-weight-bold);
+  }
+
+  h2 {
+    font-size: var(--font-size-h2);
+    line-height: var(--line-height-h2);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  h3 {
+    font-size: var(--font-size-h3);
+    line-height: var(--line-height-h3);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  h4 {
+    font-size: var(--font-size-h4);
+    line-height: var(--line-height-h4);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  h5 {
+    font-size: var(--font-size-h5);
+    line-height: var(--line-height-h5);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  h6 {
+    font-size: var(--font-size-h6);
+    line-height: var(--line-height-h6);
+    font-weight: var(--font-weight-semibold);
+  }
+}
+
+@layer utilities {
+
+  /* 즐겨찾기 애니메이션을 위한 커스텀 유틸리티 */
+  .favorite-heart {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .favorite-heart:hover {
+    transform: scale(1.1);
+  }
+
+  .favorite-heart.active {
+    transform: scale(1.2);
+    animation: heartBeat 0.6s ease-in-out;
+  }
+
+  @keyframes heartBeat {
+    0% {
+      transform: scale(1);
+    }
+
+    50% {
+      transform: scale(1.3);
+    }
+
+    100% {
+      transform: scale(1.1);
+    }
+  }
+
+  /* 숫자 카운트 애니메이션 */
+  .count-update {
+    transition: all 0.3s ease-in-out;
+  }
+
+  .count-update.updating {
+    transform: scale(1.1);
+    color: hsl(var(--primary));
+  }
+}
