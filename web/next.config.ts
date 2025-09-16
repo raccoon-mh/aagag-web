@@ -18,8 +18,8 @@ const nextConfig: NextConfig = {
   skipTrailingSlashRedirect: true,
   distDir: 'dist',
   // GitHub Pages의 basePath 설정 (리포지토리 이름이 URL에 포함되는 경우)
-  // basePath: process.env.NODE_ENV === 'production' ? '/aagag-web' : '',
-  // assetPrefix: process.env.NODE_ENV === 'production' ? '/aagag-web' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/aagag-web' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/aagag-web' : '',
 };
 
 export default nextConfig;
