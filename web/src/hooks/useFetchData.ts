@@ -3,6 +3,11 @@
 import { useState, useEffect, useMemo } from 'react';
 import { Restaurant, RestaurantData } from '@/data/restaurants';
 
+// Next.js basePath 설정을 사용
+const getBasePath = () => {
+    return process.env.NODE_ENV === 'production' ? '/aagag-web' : '';
+};
+
 interface UseFetchDataResult {
     data: Restaurant[];
     metadata: RestaurantData['metadata'] | null;
@@ -24,8 +29,9 @@ export function useFetchData(region: string = 'seoul'): UseFetchDataResult {
             setLoading(true);
             setError(null);
 
-            // 정적 JSON 파일에서 데이터 로드
-            const response = await fetch(`/data/${region}.json`);
+            // 정적 JSON 파일에서 데이터 로드 (basePath 포함)
+            const basePath = getBasePath();
+            const response = await fetch(`${basePath}/data/${region}.json`);
 
             if (!response.ok) {
                 throw new Error(`Failed to fetch data: ${response.status}`);
@@ -75,8 +81,9 @@ export function usePreloadData(regions: string[] = ['seoul']) {
                 setLoading(true);
 
                 // 병렬로 모든 지역 데이터 로드
+                const basePath = getBasePath();
                 const dataPromises = regions.map(async (region) => {
-                    const response = await fetch(`/data/${region}.json`);
+                    const response = await fetch(`${basePath}/data/${region}.json`);
                     if (!response.ok) {
                         throw new Error(`Failed to fetch ${region} data`);
                     }
@@ -120,9 +127,10 @@ export function useAvailableRegions() {
                 // 하드코딩된 지역 목록 (실제로는 API나 파일 목록에서 가져와야 함)
                 const regionFiles = ['seoul', 'incheon'];
 
+                const basePath = getBasePath();
                 const regionPromises = regionFiles.map(async (regionFile) => {
                     try {
-                        const response = await fetch(`/data/${regionFile}.json`);
+                        const response = await fetch(`${basePath}/data/${regionFile}.json`);
                         if (!response.ok) return null;
                         const data: RestaurantData = await response.json();
                         return {
