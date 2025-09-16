@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "parsed_at": "2025-09-16T07:26:19.221587",
+    "parsed_at": "2025-09-16T08:38:39.364148",
     "total_groups": 72,
     "source": "대전",
     "has_actual_links": true,
@@ -15,12 +15,12 @@
       "link": "https://map.naver.com/p/entry/place/11710907?c=15.00,0,0,0,dh&placePath=/review",
       "summary": "두부 두루치기 칼국수 맛집",
       "tags": [
-        "데이트",
         "단체",
+        "데이트",
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/광천식당?c=14,127.4235904,36.3285699,0,dh",
-      "review_star": 4,
+      "review_star": 4.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/e2b1dd114b9af1e1d9713115cc959283625a5162?original"
       ],
@@ -51,7 +51,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/복수분식 본점?c=14,127.4263032,36.3179979,0,dh",
-      "review_star": 1,
+      "review_star": 3.2,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/b5e1ed8f4a68533a165b2a246d138f47258db1e2?original"
       ],
@@ -67,7 +67,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/원미면옥?c=14,127.4753493,36.3319153,0,dh",
-      "review_star": 5,
+      "review_star": 3.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/a34b0625fdbb2481943a2f1c1d4072e5e46012a4?original"
       ],
@@ -95,7 +95,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/함초 양념갈비?c=14,127.4331158,36.3570579,0,dh",
-      "review_star": 5,
+      "review_star": 3.9,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/8e9a1168bd430802230f059e360f1f8bfe6de4ae?original"
       ],
@@ -123,7 +123,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/가마솥 보은순대",
-      "review_star": 5,
+      "review_star": 4.0,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/34d24eb44ce7f3104e991519bd7178d7bcca1ad1?original"
       ],
@@ -138,7 +138,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/제주오목돈?c=14,127.4060642,36.3218420,0,dh",
-      "review_star": 5,
+      "review_star": 3.9,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/28ca711e8ca959a5be11511bbb37684a4062ed0f?original"
       ],
@@ -153,7 +153,7 @@
         "간식"
       ],
       "navermapurl": "https://map.naver.com/p/search/몽심?c=14,127.4249444,36.3518586,0,dh",
-      "review_star": 1,
+      "review_star": 4.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/a873b4b8120f4ab4cf3b915bee464c15468bd237?original"
       ],
@@ -165,11 +165,11 @@
       "link": "https://map.naver.com/p/entry/place/1002709943?c=15.00,0,0,0,dh",
       "summary": "애객러 집요정님 추천 빵 맛집",
       "tags": [
-        "간식",
-        "체인"
+        "체인",
+        "간식"
       ],
       "navermapurl": "https://map.naver.com/p/search/싶빵공장?c=14,127.3505271,36.3059728,0,dh",
-      "review_star": 5,
+      "review_star": 4.6,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/067108c0839324276bdc6b106dc15e5fa63ee1c4?original"
       ],
@@ -185,7 +185,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/1974비래옥 본점?c=14,127.4237449,36.3290869,0,dh",
-      "review_star": 5,
+      "review_star": 4.2,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/e82fc32b6d015581939b0db1b2ec3e3ef002a0bf?original"
       ],
@@ -200,7 +200,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/희락반점?c=14,127.4235138,36.3289857,0,dh",
-      "review_star": 4,
+      "review_star": 3.9,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/9a3a483716ff065f5e49141dd517e2b6c0ac7690?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/a3c272ca370fbf24da905f93b27532190b71d5ef?original",
@@ -217,7 +217,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/신당동 자갈구이?c=14,127.4238892,36.3289724,0,dh",
-      "review_star": 5,
+      "review_star": 3.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/75ee26350b9caf0cf0b7ad97f5d67264a641e9c0?original"
       ],
@@ -232,7 +232,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/동은성",
-      "review_star": 5,
+      "review_star": 4.7,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/77b3979a3a71d14279f89b607fc3d4e8f588d14a?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/619651f8c6bbf6ba7fbb9a22a302861477c8bdcb?original"
@@ -248,7 +248,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/왕관식당?c=14,127.4274970,36.3336196,0,dh",
-      "review_star": 4,
+      "review_star": 3.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/6ac6935d328505a728087e805fe40bcd2c8157f7?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/592826e329d69b44836726f9fd7a92bdd507958b?original",
@@ -268,7 +268,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/서울치킨?c=14,127.4230738,36.3259544,0,dh",
-      "review_star": 5,
+      "review_star": 3.6,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/74f6be7fa04f7b3639cb14f626b6329505d43383?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/1a0e6e22685b68f650b2e6842cb0391cdb424d62?original"
@@ -285,7 +285,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/시민칼국수?c=14,127.4156720,36.3210881,0,dh",
-      "review_star": 3,
+      "review_star": 3.7,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/f1f162cfce0dcf0300f00fbc909ab9da82eb7222?original"
       ],
@@ -313,7 +313,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/농민순대?c=14,127.4318545,36.3191137,0,dh",
-      "review_star": 4,
+      "review_star": 4.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/cb1549cf586b47eb449fc42e63962ad687561d0b?original"
       ],
@@ -328,7 +328,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/오문창순대국밥?c=14,127.4265910,36.3592365,0,dh",
-      "review_star": 5,
+      "review_star": 3.7,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/9ded484e929f5a51655b082a70c61787fc78cc66?original"
       ],
@@ -344,7 +344,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/원조태평소국밥?c=14,127.3954917,36.3267596,0,dh",
-      "review_star": 3,
+      "review_star": 4.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/68443818195bbc36d38fde2803aa3a9e68049c14?original"
       ],
@@ -359,7 +359,7 @@
         "일식"
       ],
       "navermapurl": "https://map.naver.com/p/search/유메?c=14,127.4036711,36.3247256,0,dh",
-      "review_star": 3,
+      "review_star": 3.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/ae6b6e5603030ab059a158379072c9729b6069c6?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/e0ddd35f8ac5fb9c4e02ac4467aa2fdd042e0405?original",
@@ -377,7 +377,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/월산본가?c=14,127.4275172,36.3252962,0,dh",
-      "review_star": 3,
+      "review_star": 3.3,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/d5f980d61ed7d79ca1fffd7f21694b31d2c5257a?original"
       ],
@@ -405,7 +405,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/봉봉원?c=14,127.4268228,36.3307369,0,dh",
-      "review_star": 5,
+      "review_star": 4.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/b5b68b95005dbcc93b55e04d5120e747f1088677?original"
       ],
@@ -420,7 +420,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/태화원?c=14,127.4235455,36.3255826,0,dh",
-      "review_star": 1,
+      "review_star": 2.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/0dada17813308560c9d30c4ed1750efeb11c6a55?original"
       ],
@@ -435,7 +435,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/태화장?c=14,127.4293614,36.3338483,0,dh",
-      "review_star": 3,
+      "review_star": 3.0,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/4665248c2f8132c3bfede34a7b10d5fec4eac554?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/f62e2fb836be768e60fd277bf7e57bfc426871c2?original",
@@ -452,7 +452,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/중국대반점?c=14,127.4301590,36.3253147,0,dh",
-      "review_star": 5,
+      "review_star": 3.2,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/acb0afac7df64718ef80553a7db4271d3bae50c6?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/1bb566ac99766776fdf2bc7ccc972300cb2a0525?original",
@@ -472,7 +472,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/고단백식당?c=14,127.4211214,36.3286700,0,dh",
-      "review_star": 5,
+      "review_star": 4.0,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/ad40f669db849164b5980481750131affbe6f807?original"
       ],
@@ -487,7 +487,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/신도칼국수 본점?c=14,127.4310018,36.3325945,0,dh",
-      "review_star": 1,
+      "review_star": 2.8,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/95484451508537b40b6faea7244a7172fe231658?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/547ae20cf4923e670bcdba75604007995f49f135?original"
@@ -503,7 +503,7 @@
         "양식"
       ],
       "navermapurl": "https://map.naver.com/p/search/테라스키친?c=14,127.4272458,36.3277442,0,dh",
-      "review_star": 5,
+      "review_star": 3.7,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/9063c1d0e8029fd1cb0b2b0e760e1a1d1ae32633?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/8c00d7c19ce39354cc5a9c9b64fad149b38bd7a9?original",
@@ -520,7 +520,7 @@
         "분식"
       ],
       "navermapurl": "https://map.naver.com/p/search/만포분식?c=14,127.4294025,36.3475656,0,dh",
-      "review_star": 5,
+      "review_star": 3.8,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/9836f91735c242f75d9f40fb8571ba66c7e9a124?original"
       ],
@@ -535,7 +535,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/선라이즈 키친",
-      "review_star": 5,
+      "review_star": 4.2,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/4d2be9b723ebc6732ba60931bc21dc13faee7c7d?original"
       ],
@@ -550,7 +550,7 @@
         "일식"
       ],
       "navermapurl": "https://map.naver.com/p/search/로얄라멘?c=14,127.3698295,36.3533404,0,dh",
-      "review_star": 5,
+      "review_star": 4.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/9ff3b7ab9c85f2b640458b2df160f590e1c5a0c4?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/78f9587697d20a42598c5adbf2a6d23943bcb441?original"
@@ -566,7 +566,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/아자자야채치킨?c=14,127.3648175,36.3548495,0,dh",
-      "review_star": 5,
+      "review_star": 4.6,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/66281b258ae2225767b0e6680e55a9d2d5f33596?original"
       ],
@@ -581,7 +581,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/천리집?c=14,127.3511923,36.3918289,0,dh",
-      "review_star": 3,
+      "review_star": 3.9,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/228ab0fdf7d52735fb0576aee96abfab1aff27e8?original"
       ],
@@ -596,7 +596,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/통일면옥?c=14,127.4225401,36.3597474,0,dh",
-      "review_star": 3,
+      "review_star": 4.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/405e9933c5e69a4d4e95193a08de4bad57946d43?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/0630f083bef4cb6ba49ab118d0a72f7f9a97af59?original"
@@ -612,7 +612,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/김화칼국수?c=14,127.4310384,36.3320413,0,dh",
-      "review_star": 5,
+      "review_star": 4.3,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/dde9e2d53314f8e2b5a0935be266244a3049c2bf?original"
       ],
@@ -640,7 +640,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/장모네?c=14,127.4347186,36.3701997,0,dh",
-      "review_star": 4,
+      "review_star": 4.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/f2dcaf67a9a6a76046cf2cb8cd4cc2c3e0e63aaf?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/bb1d0c840ad9ae3b05394bf4b8630ee3803976c8?original",
@@ -657,7 +657,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/왕손곱창?c=14,127.4120707,36.3672464,0,dh",
-      "review_star": 4,
+      "review_star": 4.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/3a2ef8e1a0cae1aba74bc72166309daad9f3db2f?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/fbb0af0b7d89979507fbccb9148504013f4d4af0?original"
@@ -673,7 +673,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/손이가어죽칼국수?c=14,127.4224245,36.3298109,0,dh",
-      "review_star": 1,
+      "review_star": 4.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/84e109261e5bfa22069d628493916c788c3279b1?original"
       ],
@@ -688,7 +688,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/삼대째전통칼국수?c=14,127.4308642,36.3325551,0,dh",
-      "review_star": 5,
+      "review_star": 4.2,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/d51cabed44f6a8d0fb84e63530ed9a5f3338593a?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/93ab8e0a69c6d75f4d59e4a24acfb1ceeccab447?original"
@@ -704,7 +704,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/별난집?c=14,127.4307111,36.3309495,0,dh",
-      "review_star": 2,
+      "review_star": 4.0,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/c1f8036fe8deed8c056693076a9e4c22a76878ae?original"
       ],
@@ -719,7 +719,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/고향칼국수?c=14,127.4289874,36.3188227,0,dh",
-      "review_star": 3,
+      "review_star": 3.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/290898e00d34aa48ea70650a1389d83493dd266d?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/1d7e8488d3a31cb93c9221779ba98f17b43ec4ba?original"
@@ -735,7 +735,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/온유네닭매운탕?c=14,127.3985778,36.3493538,0,dh",
-      "review_star": 2,
+      "review_star": 3.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/212329c301041c91eac8db575800f2eabfd9e2b0?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/3e48ee11ed85ef4863cfa78565310635a1451381?original",
@@ -753,7 +753,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/유가옥설렁탕 본점?c=14,127.4274947,36.3593267,0,dh",
-      "review_star": 1,
+      "review_star": 4.0,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/e5b096e3419f1e94daf91f69d19b6eefc29e7d38?original"
       ],
@@ -768,7 +768,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/청춘국수",
-      "review_star": 5,
+      "review_star": 3.0,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/b9bd991f2df02628a3c816753cb379984ad1d4ec?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/ff96ff8f18107578c43062fcb049e07f6e422bb2?original"
@@ -784,7 +784,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/한밭칼국수?c=14,127.4235183,36.3312063,0,dh",
-      "review_star": 1,
+      "review_star": 3.9,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/c9d58d72e6cbb464bd1c43721cc6e1bce0cb590f?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/c1c733f9fef1597922f681f5341ef22fb7a01645?original"
@@ -801,7 +801,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/정식당",
-      "review_star": 5,
+      "review_star": 3.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/5ad5d6e5157d47075c03769bff78eadf25826d0b?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/508b0d66e22c01c0dbdb3032e8968459086fbb78?original",
@@ -825,7 +825,7 @@
         "간식"
       ],
       "navermapurl": "https://map.naver.com/p/search/극동제과?c=14,127.4256437,36.3173214,0,dh",
-      "review_star": 5,
+      "review_star": 4.8,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/a220ca587459fc3b87cc4f8dbd637005de2b28a3?original"
       ],
@@ -840,7 +840,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/설짬뽕?c=14,127.3344184,36.3049666,0,dh",
-      "review_star": 4,
+      "review_star": 4.2,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/8c3f7756a3c08ca930e64f15116a6e19fbea93f9?original"
       ],
@@ -855,7 +855,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/인만면옥?c=14,127.3800739,36.3164217,0,dh",
-      "review_star": 4,
+      "review_star": 3.9,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/bd921afe22dc7395be2cf20fb0ba763467ecdd74?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/caa661285ee2af87bc8d0772c2735937646d9ab7?original"
@@ -871,7 +871,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/박선희황태어글탕 월평직영점?c=14,127.3776802,36.3592780,0,dh",
-      "review_star": 5,
+      "review_star": 3.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/6e1f89f0ea83592c095c281039ad9660e027e8ba?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/08e2c674c3e2e38d7197d4882343df724fce263c?original"
@@ -887,7 +887,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/동방명주?c=14,127.3898515,36.3480544,0,dh",
-      "review_star": 1,
+      "review_star": 3.8,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/33e28adba4e8a6b9ef3f99d705db3af8fa68ce7e?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/456eb3fb40369f8c13c01c808b8c9de80a3fe17d?original",
@@ -911,7 +911,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/동천홍?c=14,127.3772853,36.3610295,0,dh",
-      "review_star": 4,
+      "review_star": 3.3,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/563f721953d75c0069db6744487834982629e687?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/2e5a955a889fe27f086d602a978fe80f6cc783d7?original"
@@ -927,7 +927,7 @@
         "간식"
       ],
       "navermapurl": "https://map.naver.com/p/search/정성을다하는베이커리?c=14,127.3997506,36.3192957,0,dh",
-      "review_star": 3,
+      "review_star": 4.7,
       "review_img": [
         "https://t1.daumcdn.net/local/review_placeapp/btqfgnz5LF4_gHCLow4KMlhgMkSIzLm4dk_img.jpg",
         "https://t1.daumcdn.net/local/review_placeapp/btqfeBZVd9i_YktkIJkaR8uF6DsKWeixe1_img.jpg",
@@ -946,7 +946,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/숯골원냉면 본점?c=14,127.3502376,36.3901319,0,dh",
-      "review_star": 1,
+      "review_star": 3.8,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/301cc2d10d58c4d1ea1a5da2c960219cf07ba26e?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/3fdb746f18375db23eff23f7f7096c1ca67da9b1?original",
@@ -963,7 +963,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/할머니묵집?c=14,127.3837799,36.4462597,0,dh",
-      "review_star": 3,
+      "review_star": 3.7,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/9df5527c0f8f0c06b1b4cb52024ecbc6f8fbdd8d?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/31cc34c3473aa011dcd414e2ec31ed5af7d73c8f?original",
@@ -985,7 +985,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/수통골감나무집 본점?c=14,127.2917495,36.3467894,0,dh",
-      "review_star": 5,
+      "review_star": 3.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/e929ade77275de486d4cde210f020e569114d44b?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/373f05e4b28d8214cf253029c49165c1e13eabb4?original"
@@ -1001,7 +1001,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/인생애짬뽕",
-      "review_star": 4,
+      "review_star": 3.6,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/e51ef6f35a3389ec0080fa06336d9222f0ad3f31?original"
       ],
@@ -1016,7 +1016,7 @@
         "일식"
       ],
       "navermapurl": "https://map.naver.com/p/search/와타요업 탄방본점?c=14,127.3913655,36.3418711,0,dh",
-      "review_star": 5,
+      "review_star": 4.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/9df8bd6783b590203b6db8efa4204db792eda149?original"
       ],
@@ -1031,7 +1031,7 @@
         "중식"
       ],
       "navermapurl": "https://map.naver.com/p/search/칼질만번짬뽕?c=14,127.3189963,36.3756029,0,dh",
-      "review_star": 2,
+      "review_star": 4.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/60a2419b2f7b0ebf4fa57858def3289a2ed34d16?original"
       ],
@@ -1046,7 +1046,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/제주고기국수하르방?c=14,127.2972760,36.3485194,0,dh",
-      "review_star": 5,
+      "review_star": 4.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/af6a08e276e42bda8a2b92ce227bb30663fb5cfd?original"
       ],
@@ -1061,7 +1061,7 @@
         "양식"
       ],
       "navermapurl": "https://map.naver.com/p/search/성심당 오븐스토리?c=14,127.3895366,36.3406490,0,dh",
-      "review_star": 4,
+      "review_star": 4.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/06e5f67ebe559cfaef40c6c15ff44c6def242502?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/81872c45c953ffc1a7852499344a067b3b5227b4?original",
@@ -1078,7 +1078,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/우동야?c=14,127.4272458,36.3277442,0,dh",
-      "review_star": 4,
+      "review_star": 3.9,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/8ddcf4a6dfde5f6884fdb2a6105c5aee6cf18193?original"
       ],
@@ -1106,7 +1106,7 @@
         "양식"
       ],
       "navermapurl": "https://map.naver.com/p/search/버거 베이트?c=14,127.3544999,36.3085772,0,dh",
-      "review_star": 5,
+      "review_star": 4.8,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/efaef53655ca7d09302a97b3d9d5f8f153b8c2d3?original"
       ],
@@ -1121,7 +1121,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/은영네 한우내장탕",
-      "review_star": 5,
+      "review_star": 4.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/d4650a9a059565871101a661c99e50b0a019693b?original"
       ],
@@ -1136,7 +1136,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/판암면옥?c=14,127.4520101,36.3188820,0,dh",
-      "review_star": 2,
+      "review_star": 3.6,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/a83b0e6c035fdf659c42abc6ca6deb1dd89185e4?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/22f32c389cb0d00fefd289fd5004b9a40797b6fb?original"
@@ -1153,7 +1153,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/사리원면옥?c=14,127.4265632,36.3261541,0,dh",
-      "review_star": 1,
+      "review_star": 2.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/b901e69e452e29ef031e86d6f300797ed532cdf7?original"
       ],

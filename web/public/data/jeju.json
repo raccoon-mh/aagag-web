@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "parsed_at": "2025-09-16T07:34:32.089165",
+    "parsed_at": "2025-09-16T08:46:53.592804",
     "total_groups": 103,
     "source": "제주",
     "has_actual_links": true,
@@ -227,8 +227,8 @@
       "link": "https://map.naver.com/p/entry/place/37178193?c=14.94,0,0,0,dh",
       "summary": "술 먹기 좋은 곳",
       "tags": [
-        "데이트",
         "체인",
+        "데이트",
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/남문숯불바베큐치킨 본점",
@@ -363,7 +363,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/명물?c=14,126.5185866,33.5174464,0,dh",
-      "review_star": 5,
+      "review_star": 3.6,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/186292637411e7d998026fc25b39dd0e4c6f546a?original"
       ],
@@ -417,7 +417,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/시골길?c=14,126.4947121,33.4888360,0,dh",
-      "review_star": 1,
+      "review_star": 3.3,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/bbf7852a38f94b0249db7c0d30009edd5b434356?original"
       ],
@@ -736,8 +736,8 @@
       "link": "https://map.naver.com/p/search/%EB%AA%85%ED%98%B8%EB%A7%88%EB%86%8D%EA%B0%88%EB%B9%84/place/1835331356?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
       "summary": "애객러 acho님 추천 고기 맛집",
       "tags": [
-        "단체",
         "체인",
+        "단체",
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/명호마농갈비 연동본점?c=14,126.4948630,33.4885958,0,dh",
@@ -765,9 +765,9 @@
       "link": "https://map.naver.com/p/search/%EB%B6%88%ED%8A%B9%EC%A0%95%EC%8B%9D%EB%8B%B9/place/1285282963?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
       "summary": "애객러 acho님 추천  술집",
       "tags": [
-        "양식",
         "체인",
-        "데이트"
+        "데이트",
+        "양식"
       ],
       "navermapurl": "https://map.naver.com/p/search/불특정식당?c=14,126.4826865,33.4856536,0,dh",
       "review_star": null,

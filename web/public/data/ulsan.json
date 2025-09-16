@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "parsed_at": "2025-09-16T07:26:57.897182",
+    "parsed_at": "2025-09-16T08:39:19.251003",
     "total_groups": 19,
     "source": "울산",
     "has_actual_links": true,
@@ -46,7 +46,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/덤",
-      "review_star": 4,
+      "review_star": 4.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/c206c4cc977673443cac121ce2faa5dfb76c3206?original"
       ],
@@ -61,7 +61,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/민들레분식?c=14,129.4241815,35.4857520,0,dh",
-      "review_star": 5,
+      "review_star": 4.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/1720db750ab1aa0342461975fc430fa59375e1d0?original"
       ],
@@ -76,7 +76,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/하동식당",
-      "review_star": 5,
+      "review_star": 4.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/7182aa7ab338b18c5f6ef1e135d4aa8314000318?original"
       ],
@@ -118,7 +118,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/시골돼지볶음찌개전문점",
-      "review_star": 5,
+      "review_star": 4.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/4f1746ae56df9e20174128b9f039eaabd51a89c2?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/04854946e0b84611c0a9b1da7d6b04af0f608db4?original"
@@ -147,7 +147,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/진영숯불갈비?c=14,129.2924197,35.5514675,0,dh",
-      "review_star": 3,
+      "review_star": 4.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/3957c9ad1b0cbf9cdb1ee2d912a252608f0a8fe4?original"
       ],
@@ -163,7 +163,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/생식본능?c=14,129.3031742,35.5572973,0,dh",
-      "review_star": 4,
+      "review_star": 4.2,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/92d3b64616ca234326645ec57731458c33c340c3?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/b21e5d50915b28f3a1bdd88c6b521519954ccc14?original"
@@ -180,7 +180,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/오시오막창 본점?c=14,129.3430901,35.5691630,0,dh",
-      "review_star": 5,
+      "review_star": 4.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/2933878eb9c916d8182005002396822c3ea5f596?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/74ec4d991ae5433a718044c41d6b3004dd1ccdd5?original",
@@ -198,7 +198,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/남도막창 본점?c=14,129.3432050,35.5693490,0,dh",
-      "review_star": 3,
+      "review_star": 2.7,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/01f00abcdfd13692249a81b54de4345280cbf26e?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/98508bf026472c6a8f1b809f90ca63d606b7485a?original"
@@ -214,7 +214,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/강원도 해장국?c=14,129.3445221,35.5804032,0,dh",
-      "review_star": 5,
+      "review_star": 3.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/5ac7960d3bdabc5c0e4d7e6dcb726c7bbb03a49c?original",
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/19790c829c3c7da6dc1a0513aabb4ae5866dec9b?original"
@@ -230,7 +230,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/뚱이 한우국밥?c=14,129.3468751,35.5697536,0,dh",
-      "review_star": 5,
+      "review_star": 4.5,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/11c6d78d0aa3a91c4a5675f51fd629e6bd35bb40?original"
       ],
@@ -245,7 +245,7 @@
         "양식"
       ],
       "navermapurl": "https://map.naver.com/p/search/행루즈수제버거?c=14,129.3250619,35.5468250,0,dh",
-      "review_star": 5,
+      "review_star": 4.1,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/d964b25259a77f4069d9813ba3c5be7d1f1012f9?original"
       ],
@@ -286,7 +286,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/진미만두?c=14,129.4314815,35.5149618,0,dh",
-      "review_star": 5,
+      "review_star": 4.0,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/333113426d9b6023010f54321fbba05bc029b81e?original"
       ],

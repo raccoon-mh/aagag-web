@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "parsed_at": "2025-09-16T07:30:26.200122",
+    "parsed_at": "2025-09-16T08:42:50.105243",
     "total_groups": 8,
     "source": "남양주",
     "has_actual_links": true,
@@ -55,9 +55,9 @@
       "link": "https://map.naver.com/p/search/%EC%84%9D%ED%99%94%EC%B4%8C%EA%B0%80%EB%93%A0/place/34519999?c=15.00,0,0,0,dh&isCorrectAnswer=true",
       "summary": "분위기 좋은 양식집",
       "tags": [
-        "양식",
         "단체",
-        "데이트"
+        "데이트",
+        "양식"
       ],
       "navermapurl": "https://map.naver.com/p/search/석화촌시크릿가든",
       "review_star": null,

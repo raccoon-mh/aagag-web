@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "parsed_at": "2025-09-16T07:41:08.345302",
+    "parsed_at": "2025-09-16T08:53:47.462623",
     "total_groups": 4,
     "source": "경상남도",
     "has_actual_links": true,
@@ -15,14 +15,14 @@
       "link": "진주시",
       "summary": "진주시",
       "tags": [
+        "창원시",
+        "고기집",
         "고기",
         "목살짬뽕",
-        "짬뽕",
-        "고기집",
-        "창원시"
+        "짬뽕"
       ],
       "navermapurl": "https://map.naver.com/p/search/양산시?c=14,129.037339,35.335049,0,dh",
-      "review_star": 3,
+      "review_star": 2.2,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/2ed34d446c9239542f84609b53912f854105c94a?original"
       ],
@@ -34,12 +34,12 @@
       "link": "성지원",
       "summary": "한정식 아리랑",
       "tags": [
-        "목살을 직화후 짬뽕에 올려주는 맛집",
         "진영 백천참숯갈비",
-        "3000도씨",
-        "마산 3000도씨",
         "초벌구이된 삼겹살이 맛있는 맛집",
-        "백천참숯갈비"
+        "마산 3000도씨",
+        "목살을 직화후 짬뽕에 올려주는 맛집",
+        "백천참숯갈비",
+        "3000도씨"
       ],
       "navermapurl": "https://map.naver.com/p/search/매콤이순진이 칼국수",
       "review_star": null,

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "parsed_at": "2025-09-16T07:32:33.631270",
+    "parsed_at": "2025-09-16T08:44:55.876120",
     "total_groups": 10,
     "source": "포천",
     "has_actual_links": true,
@@ -41,8 +41,8 @@
       "link": "https://map.naver.com/p/search/%EC%8A%A4%EC%8B%9C%EC%84%BC/place/1971240470?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
       "summary": "애객러 네모대가리님 추천 스시 맛집",
       "tags": [
-        "일식",
-        "데이트"
+        "데이트",
+        "일식"
       ],
       "navermapurl": "https://map.naver.com/p/search/스시센?c=14,127.1424784,37.8272982,0,dh",
       "review_star": null,
@@ -137,7 +137,7 @@
       "tags": [
         "한식"
       ],
-      "navermapurl": "https://map.naver.com/p/search/대도평양식돌김치찌개?c=14,127.1856546,37.8799202,0,dh",
+      "navermapurl": "https://map.naver.com/p/search/대도평양식돌김치찌개",
       "review_star": null,
       "review_img": [],
       "review_url": ""

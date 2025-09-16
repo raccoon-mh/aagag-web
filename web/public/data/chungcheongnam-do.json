@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "parsed_at": "2025-09-16T07:40:58.075256",
+    "parsed_at": "2025-09-16T08:53:36.795427",
     "total_groups": 4,
     "source": "충청남도",
     "has_actual_links": true,
@@ -15,13 +15,13 @@
       "link": "아산시",
       "summary": "아산시",
       "tags": [
-        "추어탕",
-        "아산시",
         "밀면",
+        "아산시",
+        "추어탕",
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/아산시?c=14,127.002474,36.790013,0,dh",
-      "review_star": 1,
+      "review_star": 1.8,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/618b04cbde013f479aca71331d9097747ac81af3?original"
       ],
@@ -33,11 +33,11 @@
       "link": "광시 연탄 갈비",
       "summary": "모산 수제비",
       "tags": [
-        "아산 신정식당",
-        "신정식당",
-        "옴팡집 추어탕",
         "현지인만 아는 추어탕맛집 파김치가 맛있는 맛집",
-        "70년된 밀면집 닭으로 육수를 우려 육수가 특이함 대기시간 20분"
+        "옴팡집 추어탕",
+        "신정식당",
+        "70년된 밀면집 닭으로 육수를 우려 육수가 특이함 대기시간 20분",
+        "아산 신정식당"
       ],
       "navermapurl": "https://map.naver.com/p/search/목화반점",
       "review_star": null,
@@ -50,13 +50,13 @@
       "link": "천안시",
       "summary": "천안시",
       "tags": [
-        "낚지볶음",
         "갈비탕",
-        "천안시",
-        "한식"
+        "한식",
+        "낚지볶음",
+        "천안시"
       ],
       "navermapurl": "https://map.naver.com/p/search/천안시?c=14,127.113892,36.815147,0,dh",
-      "review_star": 4,
+      "review_star": 3.6,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/30237f0082f6d6d55c4439fc19280ce5282ee480?original"
       ],
@@ -68,11 +68,11 @@
       "link": "메이탄",
       "summary": "덩더궁",
       "tags": [
-        "이정민갈비탕",
         "문어낙지볶음이 맛있으며 기본으로 제공되는 청국장도 맛있음",
-        "팔팔문어낙지볶음",
+        "맛에 반하고 양에 반하며싱싱한 재료만 사용",
         "천안 낙지볶음",
-        "맛에 반하고 양에 반하며싱싱한 재료만 사용"
+        "이정민갈비탕",
+        "팔팔문어낙지볶음"
       ],
       "navermapurl": "https://map.naver.com/p/search/명장 복집",
       "review_star": null,

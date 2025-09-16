@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "parsed_at": "2025-09-16T07:32:15.284684",
+    "parsed_at": "2025-09-16T08:44:38.440694",
     "total_groups": 34,
     "source": "파주",
     "has_actual_links": true,
@@ -62,7 +62,7 @@
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/반구정나루터집?c=14,126.7517522,37.8684220,0,dh",
-      "review_star": 5,
+      "review_star": 3.4,
       "review_img": [
         "http://t1.daumcdn.net/local/kakaomapPhoto/review/ddef6a42999c6ab3f88c8c295c69d1a58bbf100d?original"
       ],
@@ -197,8 +197,8 @@
       "link": "https://map.naver.com/p/entry/place/1023204114?c=15.00,0,0,0,dh",
       "summary": "애객러 네모대가리님 추천 양식 맛집",
       "tags": [
-        "양식",
-        "체인"
+        "체인",
+        "양식"
       ],
       "navermapurl": "https://map.naver.com/p/search/고급양식 파주점?c=14,126.7593514,37.7088573,0,dh",
       "review_star": null,
@@ -290,8 +290,8 @@
       "link": "https://map.naver.com/p/search/%EA%B4%91%ED%99%94%EB%AC%B8%EB%AF%B8%EC%A7%84%09%09%20%09%09/place/1989302764?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
       "summary": "애객러 네모대가리님 추천 보쌈들기름 막국수 맛집",
       "tags": [
-        "단체",
         "체인",
+        "단체",
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/광화문미진 파주직영점?c=14,126.7593326,37.7093618,0,dh",
@@ -318,8 +318,8 @@
       "link": "https://map.naver.com/p/entry/place/19176232?c=15.00,0,0,0,dh",
       "summary": "애객러 광사마님 추천 유니짜장 고기튀김 맛집",
       "tags": [
-        "술안주",
-        "중식"
+        "중식",
+        "술안주"
       ],
       "navermapurl": "https://map.naver.com/p/search/은하장?c=14,126.7860544,37.8585066,0,dh",
       "review_star": null,
@@ -411,8 +411,8 @@
       "link": "https://map.naver.com/p/search/A%20PLAT%20%EB%B2%84%EA%B1%B0%26%ED%8C%8C%EC%8A%A4%ED%83%80%20%ED%8C%8C%EC%A3%BC%EC%9A%B4%EC%A0%95%EB%B3%B8%EC%A0%90/place/35734702?c=15.00,0,0,0,dh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082110&locale=ko&svcName=map_pcv5&searchText=A%20PLAT%20%EB%B2%84%EA%B1%B0%26%ED%8C%8C%EC%8A%A4%ED%83%80%20%ED%8C%8C%EC%A3%BC%EC%9A%B4%EC%A0%95%EB%B3%B8%EC%A0%90",
       "summary": "애객러 먹태먹태깡깡님 추천 버거 파스타 맛집",
       "tags": [
-        "양식",
-        "데이트"
+        "데이트",
+        "양식"
       ],
       "navermapurl": "https://map.naver.com/p/search/A PLAT 버거파스타 파주운정본점?c=14,126.7370277,37.7105087,0,dh",
       "review_star": null,
@@ -451,8 +451,8 @@
       "link": "https://map.naver.com/p/entry/place/1652477422?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082114&locale=ko&svcName=map_pcv5",
       "summary": "애객러 먹태먹태깡깡님 추천 한식 맛집",
       "tags": [
-        "데이트",
         "단체",
+        "데이트",
         "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/차반?c=14,126.7370618,37.7103671,0,dh",
