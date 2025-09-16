@@ -7,12 +7,14 @@ import CardList from '@/components/CardList';
 import Footer from '@/components/Footer';
 import { useFetchData } from '@/hooks/useFetchData';
 import { useFavorites } from '@/hooks/useFavorites';
+import { SortOption } from '@/types/sort';
 
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedRegion, setSelectedRegion] = useState('seoul'); // 기본값을 첫 번째 지역으로 설정
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
+  const [sortOption, setSortOption] = useState<SortOption>({ field: 'none', order: 'asc', enabled: false });
 
   // 즐겨찾기 관리 (로컬 스토리지 연동)
   const { favorites, toggleFavorite, isFavorite, getCurrentRegionFavorites, updateTrigger } = useFavorites();
@@ -36,6 +38,10 @@ export default function Home() {
     setShowFavoritesOnly(false);
   };
 
+  const handleSortChange = (newSortOption: SortOption) => {
+    setSortOption(newSortOption);
+  };
+
   const handleTagFilter = (tag: string) => {
     setSelectedTags(prev =>
       prev.includes(tag)
@@ -52,11 +58,13 @@ export default function Home() {
         onRegionChange={handleRegionChange}
         onTagFilter={handleTagFilter}
         onFavoritesOnly={setShowFavoritesOnly}
+        onSortChange={handleSortChange}
         selectedRegion={selectedRegion}
         selectedTags={selectedTags}
         restaurants={restaurants}
         isLoading={dataLoading}
         showFavoritesOnly={showFavoritesOnly}
+        sortOption={sortOption}
       />
       <main className="flex-1">
         <CardList
@@ -67,6 +75,7 @@ export default function Home() {
           selectedTags={selectedTags}
           restaurants={restaurants}
           showFavoritesOnly={showFavoritesOnly}
+          sortOption={sortOption}
         />
       </main>
       <Footer />

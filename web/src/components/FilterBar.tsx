@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useMemo } from 'react';
-import { Search, Filter, X, Heart } from 'lucide-react';
+import { Search, Filter, X, Heart, ArrowUpDown } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
@@ -9,17 +9,20 @@ import { Badge } from '@/components/ui/badge';
 import { Restaurant } from '@/data/restaurants';
 import { useAvailableRegions, useFetchData } from '@/hooks/useFetchData';
 import { useFavorites } from '@/hooks/useFavorites';
+import { SortOption, SORT_OPTIONS } from '@/types/sort';
 
 interface FilterBarProps {
     onSearch: (query: string) => void;
     onRegionChange: (regionKey: string) => void;
     onTagFilter: (tag: string) => void;
     onFavoritesOnly?: (showOnly: boolean) => void;
+    onSortChange?: (sortOption: SortOption) => void;
     selectedRegion: string;
     selectedTags: string[];
     restaurants: Restaurant[];
     isLoading?: boolean;
     showFavoritesOnly?: boolean;
+    sortOption?: SortOption;
 }
 
 export default function FilterBar({
@@ -27,11 +30,13 @@ export default function FilterBar({
     onRegionChange,
     onTagFilter,
     onFavoritesOnly,
+    onSortChange,
     selectedRegion,
     selectedTags,
     restaurants,
     isLoading = false,
-    showFavoritesOnly = false
+    showFavoritesOnly = false,
+    sortOption
 }: FilterBarProps) {
     const [searchQuery, setSearchQuery] = useState('');
     const [showFilters, setShowFilters] = useState(false);
@@ -53,6 +58,22 @@ export default function FilterBar({
 
     const removeTag = (tagToRemove: string) => {
         onTagFilter(tagToRemove);
+    };
+
+    const handleSortChange = (value: string) => {
+        const option = SORT_OPTIONS.find(opt => opt.value === value);
+        if (option && onSortChange) {
+            onSortChange({
+                field: option.field,
+                order: option.order,
+                enabled: option.field !== 'none'
+            });
+        }
+    };
+
+    const getCurrentSortValue = () => {
+        if (!sortOption || !sortOption.enabled) return 'none';
+        return `${sortOption.field}-${sortOption.order}`;
     };
 
     // 실제 데이터에서 태그를 동적으로 추출
@@ -79,7 +100,7 @@ export default function FilterBar({
     return (
         <div className="w-full bg-background border-b">
             <div className="container py-4">
-                {/* Top Row: Region + Search */}
+                {/* Top Row: Region + Search + Sort */}
                 <div className="flex flex-col md:flex-row gap-4 mb-4">
                     {/* Region Filter - 모바일에서는 위, 데스크톱에서는 왼쪽 */}
                     <div className="w-full md:w-48 flex-shrink-0">
@@ -113,6 +134,24 @@ export default function FilterBar({
                             검색
                         </Button>
                     </form>
+
+                    {/* Sort Filter */}
+                    {onSortChange && (
+                        <div className="w-full md:w-48 flex-shrink-0">
+                            <Select value={getCurrentSortValue()} onValueChange={handleSortChange}>
+                                <SelectTrigger>
+                                    <SelectValue placeholder="정렬 기준" />
+                                </SelectTrigger>
+                                <SelectContent>
+                                    {SORT_OPTIONS.map((option) => (
+                                        <SelectItem key={option.value} value={option.value}>
+                                            {option.label}
+                                        </SelectItem>
+                                    ))}
+                                </SelectContent>
+                            </Select>
+                        </div>
+                    )}
                 </div>
 
                 {/* Filter Toggle */}

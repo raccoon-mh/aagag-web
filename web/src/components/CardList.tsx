@@ -4,6 +4,7 @@ import { useMemo, useEffect } from 'react';
 import { Restaurant } from '@/data/restaurants';
 import VirtualizedCardList from './VirtualizedCardList';
 import { useFetchData } from '@/hooks/useFetchData';
+import { SortOption } from '@/types/sort';
 
 interface CardListProps {
     region?: string;
@@ -13,6 +14,7 @@ interface CardListProps {
     selectedTags?: string[];
     restaurants?: Restaurant[];
     showFavoritesOnly?: boolean;
+    sortOption?: SortOption;
 }
 
 export default function CardList({
@@ -22,7 +24,8 @@ export default function CardList({
     searchQuery = '',
     selectedTags = [],
     restaurants: propRestaurants,
-    showFavoritesOnly = false
+    showFavoritesOnly = false,
+    sortOption
 }: CardListProps) {
     const {
         data: fetchedRestaurants,
@@ -37,8 +40,27 @@ export default function CardList({
     // props로 받은 데이터가 있으면 사용, 없으면 fetch한 데이터 사용
     const allRestaurants = propRestaurants || fetchedRestaurants;
 
-    // 필터링 로직 - useMemo로 최적화
-    const filteredRestaurants = useMemo(() => {
+    // 정렬 함수
+    const sortRestaurants = (restaurants: Restaurant[], sortOption?: SortOption): Restaurant[] => {
+        if (!sortOption || !sortOption.enabled || sortOption.field === 'none') return restaurants;
+
+        return [...restaurants].sort((a, b) => {
+            let comparison = 0;
+
+            if (sortOption.field === 'name') {
+                comparison = a.name.localeCompare(b.name, 'ko');
+            } else if (sortOption.field === 'rating') {
+                const ratingA = a.review_star || 0;
+                const ratingB = b.review_star || 0;
+                comparison = ratingA - ratingB;
+            }
+
+            return sortOption.order === 'desc' ? -comparison : comparison;
+        });
+    };
+
+    // 필터링 및 정렬 로직 - useMemo로 최적화
+    const filteredAndSortedRestaurants = useMemo(() => {
         if (!allRestaurants.length) return [];
 
         const filtered = allRestaurants.filter((restaurant) => {
@@ -58,8 +80,9 @@ export default function CardList({
             return matchesSearch && matchesTags && matchesFavorites;
         });
 
-        return filtered;
-    }, [allRestaurants, searchQuery, selectedTags, showFavoritesOnly, favorites]);
+        // 정렬 적용
+        return sortRestaurants(filtered, sortOption);
+    }, [allRestaurants, searchQuery, selectedTags, showFavoritesOnly, favorites, sortOption]);
 
     if (loading) {
         return (
@@ -109,7 +132,7 @@ export default function CardList({
         );
     }
 
-    if (filteredRestaurants.length === 0) {
+    if (filteredAndSortedRestaurants.length === 0) {
         return (
             <div className="container py-16">
                 <div className="text-center">
@@ -129,7 +152,7 @@ export default function CardList({
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
                     <div>
                         <h2 className="text-2xl font-semibold mb-2">
-                            {source} 맛집 {filteredRestaurants.length}개
+                            {source} 맛집 {filteredAndSortedRestaurants.length}개
                         </h2>
                         <p className="text-muted-foreground">
                             별점 및 사진은 카카오 맵의 데이터를 사용합니다.
@@ -145,7 +168,7 @@ export default function CardList({
             </div>
 
             <VirtualizedCardList
-                restaurants={filteredRestaurants}
+                restaurants={filteredAndSortedRestaurants}
                 onFavorite={onFavorite}
                 favorites={favorites}
                 itemsPerPage={12}

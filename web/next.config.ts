@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
     ignoreDuringBuilds: true,
   },
   images: {
+    unoptimized: true, // 정적 내보내기에서 이미지 최적화 비활성화
     remotePatterns: [
       {
         hostname: '**',
