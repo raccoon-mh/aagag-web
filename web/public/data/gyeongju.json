@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:29:18.966111",
+    "total_groups": 1,
+    "source": "경주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "박신우제면소",
+      "location": "경북 경주시 원효로 130 1층",
+      "link": "https://map.naver.com/p/entry/place/1803011937?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202508121655&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 왕만두님 추천 우동 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/박신우제면소?c=14,129.2150747,35.8418070,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:30:54.127366",
+    "total_groups": 13,
+    "source": "수원",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "노란황태 본점",
+      "location": "경기 수원시 영통구 센트럴파크로127번길 33",
+      "link": "https://map.naver.com/p/search/%ED%95%98%ED%83%9C%EC%9A%B0%EB%85%B8%EB%9E%80%ED%99%A9%ED%83%9C/place/37336476?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "황태해장국 황태구이",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/노란황태 본점?c=14,127.0546715,37.2947541,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "미향해장국",
+      "location": "경기 수원시 권선구 매송고색로 735",
+      "link": "https://map.naver.com/p/search/%EB%AF%B8%ED%96%A5%ED%95%B4%EC%9E%A5%EA%B5%AD/place/38486893?c=13.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 정예인님 추천 선지국 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/미향해장국?c=14,126.9847044,37.2521454,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c0d875d25bd1b104a8cff15df9309e95e50b0511?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1415298717"
+    },
+    {
+      "name": "88숯불갈비",
+      "location": "경기 수원시 장안구 수성로304번길 362 1층",
+      "link": "https://map.naver.com/p/search/88%EC%88%AF%EB%B6%88%EA%B0%88%EB%B9%84/place/1262886268?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/88숯불갈비",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fdd8e25a6133292df10e6a3dea076303659e8c21?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/81fbbfeb2926c2057245b9c47448a163d3aa6871?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1135988612"
+    },
+    {
+      "name": "석산정",
+      "location": "경기 수원시 권선구 정조로388번길 77",
+      "link": "https://map.naver.com/p/entry/place/20601274?c=15.00,0,0,0,dh",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/석산정",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fa8baa0e63f52496422b8e5f6a6554d0c21cbf70?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9108210"
+    },
+    {
+      "name": "이나경송탄부대찌개",
+      "location": "경기 수원시 팔달구 효원로307번길 47",
+      "link": "https://map.naver.com/p/entry/place/37926756?c=15.00,0,0,0,dh",
+      "summary": "애객러 휘어라등골핑님 추천 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이나경송탄부대찌개?c=14,127.0359247,37.2630180,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/1684726713"
+    },
+    {
+      "name": "아빠회사가",
+      "location": "경기 수원시 영통구 청명남로50번길 510 1F",
+      "link": "https://map.naver.com/p/search/%EC%95%84%EB%B9%A0%ED%9A%8C%EC%82%AC%EA%B0%80/place/1794236025?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 Aggegg님 추천 회 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/아빠회사가",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e57b4c0ef3be4486c454225dab60926106055d7f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1247755630"
+    },
+    {
+      "name": "가보정",
+      "location": "경기 수원시 팔달구 장다리로 282 의성빌딩",
+      "link": "https://map.naver.com/p/search/%EA%B0%80%EB%B3%B4%EC%A0%95/place/11567981?c=17.40,0,0,0,dh&placePath=/home",
+      "summary": "수원 갈비하면 이곳",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/가보정?c=14,127.0287049,37.2742124,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/47c9ea99df9aa4fb4dd03a1743960556405748fb?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/0a8c4eb4924802cd72bd467a5944e710a921d077?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/84c859385143a289eafa98113396e980027c03da?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bdb072ba2aea87cbb02aca09cf0f8d77bea8f851?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5d4b2a295872aaeb99050987e8dc7f201b516e3e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2ef16d7eb44d5be438ec0a9bf3f2f249dafe8a41?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/81a745b7fcebef8d31fb7387e5d72fefa8daa4b2?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8108863"
+    },
+    {
+      "name": "유치회관",
+      "location": "경기 수원시 팔달구 효원로292번길 67",
+      "link": "https://map.naver.com/p/entry/place/19878532?c=17.40,0,0,0,dh",
+      "summary": "해장국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/유치회관?c=14,127.0321890,37.2587773,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/cf9ee16b1c1ed17689b8f82cee1b6022356b6e3e?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10684837"
+    },
+    {
+      "name": "본수원갈비",
+      "location": "경기 수원시 팔달구 중부대로223번길 41",
+      "link": "https://map.naver.com/p/entry/place/11721925?c=17.40,0,0,0,dh",
+      "summary": "웨이팅 있는 갈비집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/본수원갈비?c=14,127.0405519,37.2780403,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9dd0fc4c7d7a11a5bf8e6533664de436582bb03c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8f285dc013384fe86ad0d8acb7f36108807934b0?original"
+      ],
+      "review_url": "https://place.map.kakao.com/7908963"
+    },
+    {
+      "name": "송자네 순대국",
+      "location": "경기 수원시 장안구 영화로26번길 18",
+      "link": "https://map.naver.com/p/entry/place/37814725?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 777님 추천 순대국 맛집 방문 전화필수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/송자네 순대국?c=14,127.0102329,37.2895829,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bbb742d0332d00ed0e8378f33358fb639cb88794?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1900521419"
+    },
+    {
+      "name": "명가네 순대국",
+      "location": "경기 수원시 권선구 금호로250번길 124 1층",
+      "link": "https://map.naver.com/p/search/%EB%AA%85%EA%B0%80%EB%84%A4%20%EC%88%9C%EB%8C%80%EA%B5%AD/place/18058826?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 777님 추천 순대국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/명가네 순대국",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/41e92168c9a31e61ca406fceadc472994791b9bd?original"
+      ],
+      "review_url": "https://place.map.kakao.com/901314823"
+    },
+    {
+      "name": "시골밥상생선구이전문",
+      "location": "경기 수원시 팔달구 동말로 963 1층",
+      "link": "https://map.naver.com/p/entry/place/1217866007?c=15.00,0,0,0,dh",
+      "summary": "맛있는 생선구이 한상",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/시골밥상생선구이전문",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b71c81fd6abe03103189d633558422cf11ea5034?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5c141914e9a0aa633f22af30145813324aa7c56f?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/43e3ebbe5a1bd06337f1e5baaad365503b03ea7f?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/14e1f42caec3db7ffd8cbf5669a1df3de3fcba47?original"
+      ],
+      "review_url": "https://place.map.kakao.com/25741644"
+    },
+    {
+      "name": "송죽약방",
+      "location": "경기 수원시 장안구 경수대로994번길 49 102호",
+      "link": "바로가기",
+      "summary": "애객러 슈퍼초흰둥이님 추천 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/송죽약방?c=14,127.0045052,37.3075860,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/11b3982fd18943c55e2135c68eb5f6b94c3fdf43?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1523414344"
+    }
+  ]
+}

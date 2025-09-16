@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:30:07.971175",
+    "total_groups": 1,
+    "source": "경기 광주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "최미자소머리국밥",
+      "location": "경기 광주시 곤지암읍 도척로 58",
+      "link": "https://map.naver.com/p/search/%EC%9B%90%EC%A1%B0%EC%B5%9C%EB%AF%B8%EC%9E%90%EC%86%8C%EB%A8%B8%EB%A6%AC%EA%B5%AD%EB%B0%A5/place/11727438?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "진하고 깔끔한 국물",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/최미자소머리국밥?c=14,127.3354797,37.3461324,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

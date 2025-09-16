@@ -1,0 +1,409 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:37:12.196522",
+    "total_groups": 30,
+    "source": "익산",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "영빈회관",
+      "location": "전북 익산시 인북로3길 38",
+      "link": "https://map.naver.com/p/entry/place/12806006?c=15.00,0,0,0,dh&placePath=/photo",
+      "summary": "정식이냐 우럭탕이냐 고민해보세요",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/영빈회관?c=14,126.9489245,35.9389208,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "태백 칼국수",
+      "location": "전북 익산시 중앙로 151",
+      "link": "https://map.naver.com/p/entry/place/17202348?c=15.00,0,0,0,dh",
+      "summary": "칼국수와 만두 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태백 칼국수?c=14,126.9629270,35.9366224,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "제일고기국수",
+      "location": "전북 익산시 중앙로9길 161",
+      "link": "https://map.naver.com/p/entry/place/37008840?c=15.00,0,0,0,dh",
+      "summary": "생활의달인 국수편",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/제일고기국수",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "들머리 고향순대",
+      "location": "전북 익산시 하나로11길 4010",
+      "link": "https://map.naver.com/p/entry/place/17244663?c=15.00,0,0,0,dh",
+      "summary": "순대국밥",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/들머리 고향순대",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "동서네낙지 본점",
+      "location": "전북 익산시 인북로46길 47",
+      "link": "https://map.naver.com/p/search/%EB%8F%99%EC%84%9C%EB%84%A4%EB%82%99%EC%A7%80(%EB%B3%B8%EC%A0%90)/place/17246107?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "볶음밥 꼭 드세요",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/동서네낙지 본점?c=14,126.9658065,35.9512876,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "조선옥",
+      "location": "전북 익산시 고봉로 341",
+      "link": "https://map.naver.com/p/entry/place/1231993188?c=15.00,0,0,0,dh",
+      "summary": "정갈함 꽃게장 정식도 좋고 전골도 좋음",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/조선옥?c=14,126.9710344,35.9623682,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "백제가든",
+      "location": "전북 익산시 선화로65길 3410 백제가든",
+      "link": "https://map.naver.com/p/entry/place/17254115?c=15.00,0,0,0,dh",
+      "summary": "닭볶음탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/백제가든",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "별미아구",
+      "location": "전북 익산시 하나로4길 7",
+      "link": "https://map.naver.com/p/entry/place/17252940?c=15.00,0,0,0,dh",
+      "summary": "아구찜",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/별미아구?c=14,126.9822953,35.9595363,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "배불뚝집 본점",
+      "location": "전북 익산시 하나로6길 19",
+      "link": "https://map.naver.com/p/entry/place/17254120?c=15.00,0,0,0,dh",
+      "summary": "부대찌개",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/배불뚝집 본점?c=14,126.9816908,35.9610171,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "부송국수 본점",
+      "location": "전북 익산시 부송로 19",
+      "link": "https://map.naver.com/p/search/%EB%B6%80%EC%86%A1%EA%B5%AD%EC%88%98/place/12815266?c=13.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "잔치 비빔 국수 수제비",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/부송국수 본점?c=14,126.9922908,35.9536163,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "본향 본점",
+      "location": "전북 익산시 왕궁면 금광길 5417",
+      "link": "https://map.naver.com/p/entry/place/12012620?c=13.00,0,0,0,dh",
+      "summary": "마 음식 전문 마약밥이 맛있음",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/본향 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "하나로남촌칼국수",
+      "location": "전북 익산시 하나로 524",
+      "link": "https://map.naver.com/p/entry/place/647289316?c=13.00,0,0,0,dh",
+      "summary": "만두 칼국수 보쌈 다 맛있음",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/하나로남촌칼국수?c=14,126.9805364,35.9670919,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "서해홍탁",
+      "location": "전북 익산시 배산로 18",
+      "link": "https://map.naver.com/p/entry/place/1693337498?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "홍어 전문점",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/서해홍탁?c=14,126.9368831,35.9394582,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "동해안",
+      "location": "전북 익산시 배산로 714 동해빌딩",
+      "link": "https://map.naver.com/p/entry/place/32239625?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "해신탕 물회 주차어려움",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/동해안",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "청량리꼬기냉면나주곰탕익산본점",
+      "location": "전북 익산시 선화로6길 2",
+      "link": "https://map.naver.com/p/search/%EC%B2%AD%EB%9F%89%EB%A6%AC%20%EA%BC%AC%EA%B8%B0%EB%83%89%EB%A9%B4/place/35263170?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "냉면에 숯불고기",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청량리꼬기냉면나주곰탕익산본점?c=14,126.9353813,35.9502046,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "대야식당",
+      "location": "전북 익산시 주현로1길 16",
+      "link": "https://map.naver.com/p/entry/place/1765652328?c=15.00,0,0,0,dh",
+      "summary": "꺠끗한 국물의 소머리국밥",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대야식당?c=14,126.9538302,35.9316093,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "토담속으로",
+      "location": "전북 익산시 서동로22길 19",
+      "link": "https://map.naver.com/p/entry/place/17216712?c=15.00,0,0,0,dh",
+      "summary": "한방능이백숙 먹은 후 약찰밥죽",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/토담속으로?c=14,126.9700901,35.9354864,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "따봉식당",
+      "location": "전북 익산시 중앙로 170",
+      "link": "https://map.naver.com/p/entry/place/11712289?c=15.00,0,0,0,dh",
+      "summary": "김치찌개  돼지주물럭 가성비 좋음",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/따봉식당?c=14,126.9650886,35.9358469,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "물머리집가든",
+      "location": "전북 익산시 금마면 고도1길 565",
+      "link": "https://map.naver.com/p/entry/place/34269018?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "탕 전문 새우 빠가토끼 등 예약필수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/물머리집가든",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "원조미륵산순두부",
+      "location": "전북 익산시 금마면 미륵사지로 397 기양리 13518번지",
+      "link": "https://map.naver.com/p/entry/place/1725900482?c=15.00,0,0,0,dh",
+      "summary": "순두부 전문점",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원조미륵산순두부?c=14,127.0242832,36.0115631,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "한씨네대가추어탕",
+      "location": "전북 익산시 황등면 황등로 5",
+      "link": "https://map.naver.com/p/entry/place/30811302?c=15.00,0,0,0,dh",
+      "summary": "진한 추어탕 국물",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한씨네대가추어탕?c=14,126.9488086,35.9938489,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "옛날 손 수제비",
+      "location": "전북 익산시 인북로58길 3",
+      "link": "https://map.naver.com/p/entry/place/17220783?c=15.00,0,0,0,dh",
+      "summary": "수제비 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/옛날 손 수제비?c=14,126.9590555,35.9521987,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "고려당",
+      "location": "전북 익산시 중앙로 52",
+      "link": "https://map.naver.com/p/search/%EC%9D%B5%EC%82%B0%20%EA%B3%A0%EB%A0%A4%EB%8B%B9/place/17205548?c=10.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 상식적으로님 추천 분식 맛집",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고려당?c=14,126.9523411,35.9383050,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "청산유수",
+      "location": "전북 익산시 황등면 황등로 208",
+      "link": "https://map.naver.com/p/entry/place/32240745?c=10.00,0,0,0,dh",
+      "summary": "애객러 상식적으로님 추천 국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청산유수?c=14,126.9427482,36.0102893,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "내손만두",
+      "location": "익산시 중앙로1길 2414 청년몰 1층 104호",
+      "link": "https://map.naver.com/p/entry/place/1617842705?c=10.00,0,0,0,dh",
+      "summary": "애객러 상식적으로님 추천 만두 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/내손만두",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "영미만두",
+      "location": "전북 익산시 익산대로20길 81",
+      "link": "https://map.naver.com/p/search/%EC%98%81%EB%AF%B8%EB%A7%8C%EB%91%90/place/17201211?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 상식적으로님 추천 만두 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/영미만두",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "다사랑치킨피자 원대본점",
+      "location": "전북 익산시 동서로5길 94",
+      "link": "https://map.naver.com/p/search/%EB%8B%A4%EC%82%AC%EB%9E%91%EC%B9%98%ED%82%A8%20%EB%B3%B8%EC%A0%90/place/1718984577?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 상식적으로님 추천 치킨 맛집",
+      "tags": [
+        "술안주",
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/다사랑치킨피자 원대본점?c=14,126.9577338,35.9607983,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "소룡각",
+      "location": "전북 익산시 무왕로4길 1217",
+      "link": "https://map.naver.com/p/search/%EC%86%8C%EB%A3%A1%EA%B0%81/place/37841103?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 상식적으로님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/소룡각",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "금곡통닭",
+      "location": "전북 익산시 평동로11길 12",
+      "link": "https://map.naver.com/p/search/%EA%B8%88%EA%B3%A1%ED%86%B5%EB%8B%AD/place/38410502?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "시장스타일 꺠통닭",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/금곡통닭?c=14,126.9533643,35.9319473,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/10883083"
+    },
+    {
+      "name": "진사골 돼지국밥",
+      "location": "전북 익산시 고봉로 23",
+      "link": "https://map.naver.com/p/search/%EC%A7%84%EC%82%AC%EA%B3%A8%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5/place/1796964867?c=15.00,0,0,0,dh&placePath=/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202506021101&locale=ko&svcName=map_pcv5&searchText=%EC%A7%84%EC%82%AC%EA%B3%A8%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5",
+      "summary": "애객러 하늘3님 추천 돼지국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/진사골 돼지국밥?c=14,126.9615286,35.9358333,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

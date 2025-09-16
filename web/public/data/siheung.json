@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:30:58.275537",
+    "total_groups": 1,
+    "source": "시흥",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "홍가네감자탕 본점",
+      "location": "경기 시흥시 함송로14번길 135",
+      "link": "https://map.naver.com/p/entry/place/37204437?c=13.00,0,0,0,dh&placePath=/home",
+      "summary": "무청 추가 추천",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/홍가네감자탕 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

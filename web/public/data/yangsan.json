@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:39:51.527863",
+    "total_groups": 2,
+    "source": "양산",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "우리농원",
+      "location": "경남 양산시 중앙로 300",
+      "link": "https://map.naver.com/p/entry/place/15637857?c=15.00,0,0,0,dh",
+      "summary": "갈비탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우리농원?c=14,129.0436598,35.3567711,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "기장꼼장어",
+      "location": "경남 양산시 삼성5길 28",
+      "link": "https://map.naver.com/p/search/%EA%B8%B0%EC%9E%A5%EA%BC%BC%EC%9E%A5%EC%96%B4%20%EC%96%91%EC%82%B0/place/21740743?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 네모대가리님 추천 꼼장어 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/기장꼼장어?c=14,129.0403406,35.3580143,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

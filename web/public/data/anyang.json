@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:31:17.712802",
+    "total_groups": 10,
+    "source": "안양",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "두꺼비 부대찌게",
+      "location": "경기 안양시 만안구 안양로147번길 11",
+      "link": "https://map.naver.com/p/entry/place/19239964?c=15.00,0,0,0,dh",
+      "summary": "애객러 생산관리님 추천 부대찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/두꺼비 부대찌게?c=14,126.9300867,37.3871242,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/566bd1b99a86858ecfcdd9530a2155a1159d602a?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8275715"
+    },
+    {
+      "name": "섬나루바지락칼국수",
+      "location": "경기 안양시 동안구 안양판교로 51 장원가든",
+      "link": "https://map.naver.com/p/entry/place/21152855?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 드림키퍼님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/섬나루바지락칼국수?c=14,126.9810438,37.3984958,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/239996853"
+    },
+    {
+      "name": "만복순대국",
+      "location": "경기 안양시 만안구 양화로 159",
+      "link": "https://map.naver.com/p/search/%EC%84%9D%EC%88%98%EB%8F%99%20%EB%A7%8C%EB%B3%B5%EC%88%9C%EB%8C%80%EA%B5%AD/place/1893181676?c=14.89,0,0,0,dh&placePath=/home",
+      "summary": "애객러 고자라니님 추천 순대국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/만복순대국?c=14,126.9079148,37.4065094,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b88bae8c90f34f8773e3dcfa75b14e27b47bc67a?original"
+      ],
+      "review_url": "https://place.map.kakao.com/18452823"
+    },
+    {
+      "name": "원조 옹심이 메밀칼국수",
+      "location": "경기 안양시 동안구 경수대로 915 1층 102호",
+      "link": "https://map.naver.com/p/entry/place/21643069?c=14.89,0,0,0,dh",
+      "summary": "애객러 고자라니님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원조 옹심이 메밀칼국수?c=14,126.9347643,37.3976447,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c77c22154b817f954510f64ead08b386ca4d847d?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1044332596"
+    },
+    {
+      "name": "흑대장 흑염소",
+      "location": "경기 안양시 동안구 평촌대로476번길 70",
+      "link": "https://map.naver.com/p/entry/place/35075699?c=14.89,0,0,0,dh",
+      "summary": "애객러 고자라니님 추천 흑염소 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/흑대장 흑염소?c=14,126.9517027,37.4145415,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ea4ce0c09ec3434ac5af29bd7c7d30fe4b39eb99?original"
+      ],
+      "review_url": "https://place.map.kakao.com/35083451"
+    },
+    {
+      "name": "관양골 맛있는 칼국수",
+      "location": "경기 안양시 동안구 관평로 3126",
+      "link": "https://map.naver.com/p/search/%EA%B4%80%EC%96%91%EA%B3%A8%EB%A7%9B%EC%9E%88%EB%8A%94%EC%B9%BC%EA%B5%AD%EC%88%98/place/18652990?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 고자라니님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/관양골 맛있는 칼국수",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "다감",
+      "location": "경기 안양시 동안구 관평로305번길 9",
+      "link": "https://map.naver.com/p/entry/place/18662055?c=15.00,0,0,0,dh",
+      "summary": "애객러 고자라니님 추천 스시 맛집",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/다감?c=14,126.9565126,37.4037528,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/09cbbc195553a3a53a42725998de5c611be0666c?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11022912"
+    },
+    {
+      "name": "큰손",
+      "location": "경기 안양시 동안구 관평로305번길 36",
+      "link": "https://map.naver.com/p/entry/place/19941302?c=15.00,0,0,0,dh",
+      "summary": "애객러 고자라니님 추천 닭볶음탕 맛집",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/큰손?c=14,126.9551220,37.4039335,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5bf2f6d208bfa0ef3c9dcb7540d62c576f443fcd?original"
+      ],
+      "review_url": "https://place.map.kakao.com/13110215"
+    },
+    {
+      "name": "대명곱창",
+      "location": "경기 안양시 동안구 관악대로 4191",
+      "link": "https://map.naver.com/p/search/%EC%9D%B8%EB%8D%95%EC%9B%90%20%EB%8C%80%EB%AA%85%EA%B3%B1%EC%B0%BD/place/18657724?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 고자라니님 추천 곱창 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대명곱창",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/39acf3e52127de19114db1a54a44598ba0e358f4?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c11973e2c5e3efbb80200c0e065d72f1b6b78a7e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/96a780a6c1e3b1f49aa037610c365efada1208c2?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3d1e2157627b2d5d4c38104ba4925fb616755bad?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/12b79817d5e566b0c5864ce8a6c70f0e73d5a8cf?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/501340360daff568e4f41ffdfd10e1a53106b67d?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8859337"
+    },
+    {
+      "name": "한끼의 민족",
+      "location": "경기 안양시 만안구 만안로 231",
+      "link": "https://map.naver.com/p/entry/place/1054392996?c=13.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509041545&locale=ko&svcName=map_pcv5",
+      "summary": "안양역 지하상가 푸드코트 가성비 좋은 분식집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한끼의 민족?c=14,126.9217369,37.4007941,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/1330164401"
+    }
+  ]
+}

@@ -15,19 +15,19 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: '애객 세끼 With Web Finder ',
-  description: 'Orgin - https://docs.google.com/spreadsheets/d/1VkCrA0KODJUfr89z8vnWNDJLFz2AtOSGG-JsBLzdGww',
+  description: 'https://github.com/raccoon-mh/aagag-web',
   keywords: ['맛집', '식당', '음식점', '검색', '추천', '한국', '서울', '지역별'],
   authors: [{ name: '애객 세끼 With Web Finder Team' }],
   openGraph: {
     title: '애객 세끼 With Web Finder ',
-    description: 'Orgin - https://docs.google.com/spreadsheets/d/1VkCrA0KODJUfr89z8vnWNDJLFz2AtOSGG-JsBLzdGww',
+    description: 'https://github.com/raccoon-mh/aagag-web',
     type: 'website',
     locale: 'ko_KR',
   },
   twitter: {
     card: 'summary_large_image',
     title: '애객 세끼 With Web Finder ',
-    description: 'Orgin - https://docs.google.com/spreadsheets/d/1VkCrA0KODJUfr89z8vnWNDJLFz2AtOSGG-JsBLzdGww',
+    description: 'https://github.com/raccoon-mh/aagag-web',
   },
 };
 

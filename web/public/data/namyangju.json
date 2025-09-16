@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:30:26.200122",
+    "total_groups": 8,
+    "source": "남양주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "목향원",
+      "location": "경기 남양주시 덕릉로1071번길 3411",
+      "link": "https://map.naver.com/p/entry/place/35657794?c=12.00,0,0,0,dh",
+      "summary": "가든식 쌈밥집 어른 모시고 식사하기 좋음",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/목향원",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "한송",
+      "location": "경기 남양주시 송산로 150",
+      "link": "https://map.naver.com/p/search/%ED%95%9C%EC%86%A1%20%EC%B9%BC%EA%B5%AD%EC%88%98/place/20019859?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "칼국수 맛집 다먹고 죽은 필수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한송?c=14,127.1309453,37.6560141,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "광릉한옥집",
+      "location": "경기 남양주시 진접읍 광릉내로 36",
+      "link": "https://map.naver.com/p/search/%EA%B4%91%EB%A6%89%ED%95%9C%EC%98%A5%EC%A7%91/place/32332642?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "숯불고기 메밀쌈",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/광릉한옥집?c=14,127.1993350,37.7430715,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "석화촌시크릿가든",
+      "location": "경기 남양주시 진건읍 사릉로304번길 3919",
+      "link": "https://map.naver.com/p/search/%EC%84%9D%ED%99%94%EC%B4%8C%EA%B0%80%EB%93%A0/place/34519999?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "분위기 좋은 양식집",
+      "tags": [
+        "양식",
+        "단체",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/석화촌시크릿가든",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "하림각",
+      "location": "경기 남양주시 진접읍 광릉내로 91",
+      "link": "https://map.naver.com/p/entry/place/17864177?c=14.99,0,0,0,dh&placePath=/home",
+      "summary": "주말 오픈런 웨이팅 있음 탕수육 추천",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/하림각?c=14,127.2043398,37.7456437,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "장어의 꿈",
+      "location": "경기 남양주시 순화궁로 4926",
+      "link": "https://map.naver.com/p/entry/place/37221504?c=14.99,0,0,0,dh",
+      "summary": "모임하기 좋은 장어집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/장어의 꿈",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "면포도궁",
+      "location": "경기도 남양주시 다산로 50 1층",
+      "link": "https://naver.me/GxR1AnKc",
+      "summary": "줄서서 먹는 도너츠",
+      "tags": [
+        "간식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/면포도궁?c=14,127.2548622,37.5403347,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "짱떡볶이",
+      "location": "남양주시 의안로 12924 씨티프라자 107호",
+      "link": "https://map.naver.com/p/entry/place/31621565?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202508291006&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 스피드욱님 추천 분식 맛집",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/짱떡볶이",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:31:53.196986",
+    "total_groups": 13,
+    "source": "의정부",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "한양식당",
+      "location": "경기 의정부시 호국로1309번길 8",
+      "link": "https://map.naver.com/p/entry/place/11738877?c=9.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 Tsuji님 추천 부대찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한양식당?c=14,127.0496851,37.7441242,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "형네식당",
+      "location": "경기 의정부시 호국로1309번길 9",
+      "link": "https://map.naver.com/p/search/%ED%98%95%EB%84%A4%20%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C/place/11549272?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 레렌렝님 추천 부대찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/형네식당?c=14,127.0494317,37.7442167,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "오뎅식당 의정부 본점",
+      "location": "경기 의정부시 호국로1309번길 7",
+      "link": "https://map.naver.com/p/entry/place/11717884?c=15.00,0,0,0,dh",
+      "summary": "부대찌개 거리 원조의 맛",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오뎅식당 의정부 본점?c=14,127.0494929,37.7440925,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "고산램",
+      "location": "경기 의정부시 고산로163번길 96",
+      "link": "https://map.naver.com/p/search/%EA%B3%A0%EC%82%B0%EB%9E%A8/place/1632346751?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 네모대가리님 추천 양고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고산램?c=14,127.1047747,37.7353557,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "레알 간장게장 무한리필 의정부직영점",
+      "location": "경기 의정부시 신흥로207번길 15 1층",
+      "link": "https://map.naver.com/p/entry/place/1313150828?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 무한리필 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/레알 간장게장 무한리필 의정부직영점?c=14,127.0423855,37.7346107,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "아사랑",
+      "location": "경기 의정부시 둔야로17번길 32 3층",
+      "link": "https://map.naver.com/p/entry/place/12060416?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 중식집",
+      "tags": [
+        "중식",
+        "단체",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/아사랑?c=14,127.0380722,37.7376280,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "규카",
+      "location": "경기 의정부시 평화로552번길 18 2층",
+      "link": "https://map.naver.com/p/entry/place/1688173130?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 술집",
+      "tags": [
+        "술안주",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/규카?c=14,127.0481736,37.7411840,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "파키스탄 알리네",
+      "location": "경기 의정부시 태평로73번길 20 남24호",
+      "link": "https://map.naver.com/p/entry/place/1501862192?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 케밥 맛집",
+      "tags": [
+        "지중해"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/파키스탄 알리네?c=14,127.0498332,37.7403902,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "한라산도야지 의정부점",
+      "location": "경기 의정부시 비우로 106 1층",
+      "link": "https://map.naver.com/p/entry/place/1922919256?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 고기 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한라산도야지 의정부점?c=14,127.0385389,37.7582658,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "소반",
+      "location": "경기 의정부시 범골로82번길 30 1층",
+      "link": "https://map.naver.com/p/entry/place/1686976966?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 한식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/소반?c=14,127.0399550,37.7320578,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "국시집 밀가마",
+      "location": "경기 의정부시 호국로1723번길 28",
+      "link": "https://map.naver.com/p/search/%EC%9D%98%EC%A0%95%EB%B6%80%20%EA%B5%AD%EC%8B%9C%EC%A7%91/place/19882098?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 무릎어깨님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/국시집 밀가마?c=14,127.0901035,37.7638570,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "홍천사랑말한우식당",
+      "location": "경기 의정부시 평화로 603",
+      "link": "https://map.naver.com/p/search/%ED%99%8D%EC%B2%9C%EC%82%AC%EB%9E%91%EB%A7%90%ED%95%9C%EC%9A%B0%EC%8B%9D%EB%8B%B9/place/37309199?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/홍천사랑말한우식당?c=14,127.0457156,37.7458117,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "천보식당",
+      "location": "경기 의정부시 거북로4번길 9",
+      "link": "https://map.naver.com/p/search/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C%20%EA%B1%B0%EB%B6%81%EB%A1%9C4%EB%B2%88%EA%B8%B8%209/place/18533844?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 난알아요님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/천보식당?c=14,127.0597628,37.7502231,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

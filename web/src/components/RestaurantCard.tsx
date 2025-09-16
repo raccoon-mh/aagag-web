@@ -113,7 +113,7 @@ export default function RestaurantCard({
                             {/* 이전 버튼 */}
                             <button
                                 onClick={handlePreviousImage}
-                                className="absolute left-2 top-1/2 -translate-y-1/2 p-1.5 rounded-full bg-black/50 hover:bg-black/70 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-200"
+                                className="absolute left-2 top-1/2 -translate-y-1/2 p-1.5 rounded-full bg-black/50 hover:bg-black/70 text-white opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-opacity duration-200"
                             >
                                 <ChevronLeft className="h-4 w-4" />
                             </button>
@@ -121,7 +121,7 @@ export default function RestaurantCard({
                             {/* 다음 버튼 */}
                             <button
                                 onClick={handleNextImage}
-                                className="absolute right-2 top-1/2 -translate-y-1/2 p-1.5 rounded-full bg-black/50 hover:bg-black/70 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-200"
+                                className="absolute right-2 top-1/2 -translate-y-1/2 p-1.5 rounded-full bg-black/50 hover:bg-black/70 text-white opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-opacity duration-200"
                             >
                                 <ChevronRight className="h-4 w-4" />
                             </button>
@@ -164,20 +164,20 @@ export default function RestaurantCard({
 
             </div>
 
-            <CardContent className="p-4">
+            <CardContent className="p-3 sm:p-4">
                 {/* Restaurant Name */}
-                <h3 className="font-semibold text-lg mb-2 line-clamp-1">
+                <h3 className="font-semibold text-base sm:text-lg mb-2 line-clamp-1">
                     {restaurant.name}
                 </h3>
 
                 {/* Location */}
                 <div className="flex items-center gap-1 text-muted-foreground mb-2">
-                    <MapPin className="h-4 w-4" />
-                    <span className="text-sm">{restaurant.location}</span>
+                    <MapPin className="h-3 w-3 sm:h-4 sm:w-4 flex-shrink-0" />
+                    <span className="text-xs sm:text-sm truncate">{restaurant.location}</span>
                 </div>
 
                 {/* Summary */}
-                <p className="text-sm text-muted-foreground mb-3 line-clamp-2">
+                <p className="text-xs sm:text-sm text-muted-foreground mb-3 line-clamp-2">
                     {restaurant.summary}
                 </p>
 
@@ -185,16 +185,16 @@ export default function RestaurantCard({
                 <div className="flex items-center gap-2 mb-3">
                     {/* 별점 정보 */}
                     <div className="flex items-center gap-1">
-                        <Star className={`h-4 w-4 ${restaurant.review_star ? 'fill-yellow-400 text-yellow-400' : 'text-muted-foreground/50'}`} />
-                        <span className={`text-sm font-medium ${restaurant.review_star ? '' : 'text-muted-foreground/50'}`}>
+                        <Star className={`h-3 w-3 sm:h-4 sm:w-4 ${restaurant.review_star ? 'fill-yellow-400 text-yellow-400' : 'text-muted-foreground/50'}`} />
+                        <span className={`text-xs sm:text-sm font-medium ${restaurant.review_star ? '' : 'text-muted-foreground/50'}`}>
                             {restaurant.review_star ? `${restaurant.review_star}점` : '0점'}
                         </span>
                     </div>
 
                     {/* 사진 개수 정보 */}
                     <div className="flex items-center gap-1">
-                        <Camera className={`h-4 w-4 ${restaurant.review_img && restaurant.review_img.length > 0 ? 'text-muted-foreground' : 'text-muted-foreground/50'}`} />
-                        <span className={`text-sm ${restaurant.review_img && restaurant.review_img.length > 0 ? 'text-muted-foreground' : 'text-muted-foreground/50'}`}>
+                        <Camera className={`h-3 w-3 sm:h-4 sm:w-4 ${restaurant.review_img && restaurant.review_img.length > 0 ? 'text-muted-foreground' : 'text-muted-foreground/50'}`} />
+                        <span className={`text-xs sm:text-sm ${restaurant.review_img && restaurant.review_img.length > 0 ? 'text-muted-foreground' : 'text-muted-foreground/50'}`}>
                             {restaurant.review_img && restaurant.review_img.length > 0 ? `${restaurant.review_img.length}장` : '0장'}
                         </span>
                     </div>
@@ -215,35 +215,39 @@ export default function RestaurantCard({
                 </div>
 
                 {/* Action Buttons */}
-                <div className="flex gap-2">
+                <div className="flex flex-col sm:flex-row gap-2">
                     <Button
                         size="sm"
-                        className="flex-1"
+                        className="flex-1 text-xs sm:text-sm"
                         onClick={handleNaverMapClick}
                     >
-                        <MapPin className="h-4 w-4 mr-1" />
-                        원본 링크
+                        <MapPin className="h-3 w-3 sm:h-4 sm:w-4 mr-1" />
+                        <span className="hidden sm:inline">원본 링크</span>
+                        <span className="sm:hidden">원본</span>
                     </Button>
                     <Button
                         size="sm"
                         variant="outline"
+                        className="flex-1 text-xs sm:text-sm"
                         onClick={handleNaverBlogClick}
                     >
-                        <ExternalLink className="h-4 w-4 mr-1" />
-                        네이버 지도
+                        <ExternalLink className="h-3 w-3 sm:h-4 sm:w-4 mr-1" />
+                        <span className="hidden sm:inline">네이버 지도</span>
+                        <span className="sm:hidden">네이버</span>
                     </Button>
                     <Button
                         size="sm"
                         variant="outline"
                         onClick={handleKakaoMapClick}
                         disabled={!restaurant.review_url}
-                        className={`${restaurant.review_url
+                        className={`flex-1 text-xs sm:text-sm ${restaurant.review_url
                             ? 'bg-yellow-50 hover:bg-yellow-100 border-yellow-200 text-yellow-800'
                             : 'bg-gray-50 border-gray-200 text-gray-400 cursor-not-allowed'
                             }`}
                     >
-                        <Star className="h-4 w-4 mr-1" />
-                        카카오맵
+                        <Star className="h-3 w-3 sm:h-4 sm:w-4 mr-1" />
+                        <span className="hidden sm:inline">카카오맵</span>
+                        <span className="sm:hidden">카카오</span>
                     </Button>
                 </div>
             </CardContent>

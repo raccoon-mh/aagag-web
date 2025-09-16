@@ -1,0 +1,1163 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:26:19.221587",
+    "total_groups": 72,
+    "source": "대전",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "광천식당",
+      "location": "대전 중구 대종로505번길 29",
+      "link": "https://map.naver.com/p/entry/place/11710907?c=15.00,0,0,0,dh&placePath=/review",
+      "summary": "두부 두루치기 칼국수 맛집",
+      "tags": [
+        "데이트",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/광천식당?c=14,127.4235904,36.3285699,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e2b1dd114b9af1e1d9713115cc959283625a5162?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1790917005"
+    },
+    {
+      "name": "김판순 김치찌개 본점",
+      "location": "대전 중구 안영로 45",
+      "link": "https://map.naver.com/p/entry/place/33840251?c=15.00,0,0,0,dh",
+      "summary": "김치찌개 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/김판순 김치찌개 본점?c=14,127.3804213,36.2931682,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "복수분식 본점",
+      "location": "대전 중구 보문로162번길 9 복수분식",
+      "link": "https://map.naver.com/p/entry/place/11659914?c=15.00,0,0,0,dh",
+      "summary": "두부두루치기 얼큰이 칼국수 추천",
+      "tags": [
+        "체인",
+        "분식",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/복수분식 본점?c=14,127.4263032,36.3179979,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b5e1ed8f4a68533a165b2a246d138f47258db1e2?original"
+      ],
+      "review_url": "https://place.map.kakao.com/21624907"
+    },
+    {
+      "name": "원미면옥",
+      "location": "대전 동구 옥천로 419 원미면옥 뒷집",
+      "link": "https://map.naver.com/p/entry/place/12909683?c=15.00,0,0,0,dh",
+      "summary": "수십년 단골 닭육수 냉면",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원미면옥?c=14,127.4753493,36.3319153,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a34b0625fdbb2481943a2f1c1d4072e5e46012a4?original"
+      ],
+      "review_url": "https://place.map.kakao.com/12434404"
+    },
+    {
+      "name": "한영식당",
+      "location": "대전 중구 계룡로874번길 6",
+      "link": "https://map.naver.com/p/entry/place/13571357?c=15.00,0,0,0,dh",
+      "summary": "대전의 3대 닭볶음탕",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한영식당?c=14,127.4107681,36.3234206,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/16446058"
+    },
+    {
+      "name": "함초 양념갈비",
+      "location": "대전 동구 계족로 508 1층 함초양념갈비",
+      "link": "https://map.naver.com/p/entry/place/20037981?c=15.00,0,0,0,dh",
+      "summary": "부드러운 양념갈비",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/함초 양념갈비?c=14,127.4331158,36.3570579,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8e9a1168bd430802230f059e360f1f8bfe6de4ae?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9583992"
+    },
+    {
+      "name": "향미각",
+      "location": "대전 서구 관저남로25번길 235",
+      "link": "https://map.naver.com/p/entry/place/37958837?c=15.00,0,0,0,dh",
+      "summary": "꼬막 짬뽕",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/향미각",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/1248652402"
+    },
+    {
+      "name": "가마솥 보은순대",
+      "location": "대전 서구 신갈마로 5817 인터빌아파트",
+      "link": "https://map.naver.com/p/entry/place/21635281?c=15.00,0,0,0,dh",
+      "summary": "애객러 고무장갑님 추천 순대집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/가마솥 보은순대",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/34d24eb44ce7f3104e991519bd7178d7bcca1ad1?original"
+      ],
+      "review_url": "https://place.map.kakao.com/17551014"
+    },
+    {
+      "name": "제주오목돈",
+      "location": "대전 중구 계룡로874번길 97 1층",
+      "link": "https://map.naver.com/p/search/%EC%A0%9C%EC%A3%BC%EC%98%A4%EB%AA%A9%EB%8F%88/place/38643141?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/제주오목돈?c=14,127.4060642,36.3218420,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/28ca711e8ca959a5be11511bbb37684a4062ed0f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1998488319"
+    },
+    {
+      "name": "몽심",
+      "location": "대전 대덕구 한남로38번길 28 1층",
+      "link": "https://map.naver.com/p/entry/place/1195023040?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 집요정님 추천 빵 맛집",
+      "tags": [
+        "간식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/몽심?c=14,127.4249444,36.3518586,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a873b4b8120f4ab4cf3b915bee464c15468bd237?original"
+      ],
+      "review_url": "https://place.map.kakao.com/843666963"
+    },
+    {
+      "name": "싶빵공장",
+      "location": "대전 서구 도안동로11번길 42 1층 107호",
+      "link": "https://map.naver.com/p/entry/place/1002709943?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 빵 맛집",
+      "tags": [
+        "간식",
+        "체인"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/싶빵공장?c=14,127.3505271,36.3059728,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/067108c0839324276bdc6b106dc15e5fa63ee1c4?original"
+      ],
+      "review_url": "https://place.map.kakao.com/335511348"
+    },
+    {
+      "name": "1974비래옥 본점",
+      "location": "대전 중구 중앙로129번길 22 1층 비래옥",
+      "link": "https://map.naver.com/p/entry/place/1279982255?c=15.00,0,0,0,dh",
+      "summary": "애객러 나야나님 추천 곰탕 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/1974비래옥 본점?c=14,127.4237449,36.3290869,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e82fc32b6d015581939b0db1b2ec3e3ef002a0bf?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1384724254"
+    },
+    {
+      "name": "희락반점",
+      "location": "대전 중구 중앙로129번길 21",
+      "link": "https://map.naver.com/p/search/%ED%9D%AC%EB%9D%BD%EB%B0%98%EC%A0%90/place/16048309?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 나야나님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/희락반점?c=14,127.4235138,36.3289857,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9a3a483716ff065f5e49141dd517e2b6c0ac7690?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a3c272ca370fbf24da905f93b27532190b71d5ef?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f37d6032f628716d20b2864a3d84ec7354450758?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8670704"
+    },
+    {
+      "name": "신당동 자갈구이",
+      "location": "대전 중구 대종로 505번길 22",
+      "link": "https://map.naver.com/p/entry/place/16049160?c=15.00,0,0,0,dh",
+      "summary": "애객러 나야나님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신당동 자갈구이?c=14,127.4238892,36.3289724,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/75ee26350b9caf0cf0b7ad97f5d67264a641e9c0?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9219417"
+    },
+    {
+      "name": "동은성",
+      "location": "대전 중구 대종로 5321",
+      "link": "https://map.naver.com/p/entry/place/16043947?c=15.00,0,0,0,dh",
+      "summary": "애객러 나야나님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/동은성",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/77b3979a3a71d14279f89b607fc3d4e8f588d14a?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/619651f8c6bbf6ba7fbb9a22a302861477c8bdcb?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8944672"
+    },
+    {
+      "name": "왕관식당",
+      "location": "대전 동구 선화로196번길 6",
+      "link": "https://map.naver.com/p/entry/place/13571039?c=15.00,0,0,0,dh",
+      "summary": "애객러 나야나님 추천 비빔밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/왕관식당?c=14,127.4274970,36.3336196,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/6ac6935d328505a728087e805fe40bcd2c8157f7?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/592826e329d69b44836726f9fd7a92bdd507958b?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/559b2040a5d522d6c292d1f96ff1cbb164ce292c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/832f99094506a8d03e3c5deb5634f84c5b02a680?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/69ddc3ff7caeb028ae0e1def02d5371cb8e79cb6?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8013624"
+    },
+    {
+      "name": "서울치킨",
+      "location": "대전 중구 중앙로112번길 34",
+      "link": "https://map.naver.com/p/entry/place/35262372?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 나야나님 추천 치킨 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/서울치킨?c=14,127.4230738,36.3259544,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/74f6be7fa04f7b3639cb14f626b6329505d43383?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1a0e6e22685b68f650b2e6842cb0391cdb424d62?original"
+      ],
+      "review_url": "https://place.map.kakao.com/27417406"
+    },
+    {
+      "name": "시민칼국수",
+      "location": "대전 중구 대흥로10번길 5",
+      "link": "https://map.naver.com/p/entry/place/1537187207?c=15.00,0,0,0,dh",
+      "summary": "애객러 슈퍼초흰둥이님 추천 칼국수 돈까스 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/시민칼국수?c=14,127.4156720,36.3210881,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f1f162cfce0dcf0300f00fbc909ab9da82eb7222?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1784443072"
+    },
+    {
+      "name": "아저씨돈까스",
+      "location": "대전 중구 중앙로164번길 227",
+      "link": "https://map.naver.com/p/entry/place/16045092?c=19.00,0,0,0,adh",
+      "summary": "애객러 뒷둘라님 추천 돈까스 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/아저씨돈까스",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/1902689421"
+    },
+    {
+      "name": "농민순대",
+      "location": "대전 중구 충무로 138",
+      "link": "https://map.naver.com/p/entry/place/16074209?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 프링글스할라피뇨님 추천 순대 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/농민순대?c=14,127.4318545,36.3191137,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/cb1549cf586b47eb449fc42e63962ad687561d0b?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1062153333"
+    },
+    {
+      "name": "오문창순대국밥",
+      "location": "대전 대덕구 한밭대로 1153",
+      "link": "https://map.naver.com/p/entry/place/16052530?c=15.00,0,0,0,dh",
+      "summary": "애객러 프링글스할라피뇨님 추천 국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오문창순대국밥?c=14,127.4265910,36.3592365,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9ded484e929f5a51655b082a70c61787fc78cc66?original"
+      ],
+      "review_url": "https://place.map.kakao.com/26975999"
+    },
+    {
+      "name": "원조태평소국밥",
+      "location": "대전 중구 태평로 116",
+      "link": "https://map.naver.com/p/entry/place/36893501?c=15.00,0,0,0,dh",
+      "summary": "애객러 오똘이님 추천 국밥 맛집",
+      "tags": [
+        "원조",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원조태평소국밥?c=14,127.3954917,36.3267596,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/68443818195bbc36d38fde2803aa3a9e68049c14?original"
+      ],
+      "review_url": "https://place.map.kakao.com/24122781"
+    },
+    {
+      "name": "유메",
+      "location": "대전 중구 오류로 47",
+      "link": "https://map.naver.com/p/entry/place/1607988228?c=15.00,0,0,0,dh",
+      "summary": "애객러 슈발크림님 추천 돈까스 맛집",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/유메?c=14,127.4036711,36.3247256,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ae6b6e5603030ab059a158379072c9729b6069c6?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e0ddd35f8ac5fb9c4e02ac4467aa2fdd042e0405?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3aadfaee0a8e16653f4deea98918ad3f606ee38a?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d1606e532cc52edf1401f416a9748880e1af40bf?original"
+      ],
+      "review_url": "https://place.map.kakao.com/278113386"
+    },
+    {
+      "name": "월산본가",
+      "location": "대전 중구 대종로 455",
+      "link": "https://map.naver.com/p/search/%EC%9B%94%EC%82%B0%EB%B3%B8%EA%B0%80%20%EC%84%9D%EA%B0%88%EB%B9%84/place/20170238?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 나무관세음아멘님 추천 석갈비 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/월산본가?c=14,127.4275172,36.3252962,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d5f980d61ed7d79ca1fffd7f21694b31d2c5257a?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8038484"
+    },
+    {
+      "name": "바로그집",
+      "location": "대전 중구 중앙로 145 지하상가 C나 61호",
+      "link": "https://map.naver.com/p/search/%EB%B0%94%EB%A1%9C%EA%B7%B8%EC%A7%91%20%EB%96%A1%EB%B3%B6%EC%9D%B4/place/13526786?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 나무관세음아멘님 추천 떡볶이 맛집",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/바로그집?c=14,127.4241371,36.3280399,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/21239823"
+    },
+    {
+      "name": "봉봉원",
+      "location": "대전 중구 목척3길 42",
+      "link": "https://map.naver.com/p/search/%EB%B4%89%EB%B4%89%EC%9B%90/place/16044388?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 나무관세음아멘님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/봉봉원?c=14,127.4268228,36.3307369,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b5b68b95005dbcc93b55e04d5120e747f1088677?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9044761"
+    },
+    {
+      "name": "태화원",
+      "location": "대전 중구 중앙로112번길 43",
+      "link": "https://map.naver.com/p/search/%ED%83%9C%ED%99%94%EC%9B%90/place/20583045?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 나무관세음아멘님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태화원?c=14,127.4235455,36.3255826,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/0dada17813308560c9d30c4ed1750efeb11c6a55?original"
+      ],
+      "review_url": "https://place.map.kakao.com/14878942"
+    },
+    {
+      "name": "태화장",
+      "location": "대전 동구 중앙로203번길 78",
+      "link": "https://map.naver.com/p/search/%ED%83%9C%ED%99%94%EC%9E%A5/place/11710925?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 나무관세음아멘님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태화장?c=14,127.4293614,36.3338483,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/4665248c2f8132c3bfede34a7b10d5fec4eac554?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f62e2fb836be768e60fd277bf7e57bfc426871c2?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c85f740941bbe99723ae8b933554ccb2b58ce78f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10033021"
+    },
+    {
+      "name": "중국대반점",
+      "location": "대전 중구 대흥로165번길 6",
+      "link": "https://map.naver.com/p/entry/place/16065798?c=15.00,0,0,0,dh",
+      "summary": "애객러 나무관세음아멘님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/중국대반점?c=14,127.4301590,36.3253147,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/acb0afac7df64718ef80553a7db4271d3bae50c6?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1bb566ac99766776fdf2bc7ccc972300cb2a0525?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fe6a1dfc887a00ab73b35844df47e5b02b49345e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d02ad3aebc9d279b4ff47e6b5947364ff645c72c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/95e937b5501b0b8b5024d93adb14a4363316f9ea?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9929b80f11c7e698e7dd0667784f7e24ea75b154?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8589591"
+    },
+    {
+      "name": "고단백식당",
+      "location": "대전 중구 대종로517번길 62",
+      "link": "https://map.naver.com/p/entry/place/16049935?c=15.00,0,0,0,dh",
+      "summary": "애객러 나무관세음아멘님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고단백식당?c=14,127.4211214,36.3286700,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ad40f669db849164b5980481750131affbe6f807?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1650389149"
+    },
+    {
+      "name": "신도칼국수 본점",
+      "location": "대전 동구 대전로825번길 11",
+      "link": "https://map.naver.com/p/entry/place/20336232?c=15.00,0,0,0,dh",
+      "summary": "애객러 나무관세음아멘님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신도칼국수 본점?c=14,127.4310018,36.3325945,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/95484451508537b40b6faea7244a7172fe231658?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/547ae20cf4923e670bcdba75604007995f49f135?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11116260"
+    },
+    {
+      "name": "테라스키친",
+      "location": "대전 중구 대종로480번길 15 2층",
+      "link": "https://map.naver.com/p/entry/place/16043374?c=15.00,0,0,0,dh",
+      "summary": "애객러 내정보님 추천 양식 맛집",
+      "tags": [
+        "양식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/테라스키친?c=14,127.4272458,36.3277442,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9063c1d0e8029fd1cb0b2b0e760e1a1d1ae32633?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8c00d7c19ce39354cc5a9c9b64fad149b38bd7a9?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3b60fa62880421047143cf20c28e1267787ad1bd?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1427790515"
+    },
+    {
+      "name": "만포분식",
+      "location": "대전 동구 한남로7번길 89",
+      "link": "https://map.naver.com/p/search/%EB%A7%8C%ED%8F%AC%EB%B6%84%EC%8B%9D/place/16002199?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 내정보님 추천 분식 맛집",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/만포분식?c=14,127.4294025,36.3475656,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9836f91735c242f75d9f40fb8571ba66c7e9a124?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10343348"
+    },
+    {
+      "name": "선라이즈 키친",
+      "location": "대전 서구 신갈마로 2254 1층",
+      "link": "https://map.naver.com/p/entry/place/1223409648?c=15.00,0,0,0,dh",
+      "summary": "애객러 내정보님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/선라이즈 키친",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/4d2be9b723ebc6732ba60931bc21dc13faee7c7d?original"
+      ],
+      "review_url": "https://place.map.kakao.com/2040762775"
+    },
+    {
+      "name": "로얄라멘",
+      "location": "대전 서구 계룡로367번길 13",
+      "link": "https://map.naver.com/p/entry/place/1108580685?c=15.00,0,0,0,dh",
+      "summary": "애객러 내정보님 추천 라멘 맛집",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/로얄라멘?c=14,127.3698295,36.3533404,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9ff3b7ab9c85f2b640458b2df160f590e1c5a0c4?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/78f9587697d20a42598c5adbf2a6d23943bcb441?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1988748001"
+    },
+    {
+      "name": "아자자야채치킨",
+      "location": "대전 서구 월평중로4번길 13",
+      "link": "https://map.naver.com/p/entry/place/36170726?c=15.00,0,0,0,dh",
+      "summary": "애객러 내정보님 추천 치킨 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/아자자야채치킨?c=14,127.3648175,36.3548495,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/66281b258ae2225767b0e6680e55a9d2d5f33596?original"
+      ],
+      "review_url": "https://place.map.kakao.com/26824184"
+    },
+    {
+      "name": "천리집",
+      "location": "대전 유성구 신성남로 127",
+      "link": "https://map.naver.com/p/search/%EC%B2%9C%EB%A6%AC%EC%A7%91%20%EC%88%9C%EB%8C%80%EA%B5%AD%EB%B0%A5/place/15972398?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 백년손님 추천 순대국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/천리집?c=14,127.3511923,36.3918289,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/228ab0fdf7d52735fb0576aee96abfab1aff27e8?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9437196"
+    },
+    {
+      "name": "통일면옥",
+      "location": "대전 대덕구 한밭대로1117번길 17",
+      "link": "https://map.naver.com/p/search/%ED%86%B5%EC%9D%BC%EB%A9%B4%EC%98%A5/place/13571465?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 백년손님 추천 회막국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/통일면옥?c=14,127.4225401,36.3597474,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/405e9933c5e69a4d4e95193a08de4bad57946d43?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/0630f083bef4cb6ba49ab118d0a72f7f9a97af59?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9524501"
+    },
+    {
+      "name": "김화칼국수",
+      "location": "대전 동구 중앙로203번길 28",
+      "link": "https://map.naver.com/p/search/%EA%B9%80%ED%99%94%EC%B9%BC%EA%B5%AD%EC%88%98/place/1954737716?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/김화칼국수?c=14,127.4310384,36.3320413,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/dde9e2d53314f8e2b5a0935be266244a3049c2bf?original"
+      ],
+      "review_url": "https://place.map.kakao.com/12512189"
+    },
+    {
+      "name": "왕바다횟집",
+      "location": "대전 대덕구 계족로598번길 152",
+      "link": "https://map.naver.com/p/entry/place/16083819?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/왕바다횟집",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "장모네",
+      "location": "대전 대덕구 계족로664번길 103 1층",
+      "link": "https://map.naver.com/p/entry/place/16082789?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/장모네?c=14,127.4347186,36.3701997,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f2dcaf67a9a6a76046cf2cb8cd4cc2c3e0e63aaf?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bb1d0c840ad9ae3b05394bf4b8630ee3803976c8?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/489b76b690d821ea6bff4efc1e65c20736990d62?original"
+      ],
+      "review_url": "https://place.map.kakao.com/19387896"
+    },
+    {
+      "name": "왕손곱창",
+      "location": "대전 대덕구 대화로 69",
+      "link": "https://map.naver.com/p/search/%EC%99%95%EC%86%90%EA%B3%B1%EC%B0%BD/place/16026066?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/왕손곱창?c=14,127.4120707,36.3672464,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3a2ef8e1a0cae1aba74bc72166309daad9f3db2f?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fbb0af0b7d89979507fbccb9148504013f4d4af0?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11186149"
+    },
+    {
+      "name": "손이가어죽칼국수",
+      "location": "대전 중구 중앙로121번길 48",
+      "link": "https://map.naver.com/p/entry/place/1311812384?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/손이가어죽칼국수?c=14,127.4224245,36.3298109,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/84e109261e5bfa22069d628493916c788c3279b1?original"
+      ],
+      "review_url": "https://place.map.kakao.com/23346501"
+    },
+    {
+      "name": "삼대째전통칼국수",
+      "location": "대전 동구 대전로825번길 13",
+      "link": "https://map.naver.com/p/entry/place/16004885?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/삼대째전통칼국수?c=14,127.4308642,36.3325551,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d51cabed44f6a8d0fb84e63530ed9a5f3338593a?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/93ab8e0a69c6d75f4d59e4a24acfb1ceeccab447?original"
+      ],
+      "review_url": "https://place.map.kakao.com/21339647"
+    },
+    {
+      "name": "별난집",
+      "location": "대전 동구 중앙로193번길 8 1층",
+      "link": "https://map.naver.com/p/entry/place/11710445?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/별난집?c=14,127.4307111,36.3309495,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c1f8036fe8deed8c056693076a9e4c22a76878ae?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8365404"
+    },
+    {
+      "name": "고향칼국수",
+      "location": "대전 중구 보문로162번길 62 1층 고향칼국수",
+      "link": "https://map.naver.com/p/entry/place/38648599?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고향칼국수?c=14,127.4289874,36.3188227,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/290898e00d34aa48ea70650a1389d83493dd266d?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1d7e8488d3a31cb93c9221779ba98f17b43ec4ba?original"
+      ],
+      "review_url": "https://place.map.kakao.com/152672811"
+    },
+    {
+      "name": "온유네닭매운탕",
+      "location": "대전 서구 문정로170번길 50",
+      "link": "https://map.naver.com/p/entry/place/11889932?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/온유네닭매운탕?c=14,127.3985778,36.3493538,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/212329c301041c91eac8db575800f2eabfd9e2b0?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3e48ee11ed85ef4863cfa78565310635a1451381?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/53ebac2ea07977a8481175724bf7c8de9d9cafd1?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bfff43842f59a827ea84c7ea2b0506b0155e3427?original"
+      ],
+      "review_url": "https://place.map.kakao.com/863535795"
+    },
+    {
+      "name": "유가옥설렁탕 본점",
+      "location": "대전 대덕구 한밭대로 1161",
+      "link": "https://map.naver.com/p/entry/place/16051329?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/유가옥설렁탕 본점?c=14,127.4274947,36.3593267,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e5b096e3419f1e94daf91f69d19b6eefc29e7d38?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9362442"
+    },
+    {
+      "name": "청춘국수",
+      "location": "대전 동구 계족로 18467 1층",
+      "link": "https://map.naver.com/p/entry/place/1800048397?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청춘국수",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b9bd991f2df02628a3c816753cb379984ad1d4ec?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ff96ff8f18107578c43062fcb049e07f6e422bb2?original"
+      ],
+      "review_url": "https://place.map.kakao.com/21367187"
+    },
+    {
+      "name": "한밭칼국수",
+      "location": "대전 중구 목척4길 6",
+      "link": "https://map.naver.com/p/entry/place/13571362?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한밭칼국수?c=14,127.4235183,36.3312063,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c9d58d72e6cbb464bd1c43721cc6e1bce0cb590f?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c1c733f9fef1597922f681f5341ef22fb7a01645?original"
+      ],
+      "review_url": "https://place.map.kakao.com/21334878"
+    },
+    {
+      "name": "정식당",
+      "location": "대전 중구 중앙로130번길 3713",
+      "link": "https://map.naver.com/p/entry/place/16066663?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/정식당",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5ad5d6e5157d47075c03769bff78eadf25826d0b?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/508b0d66e22c01c0dbdb3032e8968459086fbb78?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1b4a27fb92e2f5037fc97f4c82191d9e0fc6ef2f?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d61d67d1890494756e4529d8b398bb650cc532ef?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f19ce6d1b4b21ff5de2ad0d2b4b6e97464b7205b?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/7da91e74e34c8d81430cf4e1480b319c9dd601d3?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/64194b83bad27943297c08648f7692703df75bcb?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/504fefabf218d57ff8ce03165335284e5a3821f1?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/06e186366b58f04168ed639ab9bf5c65e26acafe?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fdb021241eb24fefdb728850b92dbf26473264fc?original"
+      ],
+      "review_url": "https://place.map.kakao.com/12747379"
+    },
+    {
+      "name": "극동제과",
+      "location": "대전 중구 충무로 73",
+      "link": "https://map.naver.com/p/search/%EA%B7%B9%EB%8F%99%EC%A0%9C%EA%B3%BC/place/16079874?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 대학원생님 추천 칼국수 맛집",
+      "tags": [
+        "간식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/극동제과?c=14,127.4256437,36.3173214,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a220ca587459fc3b87cc4f8dbd637005de2b28a3?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10223000"
+    },
+    {
+      "name": "설짬뽕",
+      "location": "대전 서구 도안대로 37 한솔상가1층 설짬뽕",
+      "link": "https://map.naver.com/p/search/%EC%84%A4%EC%A7%AC%EB%BD%95/place/485580115?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 간장계란밥님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/설짬뽕?c=14,127.3344184,36.3049666,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8c3f7756a3c08ca930e64f15116a6e19fbea93f9?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1289494210"
+    },
+    {
+      "name": "인만면옥",
+      "location": "대전 서구 도마5길 18",
+      "link": "https://map.naver.com/p/search/%EC%9D%B8%EB%A7%8C%EB%A9%B4%EC%98%A5/place/1165356663?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 간장계란밥님 추천 냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/인만면옥?c=14,127.3800739,36.3164217,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bd921afe22dc7395be2cf20fb0ba763467ecdd74?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/caa661285ee2af87bc8d0772c2735937646d9ab7?original"
+      ],
+      "review_url": "https://place.map.kakao.com/386045933"
+    },
+    {
+      "name": "박선희황태어글탕 월평직영점",
+      "location": "대전 서구 한밭대로707번길 30",
+      "link": "https://map.naver.com/p/search/%EB%B0%95%EC%84%A0%ED%9D%AC%ED%99%A9%ED%83%9C%EC%96%B4%EA%B8%80%ED%83%95/place/21296903?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 간장계란밥님 추천 황태어글탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/박선희황태어글탕 월평직영점?c=14,127.3776802,36.3592780,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/6e1f89f0ea83592c095c281039ad9660e027e8ba?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/08e2c674c3e2e38d7197d4882343df724fce263c?original"
+      ],
+      "review_url": "https://place.map.kakao.com/17290080"
+    },
+    {
+      "name": "동방명주",
+      "location": "대전 서구 문예로 15 그랑수아빌딩",
+      "link": "https://map.naver.com/p/search/%EB%8F%99%EB%B0%A9%EB%AA%85%EC%A3%BC/place/16144382?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 로우킥님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/동방명주?c=14,127.3898515,36.3480544,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/33e28adba4e8a6b9ef3f99d705db3af8fa68ce7e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/456eb3fb40369f8c13c01c808b8c9de80a3fe17d?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/7d19a10808d848600e2587b62d636700e14abb81?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a4146fbf747b786b50903e5b17656e952b1bfe9e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/56393191421106299db980c34ce1eae681b48cc8?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c5971088aa6c5f77d3ad6fcbe260757f636c0aae?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9c16a51755215310fe8ba4950e42dc50ac23be4e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e561fb8fe821305423463b74be0f6f48fe80be7e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ac08584a6236b07d802b44a916266c0ed8cf88e0?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f2966676c4d78dc3987a7fb0a805d07a1f225a10?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8275040"
+    },
+    {
+      "name": "동천홍",
+      "location": "대전 서구 청사로123번길 25",
+      "link": "https://map.naver.com/p/entry/place/13571052?c=15.00,0,0,0,dh",
+      "summary": "애객러 로우킥님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/동천홍?c=14,127.3772853,36.3610295,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/563f721953d75c0069db6744487834982629e687?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2e5a955a889fe27f086d602a978fe80f6cc783d7?original"
+      ],
+      "review_url": "https://place.map.kakao.com/15896713"
+    },
+    {
+      "name": "정성을다하는베이커리",
+      "location": "대전 중구 계백로 1619 벽산프라자",
+      "link": "https://map.naver.com/p/search/%EC%9C%A0%EC%B2%9C%EB%8F%99%20%EC%A0%95%EC%9D%B8%EA%B5%AC%ED%8C%A5%EB%B9%B5/place/16120306?c=15.00,0,0,0,dh&placePath=/home&isCorrectAnswer=true",
+      "summary": "애객러 로우킥님 추천 빵 맛집",
+      "tags": [
+        "간식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/정성을다하는베이커리?c=14,127.3997506,36.3192957,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "https://t1.daumcdn.net/local/review_placeapp/btqfgnz5LF4_gHCLow4KMlhgMkSIzLm4dk_img.jpg",
+        "https://t1.daumcdn.net/local/review_placeapp/btqfeBZVd9i_YktkIJkaR8uF6DsKWeixe1_img.jpg",
+        "https://t1.daumcdn.net/local/review_placeapp/btqffvLUo1y_2kB46XvbgiGWH1CDKnTTD0_img.jpg",
+        "https://t1.daumcdn.net/local/review_placeapp/btqffu0xFDi_edroXnejNgx8EOtvZH5MR1_img.jpg",
+        "https://t1.daumcdn.net/local/review_placeapp/btqfgoMxzkp_ExpqX52o9HS6ouBKF4hIe0_img.jpg"
+      ],
+      "review_url": "https://place.map.kakao.com/8502397"
+    },
+    {
+      "name": "숯골원냉면 본점",
+      "location": "대전 유성구 신성로84번길 18",
+      "link": "https://map.naver.com/p/search/%EC%8B%A0%EC%84%B1%EB%8F%99%20%EC%88%AF%EA%B3%A8%EC%9B%90%EB%83%89%EB%A9%B4/place/11481457?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 로우킥님 추천 냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/숯골원냉면 본점?c=14,127.3502376,36.3901319,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/301cc2d10d58c4d1ea1a5da2c960219cf07ba26e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3fdb746f18375db23eff23f7f7096c1ca67da9b1?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/25c6549b4db518c56fb69e18aa0fc86549060eab?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11892114"
+    },
+    {
+      "name": "할머니묵집",
+      "location": "대전 유성구 금남구즉로 1378",
+      "link": "https://map.naver.com/p/search/%EA%B0%95%ED%83%9C%EB%B6%84%ED%95%A0%EB%A8%B8%EB%8B%88%EB%AC%B5%EC%A7%91/place/11717429?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 로우킥님 추천 묵 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/할머니묵집?c=14,127.3837799,36.4462597,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9df5527c0f8f0c06b1b4cb52024ecbc6f8fbdd8d?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/31cc34c3473aa011dcd414e2ec31ed5af7d73c8f?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/cd974cac68e3948d6392144935241da434cf6649?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b6be1544c5a827ef035f958e4c278faf2d3aa1cb?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/36b306ff360c339e5c995cceb66a03ff72cfc952?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a40c0fdcdf2757d2a068ad491d7fb94cfaf26f42?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2c04711bb2652a6702fd56abcde581450f57adbf?original"
+      ],
+      "review_url": "https://place.map.kakao.com/12473363"
+    },
+    {
+      "name": "수통골감나무집 본점",
+      "location": "대전 유성구 수통골로 69",
+      "link": "https://map.naver.com/p/entry/place/32335042?c=15.00,0,0,0,dh",
+      "summary": "애객러 로우킥님 추천 누룽지 백숙 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/수통골감나무집 본점?c=14,127.2917495,36.3467894,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e929ade77275de486d4cde210f020e569114d44b?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/373f05e4b28d8214cf253029c49165c1e13eabb4?original"
+      ],
+      "review_url": "https://place.map.kakao.com/19661134"
+    },
+    {
+      "name": "인생애짬뽕",
+      "location": "대전 유성구 학하서로20번길 614",
+      "link": "https://map.naver.com/p/search/%EC%9D%B8%EC%83%9D%EC%95%A0%EC%A7%AC%EB%BD%95/place/1359302978?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 네모대가리님 추천 짬뽕 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/인생애짬뽕",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e51ef6f35a3389ec0080fa06336d9222f0ad3f31?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1275439796"
+    },
+    {
+      "name": "와타요업 탄방본점",
+      "location": "대전 서구 계룡로603번길 29 1층 와타요업",
+      "link": "https://map.naver.com/p/entry/place/1057975139?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 텐동 맛집",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/와타요업 탄방본점?c=14,127.3913655,36.3418711,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9df8bd6783b590203b6db8efa4204db792eda149?original"
+      ],
+      "review_url": "https://place.map.kakao.com/651303484"
+    },
+    {
+      "name": "칼질만번짬뽕",
+      "location": "대전 유성구 은구비로 36 105호",
+      "link": "https://map.naver.com/p/entry/place/1819788409?c=15.00,0,0,0,dh",
+      "summary": "이과 짬뽕의 정수",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/칼질만번짬뽕?c=14,127.3189963,36.3756029,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/60a2419b2f7b0ebf4fa57858def3289a2ed34d16?original"
+      ],
+      "review_url": "https://place.map.kakao.com/691738090"
+    },
+    {
+      "name": "제주고기국수하르방",
+      "location": "대전 유성구 동서대로179번길 61",
+      "link": "https://map.naver.com/p/entry/place/71467550?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/제주고기국수하르방?c=14,127.2972760,36.3485194,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/af6a08e276e42bda8a2b92ce227bb30663fb5cfd?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1219325049"
+    },
+    {
+      "name": "성심당 오븐스토리",
+      "location": "대전 서구 계룡로 598",
+      "link": "https://map.naver.com/p/entry/place/1500661311?c=15.00,0,0,0,dh",
+      "summary": "믿고 먹는 초 가성비 성심당",
+      "tags": [
+        "양식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/성심당 오븐스토리?c=14,127.3895366,36.3406490,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/06e5f67ebe559cfaef40c6c15ff44c6def242502?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/81872c45c953ffc1a7852499344a067b3b5227b4?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8dc1528ce5493e84d0469c3e93eba772dc6f31f7?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1361222593"
+    },
+    {
+      "name": "우동야",
+      "location": "대전 중구 대종로480번길 15 지하상가 D가22",
+      "link": "https://map.naver.com/p/search/%EC%9A%B0%EB%8F%99%EC%95%BC/place/20601419?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 나무관세음아멘님 추천 우동 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우동야?c=14,127.4272458,36.3277442,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8ddcf4a6dfde5f6884fdb2a6105c5aee6cf18193?original"
+      ],
+      "review_url": "https://place.map.kakao.com/13603044"
+    },
+    {
+      "name": "옥천뼈구이농민뜨끈이 본점",
+      "location": "대전 중구 대흥로 161",
+      "link": "https://map.naver.com/p/entry/place/1856720935?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202506201452&locale=ko&svcName=map_pcv5",
+      "summary": "평일에도 웨이팅이 있는 해장국집뼈구이",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/옥천뼈구이농민뜨끈이 본점?c=14,127.4297013,36.3250389,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "버거 베이트",
+      "location": "대전 서구 용소로58번길 25 1층 버거베이트",
+      "link": "https://map.naver.com/p/search/%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%B2%84%EA%B1%B0/place/1118853147?c=15.00,0,0,0,dh&placePath=/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202507101516&locale=ko&svcName=map_pcv5&searchText=%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%B2%84%EA%B1%B0&from=map&fromPanelNum=2&timestamp=202507101516&locale=ko&svcName=map_pcv5&searchText=%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%B2%84%EA%B1%B0",
+      "summary": "애객러 간장계란밥님 추천 버거 맛집",
+      "tags": [
+        "양식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/버거 베이트?c=14,127.3544999,36.3085772,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/efaef53655ca7d09302a97b3d9d5f8f153b8c2d3?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1875275019"
+    },
+    {
+      "name": "은영네 한우내장탕",
+      "location": "대전 중구 충무로 1441",
+      "link": "https://map.naver.com/p/search/%EC%9D%80%EC%98%81%EB%84%A4%20%ED%95%9C%EC%9A%B0%EB%82%B4%EC%9E%A5%ED%83%95/place/37004877?c=15.00,0,0,0,dh&isCorrectAnswer=true&placePath=/home&fromPanelNum=1&additionalHeight=76&timestamp=202507132256&locale=ko&svcName=map_pcv5&searchText=%EC%9D%80%EC%98%81%EB%84%A4%20%ED%95%9C%EC%9A%B0%EB%82%B4%EC%9E%A5%ED%83%95",
+      "summary": "애객러 adamin님 추천 내장탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/은영네 한우내장탕",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d4650a9a059565871101a661c99e50b0a019693b?original"
+      ],
+      "review_url": "https://place.map.kakao.com/685535453"
+    },
+    {
+      "name": "판암면옥",
+      "location": "대전 동구 옻밭5길 189",
+      "link": "https://map.naver.com/p/entry/place/1016559088?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241546&locale=ko&svcName=map_pcv5",
+      "summary": "원미면옥과 쌍두마차",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/판암면옥?c=14,127.4520101,36.3188820,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a83b0e6c035fdf659c42abc6ca6deb1dd89185e4?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/22f32c389cb0d00fefd289fd5004b9a40797b6fb?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11669915"
+    },
+    {
+      "name": "사리원면옥",
+      "location": "대전 중구 중교로 62",
+      "link": "https://map.naver.com/p/search/%EC%82%AC%EB%A6%AC%EC%9B%90%EB%A9%B4%EC%98%A5/place/35853896?c=15.00,0,0,0,dh&placePath=/home?filterType=AI%20View&subFilter=FOOD&subFilter=FOOD&from=map&fromPanelNum=2&timestamp=202507241548&locale=ko&svcName=map_pcv5&searchText=%EC%82%AC%EB%A6%AC%EC%9B%90%EB%A9%B4%EC%98%A5",
+      "summary": "소고기 육수 냉면",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/사리원면옥?c=14,127.4265632,36.3261541,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b901e69e452e29ef031e86d6f300797ed532cdf7?original"
+      ],
+      "review_url": "https://place.map.kakao.com/25049472"
+    }
+  ]
+}

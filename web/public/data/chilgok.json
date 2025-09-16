@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:28:51.467238",
+    "total_groups": 8,
+    "source": "칠곡",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "왜관용두쭈꾸미",
+      "location": "경북 칠곡군 왜관읍 자조1길 29",
+      "link": "https://map.naver.com/p/entry/place/1683796370?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 네모대가리님 추천 쭈꾸미 맛집",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/왜관용두쭈꾸미?c=14,128.3953951,35.9819125,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "김젓갈삼겹살 왜관본점",
+      "location": "경북 칠곡군 왜관읍 중앙로 981",
+      "link": "https://map.naver.com/p/entry/place/1093760135?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/김젓갈삼겹살 왜관본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "여울목생고기",
+      "location": "경북 칠곡군 왜관읍 남부3길 7 왜관 남부상가",
+      "link": "https://map.naver.com/p/entry/place/37800251?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 고기 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/여울목생고기?c=14,128.3979706,35.9846627,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "정문반점",
+      "location": "경북 칠곡군 왜관읍 관문로 152",
+      "link": "https://map.naver.com/p/entry/place/15272454?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/정문반점?c=14,128.4112167,35.9881909,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "천연애 왜관점",
+      "location": "경북 칠곡군 왜관읍 관문로 1698 관문빌딩",
+      "link": "https://map.naver.com/p/entry/place/1181220050?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 불고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/천연애 왜관점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "천수제면소",
+      "location": "경북 칠곡군 기산면 주산로 1192 1층",
+      "link": "https://map.naver.com/p/entry/place/1346808324?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/천수제면소?c=14,128.3827755,35.9842653,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "황금원",
+      "location": "경북 칠곡군 약목면 관호8길 16",
+      "link": "https://map.naver.com/p/search/%ED%99%A9%EA%B8%88%EC%9B%90/place/1573463542?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 네모대가리님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/황금원?c=14,128.3890929,36.0021541,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "달빛흐르는강",
+      "location": "경북 칠곡군 왜관읍 구상길 143",
+      "link": "https://map.naver.com/p/search/%EB%8B%AC%EB%B9%9B%ED%9D%90%EB%A5%B4%EB%8A%94%EA%B0%95/place/1202583375?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "힘숨찐 맛집 돈까스 찜닭 추천",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/달빛흐르는강?c=14,128.3947711,35.9795411,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

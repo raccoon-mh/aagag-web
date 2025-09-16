@@ -1,0 +1,450 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:35:43.099947",
+    "total_groups": 28,
+    "source": "천안",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "메이탄 천안점",
+      "location": "충남 천안시 서북구 다가말3길 2 2층",
+      "link": "https://map.naver.com/p/entry/place/32679827?c=15.00,0,0,0,dh",
+      "summary": "쌍용동에서 알려진 중식집",
+      "tags": [
+        "중식",
+        "체인"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/메이탄 천안점?c=14,127.1310663,36.7973864,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1b77b6676ebdcea1dd01f63a04538e54c5019c4e?original"
+      ],
+      "review_url": "https://place.map.kakao.com/24823059"
+    },
+    {
+      "name": "짬뽕지존 본점",
+      "location": "충남 천안시 서북구 서부대로 719",
+      "link": "https://map.naver.com/p/entry/place/20685508?c=15.00,0,0,0,dh",
+      "summary": "충청권 체인 다수",
+      "tags": [
+        "중식",
+        "체인"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/짬뽕지존 본점?c=14,127.1330857,36.8313596,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/6481d9d51440b005914dfcbb3b48ab976f14477e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c0ef975a882b92f166bbeaffe37c32fb2b722a6c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/0054c62c3bf732c1c0ae40a829138230508b2b2a?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d0609ca9adfa3155b1cb11e07ca5398addc69329?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/42a060048f5d77be03f06e73d1e277833b054e66?original"
+      ],
+      "review_url": "https://place.map.kakao.com/17871113"
+    },
+    {
+      "name": "불티나통닭 본점",
+      "location": "충남 천안시 동남구 원성17길 22",
+      "link": "https://map.naver.com/p/entry/place/38510928?c=15.00,0,0,0,dh",
+      "summary": "동네 통닭 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/불티나통닭 본점?c=14,127.1614208,36.8094915,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "갈재산장",
+      "location": "충남 천안시 동남구 광덕면 해수길 348",
+      "link": "https://map.naver.com/p/entry/place/1771594671?c=15.00,0,0,0,dh",
+      "summary": "계곡에서 먹는 능이 백숙",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/갈재산장?c=14,127.0205830,36.6625546,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2af10096e82120a84dcbbc72b1a3e6304144066a?original"
+      ],
+      "review_url": "https://place.map.kakao.com/16890251"
+    },
+    {
+      "name": "덩더궁",
+      "location": "충남 천안시 서북구 백석로 117",
+      "link": "https://map.naver.com/p/entry/place/30995125?c=15.00,0,0,0,dh",
+      "summary": "갈비 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/덩더궁?c=14,127.1243358,36.8230986,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "수레터 김치찌개",
+      "location": "충남 천안시 서북구 2공단1로 62 수레터",
+      "link": "https://map.naver.com/p/search/%EC%88%98%EB%A0%88%ED%84%B0%20%EA%B9%80%EC%B9%98%EC%B0%8C%EA%B0%9C/place/17310225?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "김치찌개 단품",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/수레터 김치찌개?c=14,127.1179051,36.8490591,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/10544753"
+    },
+    {
+      "name": "원조곱창",
+      "location": "충남 천안시 서북구 미라3길 42 유량생태",
+      "link": "https://map.naver.com/p/entry/place/17390222?c=15.00,0,0,0,dh",
+      "summary": "전골과 구이 둘다 좋은 선택이라고함",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원조곱창?c=14,127.1313364,36.8032949,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/750f59270fe18207f9f7de6feb94b1c17a37e83a?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bf7ccf08db391c75dafd1964cc7295f856f8a340?original"
+      ],
+      "review_url": "https://place.map.kakao.com/16773368"
+    },
+    {
+      "name": "이정민갈비탕본점",
+      "location": "충남 천안시 서북구 백석3로 29",
+      "link": "https://map.naver.com/p/entry/place/1007739072?c=15.00,0,0,0,dh",
+      "summary": "백석동 동네 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이정민갈비탕본점?c=14,127.1147512,36.8219039,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "팔팔문어낙지볶음",
+      "location": "충남 천안시 서북구 성성2길 521 2층",
+      "link": "https://map.naver.com/p/entry/place/35513895?c=15.00,0,0,0,dh",
+      "summary": "조금 칼칼함 매움",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/팔팔문어낙지볶음",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a91545548826819c0637eeb9c4ab1983d667358e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/63b8d9220d49893ba7674c0a4a8b68660fedb879?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1388354735"
+    },
+    {
+      "name": "광시한우곱창",
+      "location": "충남 천안시 서북구 오성로 83",
+      "link": "https://map.naver.com/p/entry/place/21419635?c=15.00,0,0,0,dh",
+      "summary": "곱창 구이  볶음밥",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/광시한우곱창?c=14,127.1367472,36.8304752,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/00dd09378157cc55b90c29c4473eae3a150c4e83?original"
+      ],
+      "review_url": "https://place.map.kakao.com/17415791"
+    },
+    {
+      "name": "본가장수촌 천안성성점",
+      "location": "충남 천안시 서북구 공단로 68",
+      "link": "https://map.naver.com/p/entry/place/35940419?c=15.00,0,0,0,dh",
+      "summary": "고소한 누룽지 삼계탕",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/본가장수촌 천안성성점?c=14,127.1266665,36.8448347,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/9042384"
+    },
+    {
+      "name": "경복궁 천안점",
+      "location": "충남 천안시 서북구 성정중7길 9",
+      "link": "https://map.naver.com/p/search/%EC%B2%9C%EC%95%88%20%EA%B2%BD%EB%B3%B5%EA%B6%81/place/1453520657?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "가족 모임하기 좋은 고깃집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/경복궁 천안점?c=14,127.1342116,36.8289103,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ce83258badb4a457566f5e3481754d83b55d3afe?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8186435"
+    },
+    {
+      "name": "성환뚝배기해장국",
+      "location": "충남 천안시 서북구 성환읍 성환1로 2728",
+      "link": "https://map.naver.com/p/entry/place/37130801?placePath=%2Fhome&c=11.96,0,0,0,dh",
+      "summary": "애객러 정예인님 추천 해장국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/성환뚝배기해장국",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ab11f86eb5aeecce05e49caf4b23c98ebe6ba0cc?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/4956b1111c269572a7655690860479c3c16ed981?original"
+      ],
+      "review_url": "https://place.map.kakao.com/16801603"
+    },
+    {
+      "name": "성환두번째집",
+      "location": "충남 천안시 서북구 성환읍 성환1로 293",
+      "link": "https://map.naver.com/p/search/%EC%84%B1%ED%99%98%EB%91%90%EB%B2%88%EC%A7%B8%EC%A7%91/place/93652678?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 떡도리탕님 추천 순대국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/성환두번째집?c=14,127.1272853,36.9212593,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2bae376fb203dd38c11dcd45a823189e174b0f1f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1761537999"
+    },
+    {
+      "name": "등촌샤브칼국수두정점",
+      "location": "충남 천안시 서북구 두정로 132",
+      "link": "https://map.naver.com/p/search/%EB%93%B1%EC%B4%8C%EC%83%A4%EB%B8%8C%EC%B9%BC%EA%B5%AD%EC%88%98%EB%91%90%EC%A0%95%EC%A0%90/place/32001547?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 집요정님 추천 칼국수 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/등촌샤브칼국수두정점?c=14,127.1314610,36.8336423,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1a5e02ca1471969a1eda684ca4f8e5b69a5dfe7f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8948767"
+    },
+    {
+      "name": "추태숙국밥",
+      "location": "충남 천안시 서북구 오성5길 6 1층",
+      "link": "https://map.naver.com/p/search/%EC%B6%94%ED%83%9C%EC%88%99%EA%B5%AD%EB%B0%A5/place/1005258147?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 집요정님 추천 도가니탕 맛집",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/추태숙국밥?c=14,127.1287466,36.8308370,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "https://thumb.kakaocdn.net/dna/kamp/source/rvbwp71fkh8qvtaxfbvk2v0md/thumbs/1.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&expires=33311514501&kamp_tidx=0&signature=mJF1OZ1hWsbdoegY727Kik9sgJc%3D&ts=1754605701"
+      ],
+      "review_url": "https://place.map.kakao.com/1327399902"
+    },
+    {
+      "name": "마니국밥 본점",
+      "location": "충남 천안시 서북구 직산읍 상덕로 185",
+      "link": "https://map.naver.com/p/entry/place/38231567?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 순대국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/마니국밥 본점?c=14,127.1236759,36.8830851,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c010b541075e393628af428ace96a4908a63bee4?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1292728302"
+    },
+    {
+      "name": "미미제면소",
+      "location": "충남 천안시 서북구 성정4길 11 1동 8호",
+      "link": "https://map.naver.com/p/entry/place/1331431705?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 김간호사님 추천 만두 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/미미제면소?c=14,127.1372515,36.8148909,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/4ca782b1f517ca76d30bbf3faf4e99851774e140?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/257f51d07c4e4d20610860920ec587d4e7becdb0?original"
+      ],
+      "review_url": "https://place.map.kakao.com/359100460"
+    },
+    {
+      "name": "청화집",
+      "location": "충남 천안시 동남구 병천면 충절로 1749",
+      "link": "https://map.naver.com/p/entry/place/11711553?c=15.44,0,0,0,dh",
+      "summary": "애객러 무릎어깨님 추천 순대국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청화집?c=14,127.2992250,36.7623321,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/db561eea86f5d6c8c4146433c5887d4867b57c0c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8da0ba0f0bd3f264af5887413b806a603089896a?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3ba109f509fc50dc5530f9c170a8a5c68701f2d3?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/917dbee7636ea22d0bb8aaa94a540212bb31213e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1759e8be47cf1c399634cdd307a22f794c2406f3?original",
+        "https://thumb.kakaocdn.net/dna/kamp/source/rvdcldd5guuutrdw3te3x31e5/thumbs/1.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&expires=33312076364&kamp_tidx=0&signature=ANIv6Jop5acNt1sP%2BW2wNUFlO8E%3D&ts=1755167564",
+        "https://thumb.kakaocdn.net/dna/kamp/source/rvxi3jg4jlpys6moz9cpgz7z6/thumbs/1.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&expires=33312076372&kamp_tidx=0&signature=rniosa6J6rPPyiDA%2FYPBu1OxIws%3D&ts=1755167572"
+      ],
+      "review_url": "https://place.map.kakao.com/11233700"
+    },
+    {
+      "name": "그니식당",
+      "location": "충남 천안시 서북구 불당32길 310",
+      "link": "https://map.naver.com/p/entry/place/1553886595?c=15.44,0,0,0,dh",
+      "summary": "애객러 무릎어깨님 추천 어복쟁반 냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/그니식당",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/cf76ceee34048335022cb809d918017e17f96daf?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ca3a4207448a14018c888da9fc81e0734f48fab6?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1782126780"
+    },
+    {
+      "name": "병천반점",
+      "location": "천안시 동남구 병천면 아우내순대길 38 지하 1층",
+      "link": "https://map.naver.com/p/search/%EC%B2%9C%EC%95%88%20%EB%B3%91%EC%B2%9C%EB%B0%98%EC%A0%90/place/34440111?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 바이올린 해장국님 추천 탕수육 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/병천반점?c=14,127.2990557,36.7609545,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/09a085371c2fdb54ac40d159490c3c92caa2182f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10384457"
+    },
+    {
+      "name": "태선족발",
+      "location": "충남 천안시 동남구 병천면 병천1로 82 1층",
+      "link": "https://map.naver.com/p/entry/place/1845194840?c=15.00,0,0,0,dh",
+      "summary": "애객러 바이올린 해장국님 추천 족발 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태선족발?c=14,127.2950250,36.7586500,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/06a19c6f9949e971941430865291d5619c28625f?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9d4937855bff136c696d50be3a5f440ecf4b8b0d?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1976289865"
+    },
+    {
+      "name": "평양냉면",
+      "location": "충남 천안시 동남구 큰시장길 27",
+      "link": "https://map.naver.com/p/search/%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%EC%B2%9C%EC%95%88%EC%8B%9C%20%EB%8F%99%EB%82%A8%EA%B5%AC%20%EC%82%AC%EC%A7%81%EB%8F%99%20168-8/place/13488160?c=10.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 바이올린 해장국님 추천 평양냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/평양냉면?c=14,127.1496924,36.8020198,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/7fc51b173d19f1b0963f5a480abdf02ff40f9928?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9530015"
+    },
+    {
+      "name": "시골손두부",
+      "location": "충남 천안시 동남구 북면 충절로 1308",
+      "link": "https://map.naver.com/p/search/%EC%8B%9C%EA%B3%A8%EC%88%9C%EB%91%90%EB%B6%80%20%EC%B2%9C%EC%95%88/place/1142448843?c=15.01,0,0,0,dh",
+      "summary": "애객러 김간호사님 추천 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/시골손두부?c=14,127.2523090,36.7695332,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d3b295df55cf7e9b2611daea269e00713abc9418?original"
+      ],
+      "review_url": "https://place.map.kakao.com/314946736"
+    },
+    {
+      "name": "이고집만두",
+      "location": "충남 천안시 동남구 태조산길 258",
+      "link": "https://map.naver.com/p/entry/place/33793005?c=15.00,0,0,2,dh",
+      "summary": "애객러 개간지님 추천 만두 전골 맛집",
+      "tags": [],
+      "navermapurl": "https://map.naver.com/p/search/이고집만두?c=14,127.1882113,36.8205351,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fe8035603a3154f21e3ad26fb059ae7e54082b02?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/99abe7b4db7596d45d0408bc4d8fd52e243e11a9?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/599db0f618b986bfce6df937840b6f997e09a666?original"
+      ],
+      "review_url": "https://place.map.kakao.com/22319551"
+    },
+    {
+      "name": "엄가네 본가 시골집",
+      "location": "충남 천안시 서북구 봉정로 1683",
+      "link": "https://map.naver.com/p/entry/place/12930070?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202506041628&locale=ko&svcName=map_pcv5",
+      "summary": "애객러  Gagaa님 추천 해장국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/엄가네 본가 시골집",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/6f737d08413cb92f8a3f1ca1aa09904902a50c33?original"
+      ],
+      "review_url": "https://place.map.kakao.com/13311506"
+    },
+    {
+      "name": "봉명치킨",
+      "location": "충남 천안시 동남구 봉정로 34",
+      "link": "https://map.naver.com/p/entry/place/17209916?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202506041630&locale=ko&svcName=map_pcv5",
+      "summary": "애객러  Gagaa님 추천 치킨 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/봉명치킨?c=14,127.1396895,36.8051820,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fa3521b94f701b38aeff055f72485a7dbf8efda8?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/afbee7764f6c45afcf1afeecc2f148a223a0e0da?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/34765a174661bf8fb0f083ff8f0db99ecea898ba?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9832720"
+    },
+    {
+      "name": "나무향기",
+      "location": "충남 천안시 서북구 직산읍 금곡로 290111",
+      "link": "https://map.naver.com/p/entry/place/19560888?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202506041631&locale=ko&svcName=map_pcv5",
+      "summary": "애객러  Gagaa님 추천 게장 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/나무향기",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f0fd0407358af4fffdef637e0aa6eaf233a318ea?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/134f2648a902eca4191587b0add1aa305583fcc6?original"
+      ],
+      "review_url": "https://place.map.kakao.com/16772020"
+    }
+  ]
+}

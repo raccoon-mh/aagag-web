@@ -229,4 +229,44 @@
     transform: scale(1.1);
     color: hsl(var(--primary));
   }
+
+  /* 모바일 터치 최적화 */
+  @media (hover: none) and (pointer: coarse) {
+    .hover\:scale-105:hover {
+      transform: none;
+    }
+
+    .group:hover .group-hover\:opacity-100 {
+      opacity: 1;
+    }
+
+    .group:hover .group-hover\:scale-105 {
+      transform: none;
+    }
+  }
+
+  /* 모바일에서 터치 영역 확대 */
+  @media (max-width: 640px) {
+
+    button,
+    [role="button"],
+    input[type="button"],
+    input[type="submit"] {
+      min-height: 44px;
+      min-width: 44px;
+    }
+  }
+
+  /* 스크롤바 숨기기 */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    /* Internet Explorer 10+ */
+    scrollbar-width: none;
+    /* Firefox */
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+    /* Safari and Chrome */
+  }
 }

@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:29:07.826257",
+    "total_groups": 15,
+    "source": "포항",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "삼육식당",
+      "location": "경북 포항시 남구 오천읍 문덕로43번길 64",
+      "link": "https://map.naver.com/p/entry/place/15100928?c=15.00,0,0,0,dh",
+      "summary": "닭계장 or 냉닭국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/삼육식당",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/320371618"
+    },
+    {
+      "name": "새포항물회집",
+      "location": "경북 포항시 북구 삼호로 65",
+      "link": "https://map.naver.com/p/entry/place/11655336?c=15.00,0,0,0,dh",
+      "summary": "물회 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/새포항물회집?c=14,129.3695924,36.0464357,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/507aa3600a74e893a8c0bf058ea1dd099a1cfd91?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b2e07dcd02b4f2e2c57a49e68af9d657eb28a05e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/32d5e250dd2b2601906b9d055d464e12432a5a1c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2a5028c79e8868571ec6a1b273bc063bb9ce84b6?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/75314708a334078c71048ca053bbb147f8b706e3?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10517721"
+    },
+    {
+      "name": "영일만숲실밀면 본점",
+      "location": "경북 포항시 남구 오천읍 철강로830번길 46",
+      "link": "https://map.naver.com/p/entry/place/11829733?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "밀면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/영일만숲실밀면 본점?c=14,129.4195263,35.9601342,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/7f88016e365b59fa15624191beb44f97285f5f60?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d1108de60880743cca257981675f1cc07fe4b833?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/4edd9e9ac4170e633aa5baf5fd988fedfc314438?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/292a2a8156bdb08845136d13205eae5fac1265e0?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8485985"
+    },
+    {
+      "name": "신창추어탕",
+      "location": "경북 포항시 남구 장기면 동해안로 34759",
+      "link": "https://map.naver.com/p/entry/place/20352160?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "먹어보고 포장해가는 추어탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신창추어탕",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/70f8d897fbe78240a2e9fd157f14d81f7233ba16?original"
+      ],
+      "review_url": "https://place.map.kakao.com/14514048"
+    },
+    {
+      "name": "용산식당",
+      "location": "경북 포항시 남구 오천읍 문덕로 48",
+      "link": "https://map.naver.com/p/entry/place/21071624?c=15.00,0,0,0,dh",
+      "summary": "맛있는 백반 제육 유명함 경상도식",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/용산식당?c=14,129.4026603,35.9583754,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/7d492f46cb299588ca4e621d59c3c66d1c68f839?original"
+      ],
+      "review_url": "https://place.map.kakao.com/15996072"
+    },
+    {
+      "name": "우미조개전골",
+      "location": "경북 포항시 북구 서동로 94",
+      "link": "https://map.naver.com/p/entry/place/15144006?c=15.00,0,0,0,dh",
+      "summary": "매콤한 조개전골 2인 중짜 추천",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우미조개전골?c=14,129.3680479,36.0403218,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/109909190"
+    },
+    {
+      "name": "원조 3대 할배돌곱창",
+      "location": "경북 포항시 북구 죽도로28번길 72",
+      "link": "https://map.naver.com/p/entry/place/1839770955?c=14.99,0,0,0,dh",
+      "summary": "노련한 주인장의 맛있는 곱창전골",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원조 3대 할배돌곱창?c=14,129.3594868,36.0289648,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/266165b5032ea8b7af885dcbfdf50c4eeecdae99?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/0276bad250a4448536e70f3aa8343cc70cf01989?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1256759913"
+    },
+    {
+      "name": "환여물회",
+      "location": "경북 포항시 북구 해안로 1891",
+      "link": "https://map.naver.com/p/entry/place/12029183?c=14.99,0,0,0,dh",
+      "summary": "물회덮밥 팔아 빌딩세운 집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/환여물회?c=14,129.3962846,36.1711005,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/37c38930e41bcb31a43d95e00718b480fcf27ec3?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5d6e7c954a90129c761c08062f837f31683f64bb?original"
+      ],
+      "review_url": "https://place.map.kakao.com/15935749"
+    },
+    {
+      "name": "가정초밥 효자본점",
+      "location": "경북 포항시 남구 효자동길2번길 3",
+      "link": "https://map.naver.com/p/entry/place/37558793?c=14.99,0,0,0,dh",
+      "summary": "줄서서 먹는 맛집",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/가정초밥 효자본점?c=14,129.3304577,36.0080935,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/91050b71052d0fad9f68b20679f6da44a1617a7d?original"
+      ],
+      "review_url": "https://place.map.kakao.com/780162235"
+    },
+    {
+      "name": "인천식당",
+      "location": "경북 포항시 북구 중앙로 328",
+      "link": "https://map.naver.com/p/entry/place/15704114?c=14.99,0,0,0,dh",
+      "summary": "가정식 백반 두루치기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/인천식당?c=14,129.3662068,36.0419238,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/14705084"
+    },
+    {
+      "name": "호미곶생아구물회",
+      "location": "경북 포항시 남구 오천읍 충무로 50",
+      "link": "https://map.naver.com/p/entry/place/38651994?c=15.00,0,0,0,dh",
+      "summary": "애객러 왕만두님 추천 물회 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/호미곶생아구물회?c=14,129.4151363,35.9760064,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3673e1852b29443bafd96303590a9cf9b93daab7?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b79e1bee285a8b86d53d54d7cc1027e34f0671e5?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1208783504"
+    },
+    {
+      "name": "마포주먹고기",
+      "location": "남구 오천읍 충무로 47 제일서문종합상가",
+      "link": "https://map.naver.com/p/search/%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%ED%8F%AC%ED%95%AD%EC%8B%9C%20%EB%82%A8%EA%B5%AC%20%EC%98%A4%EC%B2%9C%EC%9D%8D%20%EC%9A%A9%EB%8D%95%EB%A6%AC%20362-14/place/1096127980?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 바이올린 해장국님 추천 고기 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/마포주먹고기?c=14,129.4150468,35.9763820,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5ade48cdff0bd80f74489607b692675a87b893ce?original"
+      ],
+      "review_url": "https://place.map.kakao.com/742685480"
+    },
+    {
+      "name": "회막썰어해물포차",
+      "location": "경북 포항시 남구 상공로 137",
+      "link": "https://map.naver.com/p/entry/place/564253733?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202506130944&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 왕만두님 추천 해물찜 맛집",
+      "tags": [
+        "술안주",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/회막썰어해물포차?c=14,129.3617277,36.0196726,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "호미곶생아구물회",
+      "location": "경북 포항시 남구 오천읍 충무로 50",
+      "link": "https://map.naver.com/p/entry/place/38651994?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509091628&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 왕만두님 추천 물회매운탕 맛집",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/호미곶생아구물회?c=14,129.4151363,35.9760064,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3673e1852b29443bafd96303590a9cf9b93daab7?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b79e1bee285a8b86d53d54d7cc1027e34f0671e5?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1208783504"
+    },
+    {
+      "name": "청운",
+      "location": "경북 포항시 남구 오천읍 해병로269번길 33",
+      "link": "https://map.naver.com/p/entry/place/36868544?c=19.50,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509091631&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 왕만두님 추천 아구찜 맛집",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청운?c=14,129.4150131,35.9710355,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/2136179639"
+    }
+  ]
+}

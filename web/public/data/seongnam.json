@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:30:44.583250",
+    "total_groups": 16,
+    "source": "성남",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "두향",
+      "location": "경기 성남시 분당구 불곡남로 5",
+      "link": "https://map.naver.com/p/entry/place/20213881?c=15.00,0,0,0,dh",
+      "summary": "불고기순두부 정식 등 모임하기 좋은 밥집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/두향?c=14,127.1229984,37.3589415,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a769e8183080f454f581ccdb0f7dcb085d1ac4b6?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/95944dcd58feb4dc24ed7ee34f04be24abb6c389?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10289143"
+    },
+    {
+      "name": "행하령수제비",
+      "location": "성남시 분당구 성남대로144번길 14",
+      "link": "https://map.naver.com/p/entry/place/19873774?c=15.00,0,0,0,dh",
+      "summary": "오사리멸치 수제비",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/행하령수제비?c=14,127.1106181,37.3485685,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2f3eb975483780176c7dd8e278a93097d9f8a7c6?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/141e7c81bb5117569f07b0d33e02a35583e204ce?original"
+      ],
+      "review_url": "https://place.map.kakao.com/26984882"
+    },
+    {
+      "name": "주막골포장마차",
+      "location": "경기 성남시 분당구 발이봉로3번길 2",
+      "link": "https://map.naver.com/p/entry/place/36974693?c=15.00,0,0,0,dh",
+      "summary": "애객러 떡볶음탕 추천 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/주막골포장마차?c=14,127.1268537,37.3659947,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/efbddce1805bed9d07fcdc6166e323f667409d8e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/07c1d9fdc0ac9105519fa32c1711a8aee2a379ae?original"
+      ],
+      "review_url": "https://place.map.kakao.com/15469290"
+    },
+    {
+      "name": "블루메쯔 본점",
+      "location": "경기 성남시 분당구 발이봉남로25번길 2 1층",
+      "link": "https://map.naver.com/p/search/%EB%B8%94%EB%A3%A8%EB%A9%94%EC%AF%94/place/1663007037?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 acho님 추천 양식 맛집",
+      "tags": [
+        "양식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/블루메쯔 본점?c=14,127.1275061,37.3639409,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "와규하우스",
+      "location": "경기 성남시 분당구 장미로92번길 135 1층",
+      "link": "https://map.naver.com/p/search/%EC%99%80%EA%B7%9C%ED%95%98%EC%9A%B0%EC%8A%A4/place/18491069?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/와규하우스",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "윤밀원",
+      "location": "경기 성남시 분당구 백현로 154 1층",
+      "link": "https://map.naver.com/p/search/%EC%9C%A4%EB%B0%80%EC%9B%90/place/37659057?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 acho님 추천 족발 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/윤밀원?c=14,127.1149871,37.3726625,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/11f8be4c96a117a671dd369a6616de97a7732bbc?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/33fc2650954ed41d028edb23d4431500ad3c1f2e?original"
+      ],
+      "review_url": "https://place.map.kakao.com/27478115"
+    },
+    {
+      "name": "태능갈비",
+      "location": "경기 성남시 수정구 탄리로 61",
+      "link": "https://map.naver.com/p/entry/place/37242167?c=15.00,0,0,0,dh",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태능갈비?c=14,127.1362393,37.4415493,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/43c6336a9a3274f590e387b5ace36865c0d1e5f4?original"
+      ],
+      "review_url": "https://place.map.kakao.com/26501877"
+    },
+    {
+      "name": "통보장어마을 1호점",
+      "location": "경기 성남시 수정구 수정남로 84",
+      "link": "https://map.naver.com/p/entry/place/18351573?c=15.00,0,0,0,dh",
+      "summary": "애객러 acho님 추천 장어 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/통보장어마을 1호점?c=14,127.1369260,37.4414700,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "우영관",
+      "location": "경기 성남시 분당구 분당내곡로 117 2층",
+      "link": "https://map.naver.com/p/entry/place/1646261537?c=15.00,0,0,0,dh",
+      "summary": "애객러 옷씨1님 추천 곰탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우영관?c=14,127.1122303,37.3942195,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/313bef05c498d112edd7b2968d0b0bc30d92112f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/106262950"
+    },
+    {
+      "name": "한와담 판교점",
+      "location": "경기 성남시 분당구 판교역로 152 1층 12 13",
+      "link": "https://map.naver.com/p/entry/place/1031190455?c=15.00,0,0,0,dh",
+      "summary": "분위기 좋은 맛있는 고깃집",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한와담 판교점?c=14,127.1102892,37.3942126,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fbcd255fbe3e608234595656f683e3277a38a877?original",
+        "https://thumb.kakaocdn.net/dna/kamp/source/rvucykeu3iuzjyum6fhh394vy/thumbs/1.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&expires=33310391362&kamp_tidx=0&signature=3vAXKt3VdpMyeub0jVyNZbpprEA%3D&ts=1753482562",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/0b2500cd739f775c0c61e210a33de08db259a1d2?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f7434307514ce47ad641df357a044a3e20ac8a18?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fc1291062a4f40a5d3cc8c1309b8cb26ef7852c9?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/16f7ea115841c62d74fadb06ada8636ed2782267?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/606840693c66eb1629fc65bb9f24d1754833b5cc?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/19246b0de50ef653de8b82934fc80c4f6e14f8be?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8cd4eb96974480184913f83e52c69099ee6648b9?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8b0c5b8d39ddab7d3a07556e9bab551105aafca5?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1449091593"
+    },
+    {
+      "name": "정돈 현대백화점 판교점",
+      "location": "경기 성남시 분당구 판교역로146번길 20 9층",
+      "link": "https://map.naver.com/p/search/%EC%A0%95%EB%8F%88/place/1081745974?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "유명한 돈까스",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/정돈 현대백화점 판교점?c=14,127.1120875,37.3927946,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e6dfd0428a94bfffae5f4af07e844562a2ca5f95?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1124289143"
+    },
+    {
+      "name": "백경회관",
+      "location": "경기 성남시 중원구 광명로 138 백경회관",
+      "link": "https://map.naver.com/p/entry/place/18363623?c=18.01,0,0,0,dh",
+      "summary": "애객러 누수탐지기님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/백경회관?c=14,127.1435108,37.4372721,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/873354313"
+    },
+    {
+      "name": "야마다야",
+      "location": "경기 성남시 분당구 구미로 124 굿모닝프라자",
+      "link": "https://map.naver.com/p/search/%EC%95%BC%EB%A7%88%EB%8B%A4%EC%95%BC/place/11719934?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 보리아버님 추천 우동 맛집",
+      "tags": [
+        "일식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/야마다야?c=14,127.1223575,37.3399887,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/395cf9ce3d683a77d37edd3d2ddef783ed694512?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10582631"
+    },
+    {
+      "name": "청담추어정 본점",
+      "location": "경기 성남시 수정구 여수대로56번길 3",
+      "link": "https://map.naver.com/p/search/%08%EC%84%B1%EB%82%A8%20%EC%B2%AD%EB%8B%B4%EC%B6%94%EC%96%B4%EC%A0%95%09/place/19219141?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "추어탕 맛집 대기 많음 확인필수",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청담추어정 본점?c=14,127.1084551,37.4218211,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8cdeff08af9400ef191568288135af3be9718a8c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3fcb88e5cd7b91194c59d58191591e9e35e9ab28?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/14a9467810dfeaf10d357f371d5c2b2c7ed10d2e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/847e75870684cce11719ee2c1de117a799b669c8?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/4d0e4fbee5512c5672ca5ce77d15a86b458ec92c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f2c29279ee710e5b1b22a5119c8d544daa737061?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/0ea31b05693d06a740dcf5e6fc37f8a1d224fb6c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c9445bc3163b9993f19a9c0696fe8767d9cea27b?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1d9c382cb848d4473e96e1af2d073259a155d519?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1460911840"
+    },
+    {
+      "name": "장모밥상",
+      "location": "경기 성남시 분당구 하오개로344번길 5",
+      "link": "https://map.naver.com/p/search/%EC%84%B1%EB%82%A8%20%EC%9E%A5%EB%AA%A8%EB%B0%A5%EC%83%81/place/1609808931?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "정갈한 한상 가득",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/장모밥상?c=14,127.0581109,37.3907827,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5775861e1db49a1722df2c74a9bdcfa5b6f50b61?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1817297240"
+    },
+    {
+      "name": "사계진미 야탑본점",
+      "location": "경기 성남시 분당구 양현로 453",
+      "link": "https://map.naver.com/p/search/%EC%84%B1%EB%82%A8%20%EC%82%AC%EA%B3%84%EC%A7%84%EB%AF%B8/place/13440922?c=15.00,0,0,0,dh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241542&locale=ko&svcName=map_pcv5&searchText=%EC%84%B1%EB%82%A8%20%EC%82%AC%EA%B3%84%EC%A7%84%EB%AF%B8",
+      "summary": "애객러 Tsuji님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/사계진미 야탑본점?c=14,127.1324853,37.4171556,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/64a545bb211328d30f4ae82d15e54feb1f2471ba?original"
+      ],
+      "review_url": "https://place.map.kakao.com/13133178"
+    }
+  ]
+}

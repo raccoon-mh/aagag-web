@@ -1,0 +1,514 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:29:34.126771",
+    "total_groups": 31,
+    "source": "광주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "명화식육식당",
+      "location": "광주 광산구 평동로 421",
+      "link": "https://map.naver.com/p/entry/place/19877647?c=15.00,0,0,0,dh",
+      "summary": "애호박찌개 줄서서 먹음",
+      "tags": [
+        "비추 1",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/명화식육식당?c=14,126.7224485,35.1230002,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bff04b08087edf1261d8da45ba859b3a45ddeab2?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/92edc2608367117b0ebda3831eff7a9eb4578b49?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/32863405c78ae4af81a2023f6bfb8f65b63ce13b?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10332271"
+    },
+    {
+      "name": "어등뼈해장국보쌈",
+      "location": "광주 광산구 무진대로212번길 1332 1층",
+      "link": "https://map.naver.com/p/entry/place/19653832?c=15.00,0,0,0,dh",
+      "summary": "진한 해장국  돌솥밥 조합",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/어등뼈해장국보쌈",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/960aa8aa49188a2cdd6fb7792498de104de444a0?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3a6addcee66361ce1ee3e350217ab1eeb8bba4ba?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/aef55a95c2311a83ab8a2c617a708710be6058a9?original"
+      ],
+      "review_url": "https://place.map.kakao.com/663292663"
+    },
+    {
+      "name": "영미 오리탕",
+      "location": "광주 북구 경양로 126",
+      "link": "https://map.naver.com/p/entry/place/11718943?c=15.00,0,0,0,dh",
+      "summary": "오리탕에 미나리 추가 추천",
+      "tags": [
+        "단체",
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/영미 오리탕?c=14,126.9054753,35.1612916,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8f207abf1086bc2ae03f2b7ac0e94089163c6ff5?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8441874"
+    },
+    {
+      "name": "월산 공원 식당",
+      "location": "광주 남구 수박등로 53",
+      "link": "https://map.naver.com/p/entry/place/16110525?c=15.00,0,0,0,dh",
+      "summary": "월산 공원 산책 후 가족모임하기 좋은곳",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/월산 공원 식당?c=14,126.8966621,35.1444385,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b12a9e1859d95476ac2fc77e16e5e332a4a22ef5?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9363867"
+    },
+    {
+      "name": "오미 뚝배기",
+      "location": "광주 동구 동계천로 116",
+      "link": "https://map.naver.com/p/entry/place/36795126?c=15.00,0,0,0,dh",
+      "summary": "돼지불고기  김치찌개",
+      "tags": [],
+      "navermapurl": "https://map.naver.com/p/search/오미 뚝배기?c=14,126.9228185,35.1504826,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/89cb28b91e56ddeb014276d1611c20d01647f7fe?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/430c1277ea6086ba5755ed6afad9b2f80a90d950?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fbbd6cd7883d400d84f6682c0e0480152c85cbd8?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/861d8af4694eecd375486b1af147fd54ac40df92?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b390b5b2039f4d621b7c24b23f7ab372d8d8cd8c?original"
+      ],
+      "review_url": "https://place.map.kakao.com/16487908"
+    },
+    {
+      "name": "미송꽃게장",
+      "location": "광주 북구 서하로 3271",
+      "link": "https://map.naver.com/p/entry/place/36449225?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 멤피스님 추천 간장게장 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/미송꽃게장",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/0f0f137c394602f707be4ae98aad302d7a761e87?original"
+      ],
+      "review_url": "https://place.map.kakao.com/19777612"
+    },
+    {
+      "name": "김가원",
+      "location": "광주 동구 백서로 1451 2층",
+      "link": "https://map.naver.com/p/entry/place/13570491?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "광주 5대 맛집 홍어 삼합",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/김가원",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2c52390cc7458b9c261fb0774f7a089120d8a3b8?original"
+      ],
+      "review_url": "https://place.map.kakao.com/21315868"
+    },
+    {
+      "name": "매월흑염소가든",
+      "location": "광주 서구 회재유통길 1924",
+      "link": "https://map.naver.com/p/entry/place/38269932?c=15.00,0,0,0,dh",
+      "summary": "밑반찬 마저도 맛있는 보양식집",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/매월흑염소가든",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/6108b8f69c2a2d37bfdc7381b792ec97a364c270?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9fc329936574cac9d4f1755bc06b4cb7c07d1dc3?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9021743"
+    },
+    {
+      "name": "돌담",
+      "location": "광주 북구 금곡한고샅길 4",
+      "link": "https://map.naver.com/p/search/%EB%8F%8C%EB%8B%B4/place/13566847?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "게장 백반 요리",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/돌담?c=14,126.9991220,35.1699805,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/4d12c59fa5066b45952c0c2fd11af1ccf02a690c?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11371955"
+    },
+    {
+      "name": "해담성내식당",
+      "location": "광주 남구 봉선로 21 JM빌딩 2층",
+      "link": "https://map.naver.com/p/entry/place/36221140?c=15.00,0,0,0,dh",
+      "summary": "한우를 직접 담근 된장에 샤브샤브",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/해담성내식당?c=14,126.9033081,35.1312876,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "막동이회관",
+      "location": "광주 동구 남문로 614",
+      "link": "https://map.naver.com/p/entry/place/13570453?c=15.00,0,0,0,dh",
+      "summary": "성시경 극찬 고깃집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/막동이회관?c=14,126.9318859,35.1257270,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ab695d4cc7a8eb42f003955e96a63e1dc34c5685?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/cb322d13824c2aa7bc0355f37e6cc69e4ba28a9f?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/58404369d0ecdb8cd7dadc67242cccb462d3fa0c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fb5061ef0a471a3a27f69cbbac7c79a2facdda6a?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8962407"
+    },
+    {
+      "name": "중앙식당",
+      "location": "광주 광산구 동곡로 15136",
+      "link": "https://map.naver.com/p/entry/place/15991700?c=19.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 물리치료님 추천 게장 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/중앙식당",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/9411370"
+    },
+    {
+      "name": "증심사중앙식당",
+      "location": "광주 동구 증심사길30번길 15",
+      "link": "https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%20%EC%A4%91%EC%95%99%EC%8B%9D%EB%8B%B9%20%EB%AC%B4%EB%93%B1%EC%82%B0/place/11722090?c=16.11,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 물리치료님 추천 닭볶음탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/증심사중앙식당?c=14,126.9569674,35.1335385,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2d0f004108c9093cbbd65d6288f8ab02d8d5baec?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e1f08f197756491246f3f1f3edf4273ea6453a58?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/506181b6c87d45374c47f168ca497dc95d9fbe75?original"
+      ],
+      "review_url": "https://place.map.kakao.com/12698310"
+    },
+    {
+      "name": "나주곰탕 하얀집",
+      "location": "광주 광산구 월곡산정로 89",
+      "link": "https://map.naver.com/p/search/%ED%95%98%EC%96%80%EC%A7%91/place/13570861?c=11.33,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 물리치료님 추천 곰탕 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/나주곰탕 하얀집?c=14,126.8119107,35.1660859,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/30092330a1bba3d35e8be91e1be54dc248d52f95?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10187332"
+    },
+    {
+      "name": "형제송정떡갈비 본점",
+      "location": "광주 광산구 광산로29번길 3",
+      "link": "https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%20%ED%98%95%EC%A0%9C/place/11641382?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "떡갈비와 뼈국",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/형제송정떡갈비 본점?c=14,126.7946605,35.1390536,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "장수국밥",
+      "location": "광주 광산구 광산로 11",
+      "link": "https://map.naver.com/p/entry/place/15933312?c=19.00,0,0,0,dh",
+      "summary": "애객러 건방진 제이지님 추천 국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/장수국밥?c=14,126.7932117,35.1379204,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/7141cc339fd08362ab50090be9206d7e75644192?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9357780"
+    },
+    {
+      "name": "할머니 서울곱창",
+      "location": "광주 광산구 사암로216번길 207",
+      "link": "https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%82%AC%EC%95%94%EB%A1%9C216%EB%B2%88%EA%B8%B8%2020-7/place/15936032?c=19.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 물리치료님 추천 곱창 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/할머니 서울곱창",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/75e2b65e2dfe4cb81d160ca0cfee4a0a7c692f90?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/04f3d422b47e8b77d849b93a4bdfb0bd0c5bb53b?original"
+      ],
+      "review_url": "https://place.map.kakao.com/16198416"
+    },
+    {
+      "name": "초돈",
+      "location": "광주 광산구 수완로74번길 306 초돈",
+      "link": "https://map.naver.com/p/entry/place/972751199?c=19.00,0,0,0,dh",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/초돈",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d4c986a99728e5e69cc6b3bf2a80b37bf8ccf323?original"
+      ],
+      "review_url": "https://place.map.kakao.com/2114253032"
+    },
+    {
+      "name": "기밀",
+      "location": "광주 북구 우치로100번길 84 1층 101호",
+      "link": "https://map.naver.com/p/entry/place/1197611578?c=19.00,0,0,0,dh",
+      "summary": "애객러 acho님 추천 술집",
+      "tags": [
+        "술안주",
+        "양식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/기밀?c=14,126.9170308,35.1765090,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/57938dc66a9b4aa3092115203ec8be3a26aa9095?original"
+      ],
+      "review_url": "https://place.map.kakao.com/777615174"
+    },
+    {
+      "name": "화정떡갈비",
+      "location": "광주 광산구 광산로29번길 6",
+      "link": "https://map.naver.com/p/entry/place/11711508?c=14.94,0,0,0,dh",
+      "summary": "떡갈비  뼈국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/화정떡갈비?c=14,126.7949421,35.1392664,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b0b54a7a782671c02c465412352d889a292cdc37?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/592f2a20bf8783ac83d6f73af7120214f57aab6a?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3b884983e52d82d917b8a18e2388003e1a7be69c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/18cb7d7fd808544cd1e0b8714659308f87c69187?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8171788"
+    },
+    {
+      "name": "행복담",
+      "location": "광주 동구 서석로85번길 2",
+      "link": "https://map.naver.com/p/entry/place/1342560122?c=19.29,0,0,0,dh",
+      "summary": "줄 서서먹는 퓨전 한식",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/행복담?c=14,126.9206013,35.1496275,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/95a8ea0cd043a46ebbb69bf8f1d7b71b5a5228b3?original"
+      ],
+      "review_url": "https://place.map.kakao.com/780171077"
+    },
+    {
+      "name": "한국별관 신안점",
+      "location": "광주 북구 중흥로 82",
+      "link": "https://map.naver.com/p/entry/place/825499365?c=18.25,0,0,0,dh",
+      "summary": "애객러 바이올린해장국님 추천 제육볶음 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한국별관 신안점?c=14,126.9031613,35.1638001,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bfc2072ea30458fbb7b1c7067cd1dc1821ed6878?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8631146"
+    },
+    {
+      "name": "갯마을 회식당",
+      "location": "광주광역시 남구 효덕동 금당로 5",
+      "link": "https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EA%B5%AC%20%ED%9A%A8%EB%8D%95%EB%8F%99%20%EA%B8%88%EB%8B%B9%EB%A1%9C%205/place/1341648600?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 바이올린해장국님 추천 회 맛집",
+      "tags": [
+        "술안주",
+        "단체"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/갯마을 회식당",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/6f714c4798696e3c52c3ea05c81fa05185831df0?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/011d1f7eb1f9f400c969e3fb0af8755e3d02abb3?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1198364657"
+    },
+    {
+      "name": "열도지",
+      "location": "광주 동구 제봉로82번길 17",
+      "link": "https://map.naver.com/p/entry/place/1184037257?c=15.00,0,0,0,dh",
+      "summary": "애객러 바이올린해장국님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/열도지?c=14,126.9231119,35.1470859,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ee67c7a6f81b2198be60a9c50d1d7818fc6c1843?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/6cb76e3782e29dd4afceed3398c1cb5eaa46fdca?original"
+      ],
+      "review_url": "https://place.map.kakao.com/451615583"
+    },
+    {
+      "name": "대성콩물 중흥본점",
+      "location": "광주 북구 제봉로 272",
+      "link": "https://map.naver.com/p/entry/place/21037577?c=16.05,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241522&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 러브꿍꿍님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대성콩물 중흥본점?c=14,126.9114987,35.1588064,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3d0474786418f4828de0257806475ff12d5c8868?original"
+      ],
+      "review_url": "https://place.map.kakao.com/2048465953"
+    },
+    {
+      "name": "득량만횟집",
+      "location": "광주 북구 동문대로97번길 81",
+      "link": "https://map.naver.com/p/entry/place/1412167429?c=13.87,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202508201356&locale=ko&svcName=map_pcv5",
+      "summary": "가성비 좋은 횟집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/득량만횟집?c=14,126.9201671,35.1736454,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/7ed0cea6a88f6a835e6fbb4377d10531398270f4?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/463aad516d838db678ab347eede772a533860c28?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10366663"
+    },
+    {
+      "name": "산수쌈밥",
+      "location": "광주 동구 동계로 11",
+      "link": "https://map.naver.com/p/entry/place/1491922305?c=13.87,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509151024&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 구구구구구님 추천 우렁쌈밥정식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/산수쌈밥?c=14,126.9242399,35.1528897,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3f91b13dc1ecd4ff6f335b13b17b9b9829dcbc4b?original"
+      ],
+      "review_url": "https://place.map.kakao.com/2027994313"
+    },
+    {
+      "name": "맛삼",
+      "location": "광주 동구 서석로7번길 646",
+      "link": "https://map.naver.com/p/entry/place/15972056?c=13.87,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509151025&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 구구구구구님 추천 돼지갈비찜 삼겹 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/맛삼",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/03e51d788b677bd9012ce81f76f70f8e4aec2a83?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c7e27953ec1f6379aaf39d4107410fcbfa7ffd06?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10343783"
+    },
+    {
+      "name": "송원식육식당",
+      "location": "광주 광산구 평동로800번길 13",
+      "link": "https://map.naver.com/p/entry/place/15992513?c=13.80,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509151026&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 구구구구구님 추천 애호박찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/송원식육식당?c=14,126.7610173,35.1239783,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3d3b9bea285a27261e4efa467491ce7cb9893487?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/565e33361e67910a640a6cb3c0290e9137a021e2?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9868850"
+    },
+    {
+      "name": "영창식당",
+      "location": "광주 서구 천변좌로 2241 복개상가2층",
+      "link": "https://map.naver.com/p/entry/place/1758851472?c=13.80,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509151027&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 구구구구구님 추천 불고기백반 맛집",
+      "tags": [],
+      "navermapurl": "https://map.naver.com/p/search/영창식당",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/946e228b07103bbb7b3d7b074a4c63b3f664b463?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8f5c47ec2698bc9ff48d49c6639937c61d9e5696?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/6d32ec7c508906c6ad55f171a9cee3e5bfd7ab74?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11288696"
+    },
+    {
+      "name": "홍스시",
+      "location": "광주 북구 대자로 751",
+      "link": "https://map.naver.com/p/search/%ED%99%8D%EC%8A%A4%EC%8B%9C/place/33462106?c=15.00,0,0,0,dh&placePath=/home?entry=bmp&fromPanelNum=2&timestamp=202509151030&locale=ko&svcName=map_pcv5&searchText=%ED%99%8D%EC%8A%A4%EC%8B%9C&filterType=AI%20View&subFilter=FOOD&fromPanelNum=2&timestamp=202509151030&locale=ko&svcName=map_pcv5&searchText=%ED%99%8D%EC%8A%A4%EC%8B%9C&filterType=AI%20View&subFilter=FOOD&from=map",
+      "summary": "애객러 구구구구구님 추천 오마카세초밥 맛집",
+      "tags": [
+        "일식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/홍스시",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3894a67b2a89e211b494f6841b86b764f957a6d3?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/13229c1e7f9eb55f91d7af89dcf78659d4432c07?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ee0f7383274ed8d259d2db9ca9edaa2323bb3926?original"
+      ],
+      "review_url": "https://place.map.kakao.com/20099138"
+    }
+  ]
+}

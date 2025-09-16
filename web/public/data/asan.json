@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:35:51.145152",
+    "total_groups": 20,
+    "source": "아산",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "경동식당",
+      "location": "충남 아산시 염치읍 염성길 122 1층",
+      "link": "https://map.naver.com/p/entry/place/1848048804?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "한우 육회비빔육개장 굿굿",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/경동식당?c=14,126.9717995,36.8169914,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "광시 연탄 갈비",
+      "location": "충남 아산시 온화로 9",
+      "link": "https://map.naver.com/p/search/%EA%B4%91%EC%8B%9C%20%EC%97%B0%ED%83%84%20%EA%B0%88%EB%B9%84/place/20001818?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "도축 직접 하는 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/광시 연탄 갈비?c=14,126.9985938,36.7784350,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "대웅식당",
+      "location": "충남 아산시 온천대로 1559",
+      "link": "https://map.naver.com/p/search/%EB%8C%80%EC%9B%85%EC%8B%9D%EB%8B%B9/place/1283016093?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "밥 먹기 좋음 리뷰 중 머리카락 이슈 1",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대웅식당?c=14,127.0110797,36.7801364,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "류가본가",
+      "location": "충남 아산시 음봉면 탕정면로 497",
+      "link": "https://map.naver.com/p/search/%EB%A5%98%EA%B0%80%EB%B3%B8%EA%B0%80/place/21638817?c=15.00,0,0,0,dh&placePath=/home&isCorrectAnswer=true",
+      "summary": "육개장과 소머리국밥으로 고민하는 집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/류가본가?c=14,127.0914762,36.8281534,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "망향비빔국수 아산점",
+      "location": "충남 아산시 염치읍 은행나무길 189",
+      "link": "https://map.naver.com/p/search/%EC%95%84%EC%82%B0%20%EB%A7%9D%ED%96%A5%20%EA%B5%AD%EC%88%98/place/33758371?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "만두 필수",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/망향비빔국수 아산점?c=14,127.0075290,36.7986889,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "모산 수제비",
+      "location": "충남 아산시 배방읍 모산로 148",
+      "link": "https://map.naver.com/p/entry/place/17201318?c=15.00,0,0,0,dh",
+      "summary": "들깨 수제비 맛집 콩국수도 좋음",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/모산 수제비?c=14,127.0591072,36.7748905,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "난향아산본점",
+      "location": "충남 아산시 음봉면 충무로 653",
+      "link": "https://map.naver.com/p/entry/place/17213867?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "낙지 짬뽕  탕수육",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/난향아산본점?c=14,127.0110176,36.8373137,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "꽁당보리밥 본점",
+      "location": "충남 아산시 배방읍 북수동로 27 1층",
+      "link": "https://map.naver.com/p/entry/place/17206049?c=15.00,0,0,0,dh",
+      "summary": "모임하기 좋은 한정식 차림상",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/꽁당보리밥 본점?c=14,127.0748549,36.7733232,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "북한강 쭈꾸미",
+      "location": "충남 아산시 신창면 신정호길 266",
+      "link": "https://map.naver.com/p/entry/place/13118971?c=13.00,0,0,0,dh",
+      "summary": "드라이브 가기 좋은 쭈꾸미집 새우튀김 추천",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/북한강 쭈꾸미?c=14,126.9669228,36.7615084,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "산골가든",
+      "location": "충남 아산시 시민로 134",
+      "link": "https://map.naver.com/p/entry/place/11889088?c=13.63,0,0,0,dh",
+      "summary": "옻닭 남은 국물에 죽 필수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/산골가든?c=14,126.9930848,36.7621982,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "고려옥",
+      "location": "충남 아산시 청운로 163",
+      "link": "https://map.naver.com/p/entry/place/17184733?c=13.13,0,0,0,dh",
+      "summary": "곰탕 수육 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고려옥?c=14,127.0089435,36.7885865,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "향촌칼국수",
+      "location": "충남 아산시 배방읍 호서로 307",
+      "link": "https://map.naver.com/p/entry/place/17204904?c=13.13,0,0,0,dh",
+      "summary": "칼국수이지만 콩국수 맛집으로 유명함",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/향촌칼국수?c=14,127.0768647,36.7589778,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "신정식당",
+      "location": "충남 아산시 시민로409번길 18",
+      "link": "https://map.naver.com/p/entry/place/17541906?c=13.63,0,0,0,dh",
+      "summary": "생활의 달인 나온 가게",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신정식당?c=14,126.9999534,36.7858760,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "옴팡집 추어탕",
+      "location": "충남 아산시 온주길16번길 294",
+      "link": "https://map.naver.com/p/entry/place/13546801?c=13.63,0,0,0,dh&placePath=/home",
+      "summary": "파김치 맛있는 집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/옴팡집 추어탕",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "청암 진지상",
+      "location": "충남 아산시 번영로 194",
+      "link": "https://map.naver.com/p/entry/place/17550115?c=13.63,0,0,0,dh&placePath=/home",
+      "summary": "맛있는 백반집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청암 진지상?c=14,127.0121576,36.7846451,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "청와삼대칼국수명이보쌈본사직영점",
+      "location": "충남 아산시 영인면 월선길 78",
+      "link": "https://map.naver.com/p/entry/place/31554079?c=13.13,0,0,0,dh",
+      "summary": "사골 베이스 칼국수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청와삼대칼국수명이보쌈본사직영점?c=14,126.9358230,36.8763940,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "백간난소머리국밥",
+      "location": "충남 아산시 신창면 순천향로 83",
+      "link": "https://map.naver.com/p/entry/place/1351618806?c=15.00,0,0,0,dh",
+      "summary": "애객러 HI5님 추천 국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/백간난소머리국밥?c=14,126.9386886,36.7697456,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "윤스버거",
+      "location": "충남 아산시 배방읍 북수로 10 1층 101호",
+      "link": "https://map.naver.com/p/entry/place/1569899441?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507101536&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 HI5님 추천 고구마튀김 맛집 겨울",
+      "tags": [
+        "양식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/윤스버거?c=14,127.0648959,36.7709184,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "버거앤그릴",
+      "location": "충남 아산시 탕정면 탕정면로8번길 516 1층",
+      "link": "https://map.naver.com/p/entry/place/1451702778?c=15.00,0,0,0,dh&placePath=/photo?filterType=%EB%B0%A9%EB%AC%B8%EC%9E%90&fromPanelNum=1&additionalHeight=76&timestamp=202507101554&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 HI5님 추천 버거 맛집",
+      "tags": [
+        "양식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/버거앤그릴",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "빠삐용피자",
+      "location": "충남 아산시 탕정면 탕정면로8번길 5916",
+      "link": "https://map.naver.com/p/entry/place/1161124654?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507101555&locale=ko&svcName=map_pcv5&filterType=%EB%B0%A9%EB%AC%B8%EC%9E%90&fromPanelNum=1&additionalHeight=76&timestamp=202507101555&locale=ko&svcName=map_pcv5&filterType=%EB%B0%A9%EB%AC%B8%EC%9E%90",
+      "summary": "애객러 HI5님 추천 피자 맛집",
+      "tags": [
+        "양식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/빠삐용피자",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:32:20.591645",
+    "total_groups": 6,
+    "source": "평택",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "딸부자고추장삼겹살",
+      "location": "경기 평택시 평택5로 79",
+      "link": "https://map.naver.com/p/search/%EB%94%B8%EB%B6%80%EC%9E%90%EA%B3%A0%EC%B6%94%EC%9E%A5%EC%82%BC%EA%B2%B9%EC%82%B4/place/17994294?c=15.00,0,0,0,dh&placePath=/home&isCorrectAnswer=true",
+      "summary": "애객러 정예인님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/딸부자고추장삼겹살?c=14,127.1116292,36.9930058,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이탈리안테이블",
+      "location": "경기 평택시 함박산8길 21 1층 101호",
+      "link": "https://naver.me/FHAbw5Er",
+      "summary": "애객러 정예인님 추천 양식 맛집",
+      "tags": [
+        "양식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이탈리안테이블?c=14,127.0323736,37.0377233,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "군계폐계닭",
+      "location": "경기 평택시 자유로 22",
+      "link": "https://map.naver.com/p/entry/place/1558009294?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 닭 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/군계폐계닭?c=14,127.0916835,36.9933645,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "초이참치",
+      "location": "경기 평택시 비전5로 2010 1층",
+      "link": "https://map.naver.com/p/search/%EC%B4%88%EC%9D%B4%EC%B0%B8%EC%B9%98/place/1065645406?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 네모대가리님 추천 참치 맛집",
+      "tags": [
+        "일식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/초이참치",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "호호왕만두",
+      "location": "경기 평택시 탄현로 48",
+      "link": "https://map.naver.com/p/entry/place/1489409455?c=15.00,0,0,0,dh",
+      "summary": "애객러 치킨나래미래공주님 추천 만두 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/호호왕만두?c=14,127.0538737,37.0568394,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "예만두",
+      "location": "경기 평택시 포승읍 여술2길 15",
+      "link": "https://map.naver.com/p/search/%ED%8F%AC%EC%8A%B9%20%EC%98%88%EB%A7%8C%EB%91%90/place/1119405860?c=15.00,0,0,2,dh&isCorrectAnswer=true",
+      "summary": "애객러 치치냥냥님 추천 만두 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/예만두?c=14,126.8455905,36.9867318,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

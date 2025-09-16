@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:30:12.278324",
+    "total_groups": 2,
+    "source": "구리",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "예감 쪽갈비 구리점",
+      "location": "경기 구리시 수택천로33번길 49 1층",
+      "link": "https://map.naver.com/p/search/%EC%98%88%EA%B0%90%20%EA%B5%AC%EB%A6%AC%EC%A0%90/place/35873337?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/예감 쪽갈비 구리점?c=14,127.1445697,37.6006935,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "상우씨알탕",
+      "location": "경기 구리시 안골로97번길 38 1층",
+      "link": "https://map.naver.com/p/search/%EC%83%81%EC%9A%B0%EC%94%A8%EC%95%8C%ED%83%95/place/1585430965?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 개간지님 추천 알탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/상우씨알탕?c=14,127.1411828,37.5990430,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

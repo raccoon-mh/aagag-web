@@ -1,0 +1,1391 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:34:32.089165",
+    "total_groups": 103,
+    "source": "제주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "웅담식당",
+      "location": "제주 서귀포시 중앙로59번길 5",
+      "link": "https://map.naver.com/p/entry/place/11877729?c=12.00,0,0,0,dh",
+      "summary": "솥뚜껑 삼겹살  볶음밥",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/웅담식당?c=14,126.5610421,33.2498541,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "가시아방국수",
+      "location": "제주 서귀포시 성산읍 섭지코지로 10",
+      "link": "https://map.naver.com/p/entry/place/16950110?c=12.00,0,0,0,dh",
+      "summary": "국수와 돔베고기",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/가시아방국수?c=14,126.9180777,33.4386236,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "꽃돼지 연탄구이",
+      "location": "제주 서귀포시 이어도로 227 1층",
+      "link": "https://map.naver.com/p/entry/place/1759470568?c=12.00,0,0,0,dh",
+      "summary": "위치 좋음 예약하면 더 좋음",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/꽃돼지 연탄구이?c=14,126.4438172,33.2424171,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "네거리식당",
+      "location": "제주 서귀포시 서문로29번길 20",
+      "link": "https://map.naver.com/p/entry/place/19873758?c=12.00,0,0,0,dh",
+      "summary": "갈치구이  고등어 조림",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/네거리식당?c=14,126.5592865,33.2485159,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "대정 쌍둥이 식당",
+      "location": "제주 서귀포시 대정읍 하모백사로 2",
+      "link": "https://map.naver.com/p/entry/place/1187871759?c=12.00,0,0,0,dh",
+      "summary": "갈치 우럭 조림 및 물회",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대정 쌍둥이 식당?c=14,126.2594293,33.2115871,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "덕승식당",
+      "location": "제주 서귀포시 대정읍 하모항구로 66",
+      "link": "https://map.naver.com/p/entry/place/1538689173?c=12.00,0,0,0,dh",
+      "summary": "갈치 조림 or 갈치 구이",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/덕승식당?c=14,126.2511875,33.2192841,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "몰질식육식당",
+      "location": "제주 서귀포시 이어도로 598",
+      "link": "https://map.naver.com/p/entry/place/16930405?c=12.00,0,0,0,dh",
+      "summary": "복지리도 유명하지만 짬뽕이 더",
+      "tags": [
+        "중식",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/몰질식육식당?c=14,126.4802884,33.2353630,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "삼보식당",
+      "location": "제주 서귀포시 중정로 25",
+      "link": "https://map.naver.com/p/entry/place/19873072?c=12.00,0,0,0,dh",
+      "summary": "전복 뚝배기 or 물회백반",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/삼보식당?c=14,126.5590751,33.2477534,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "삼원정 중문본점",
+      "location": "제주 서귀포시 색달중앙로 44",
+      "link": "https://map.naver.com/p/entry/place/11595905?c=12.00,0,0,0,dh",
+      "summary": "갈치 조림 or 구이",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/삼원정 중문본점?c=14,126.4138688,33.2592678,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "영해식당",
+      "location": "제주 서귀포시 대정읍 하모상가로 342",
+      "link": "https://map.naver.com/p/entry/place/16937473?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "몸국 곰탕",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/영해식당",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "춘미향식당",
+      "location": "제주 서귀포시 안덕면 산방로 378",
+      "link": "https://map.naver.com/p/search/%EC%B6%98%EB%AF%B8%ED%96%A5%EC%8B%9D%EB%8B%B9/place/33060859?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "갈치조림",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/춘미향식당?c=14,126.2964929,33.2314367,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "호림식당",
+      "location": "제주 서귀포시 부두로 45",
+      "link": "https://map.naver.com/p/entry/place/17045558?c=15.00,0,0,0,dh",
+      "summary": "아구찜 갈치조림",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/호림식당?c=14,126.5646934,33.2410288,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "가스름식당",
+      "location": "제주 서귀포시 표선면 가시로565번길 19",
+      "link": "https://map.naver.com/p/entry/place/16964162?c=15.00,0,0,0,dh",
+      "summary": "돼지 두루치기",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/가스름식당?c=14,126.7719545,33.3530944,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "삼미횟집 제주공항점",
+      "location": "제주 제주시 도두항서5길 1",
+      "link": "https://map.naver.com/p/entry/place/17006466?c=14.94,0,0,0,dh",
+      "summary": "스페셜 메뉴 추천",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/삼미횟집 제주공항점?c=14,126.4637315,33.5046090,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "대해수",
+      "location": "제주 제주시 애월읍 중엄3길 16",
+      "link": "https://map.naver.com/p/entry/place/1024960301?c=14.94,0,0,0,dh",
+      "summary": "가성비 좋은 일식당",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대해수?c=14,126.3732391,33.4749502,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "짬뽕에 취한날",
+      "location": "제주 제주시 귀아랑2길 4",
+      "link": "https://map.naver.com/p/entry/place/38276267?c=14.94,0,0,0,dh",
+      "summary": "갈비 짬뽕",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/짬뽕에 취한날?c=14,126.4978237,33.4912050,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "남문숯불바베큐치킨 본점",
+      "location": "제주 제주시 중앙로 1181",
+      "link": "https://map.naver.com/p/entry/place/37178193?c=14.94,0,0,0,dh",
+      "summary": "술 먹기 좋은 곳",
+      "tags": [
+        "데이트",
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/남문숯불바베큐치킨 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "해바라기식당",
+      "location": "제주 서귀포시 남원읍 한신로 280",
+      "link": "https://map.naver.com/p/entry/place/1412685410?c=14.94,0,0,0,dh",
+      "summary": "흑돼지 두루치기",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/해바라기식당?c=14,126.7200165,33.3123487,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "태공식당",
+      "location": "제주 제주시 애월읍 애월로11길 7",
+      "link": "https://map.naver.com/p/entry/place/16872238?c=14.94,0,0,0,dh",
+      "summary": "해장국 갈치고등어 조림",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태공식당?c=14,126.3201469,33.4651148,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "미쓰신아강발",
+      "location": "제주 제주시 고마로 131",
+      "link": "https://map.naver.com/p/search/%EC%95%84%EA%B0%95%EB%B0%9C/place/31942001?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "숯불 족발",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/미쓰신아강발?c=14,126.5426443,33.5029608,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "그리운바다성산포 성산본점",
+      "location": "제주 서귀포시 성산읍 성산등용로 94",
+      "link": "https://map.naver.com/p/search/%EA%B7%B8%EB%A6%AC%EC%9A%B4%EB%B0%94%EB%8B%A4%ED%9A%9F%EC%A7%91/place/31080869?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "고등어 회 or 한상차림",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/그리운바다성산포 성산본점?c=14,126.9300520,33.4698350,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "봄날의춘천",
+      "location": "제주 제주시 정존11길 37",
+      "link": "https://map.naver.com/p/entry/place/36666065?c=15.00,0,0,0,dh",
+      "summary": "숯불 닭갈비",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/봄날의춘천?c=14,126.4742158,33.4865584,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "칠돈가 본점",
+      "location": "제주 제주시 일주서로 7779",
+      "link": "https://map.naver.com/p/entry/place/1734431290?c=15.00,0,0,0,dh",
+      "summary": "근고기 판매",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/칠돈가 본점?c=14,126.4776086,33.4938771,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "곰막식당",
+      "location": "제주 제주시 구좌읍 구좌해안로 64",
+      "link": "https://map.naver.com/p/entry/place/31204698?c=15.00,0,0,0,dh",
+      "summary": "회국수 or 해산물 모듬",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/곰막식당?c=14,126.7205072,33.5568294,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "두루두루",
+      "location": "제주 제주시 삼무로3길 14",
+      "link": "https://map.naver.com/p/entry/place/16836653?c=15.00,0,0,0,dh",
+      "summary": "객주리 조림",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/두루두루?c=14,126.4943790,33.4904508,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "명리동식당",
+      "location": "제주 제주시 한경면 녹차분재로 498",
+      "link": "https://map.naver.com/p/entry/place/16891414?c=15.00,0,0,0,dh",
+      "summary": "구워주는 집 김치찌개 맛있음",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/명리동식당?c=14,126.2704308,33.3166492,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "명물",
+      "location": "제주 제주시 탑동로11길 21",
+      "link": "https://map.naver.com/p/entry/place/38321252?c=15.00,0,0,0,dh",
+      "summary": "쥐치 조림",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/명물?c=14,126.5185866,33.5174464,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/186292637411e7d998026fc25b39dd0e4c6f546a?original"
+      ],
+      "review_url": "https://place.map.kakao.com/23149701"
+    },
+    {
+      "name": "미풍해장국 본점",
+      "location": "제주 제주시 중앙로14길 13",
+      "link": "https://map.naver.com/p/search/%EB%AF%B8%ED%92%8D%ED%95%B4%EC%9E%A5%EA%B5%AD/place/10977589?c=13.00,0,0,0,dh&placePath=/home",
+      "summary": "해장국",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/미풍해장국 본점?c=14,126.5228438,33.5112333,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "솔지식당",
+      "location": "제주 제주시 월랑로 88",
+      "link": "https://map.naver.com/p/entry/place/19877488?c=13.00,0,0,0,dh",
+      "summary": "고기보다 유명한 멜젓 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/솔지식당?c=14,126.4725157,33.4924119,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "슬기식당",
+      "location": "제주 제주시 사라봉7길 36",
+      "link": "https://map.naver.com/p/entry/place/16738613?c=13.00,0,0,0,dh&placePath=/home",
+      "summary": "동태탕",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/슬기식당?c=14,126.5396175,33.5151325,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "시골길",
+      "location": "제주 제주시 연동13길 9",
+      "link": "https://map.naver.com/p/entry/place/19866481?c=13.00,0,0,0,dh",
+      "summary": "낙지볶음",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/시골길?c=14,126.4947121,33.4888360,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bbf7852a38f94b0249db7c0d30009edd5b434356?original"
+      ],
+      "review_url": "https://place.map.kakao.com/12435417"
+    },
+    {
+      "name": "신설오름",
+      "location": "제주 제주시 고마로17길 2",
+      "link": "https://map.naver.com/p/entry/place/11885803?c=13.00,0,0,0,dh",
+      "summary": "몸국 대표 한식집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신설오름?c=14,126.5415789,33.5053876,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "신토불이수산",
+      "location": "제주 제주시 정존3길 25",
+      "link": "https://map.naver.com/p/entry/place/19586957?c=13.00,0,0,0,dh&placePath=/home",
+      "summary": "방어 전문점",
+      "tags": [
+        "술안주",
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신토불이수산?c=14,126.4720048,33.4836269,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "어사촌도야지",
+      "location": "제주 제주시 애월읍 천덕로 4406",
+      "link": "https://map.naver.com/p/entry/place/13398271?c=13.00,0,0,0,dh",
+      "summary": "흑돼지 모듬",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/어사촌도야지",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "오일등식당",
+      "location": "제주 제주시 도공로 221",
+      "link": "http://om/p/entry/place/21014413?c=13.00,0,0,0,dh&placePath=/home",
+      "summary": "동태찌개",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오일등식당",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "우진해장국",
+      "location": "제주 제주시 서사로 11",
+      "link": "https://map.naver.com/p/entry/place/13418405?c=13.00,0,0,0,dh&placePath=/home",
+      "summary": "고사리 육개장",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우진해장국?c=14,126.5200253,33.5115602,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이서림",
+      "location": "제주 제주시 중앙로24길 4",
+      "link": "https://map.naver.com/p/entry/place/16732460?c=13.00,0,0,0,dh",
+      "summary": "오겹살",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이서림?c=14,126.5243558,33.5066740,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이순애소문난순대국밥 본점",
+      "location": "제주 제주시 화북일동 진남로6길 36",
+      "link": "https://map.naver.com/p/entry/place/16757271?c=13.00,0,0,0,dh&placePath=/home",
+      "summary": "08시 영업 순대 백반",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이순애소문난순대국밥 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "자매국수",
+      "location": "제주 제주시 항골남길 46",
+      "link": "https://map.naver.com/p/entry/place/37060300?c=13.00,0,0,0,dh",
+      "summary": "제주 고기국수 대표 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/자매국수?c=14,126.4591668,33.4985768,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "자매정식",
+      "location": "제주 제주시 서사로19길 21 1층",
+      "link": "https://map.naver.com/p/entry/place/38272279?c=13.00,0,0,0,dh",
+      "summary": "한식 뷔페",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/자매정식?c=14,126.5220996,33.5012555,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "정성듬뿍제주국",
+      "location": "제주 제주시 무근성7길 16 1층 정성듬뿍제주국",
+      "link": "https://map.naver.com/p/entry/place/1520980979?c=13.00,0,0,0,dh",
+      "summary": "갈치 몸장대 각재기 국 전문",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/정성듬뿍제주국?c=14,126.5202272,33.5140317,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "제주김만복김밥 본점",
+      "location": "제주 제주시 오라로 41",
+      "link": "https://map.naver.com/p/entry/place/1773970782?c=13.00,0,0,0,dh",
+      "summary": "김밥계의 센세이션 호불호",
+      "tags": [
+        "체인",
+        "분식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/제주김만복김밥 본점?c=14,126.5089225,33.4970418,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "오라성",
+      "location": "제주 제주시 오라남로 16",
+      "link": "https://map.naver.com/p/entry/place/1789277202?c=13.00,0,0,0,dh",
+      "summary": "흑돼지 김치찜 및 단체 모임 장소",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오라성?c=14,126.5118395,33.4596228,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "24시전주명가콩나물국밥",
+      "location": "제주 제주시 구산로 59",
+      "link": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%EC%BD%A9%EB%82%98%EB%AC%BC%EA%B5%AD%EB%B0%A5/place/34186551?c=13.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "해장하기 좋은 콩나물 국밥",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/24시전주명가콩나물국밥?c=14,126.5407436,33.4849493,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "제주한면가",
+      "location": "제주 제주시 조천읍 북선로 373",
+      "link": "https://map.naver.com/p/entry/place/67671356?c=13.00,0,0,0,dh",
+      "summary": "제주 전통 고기 국수  비빔",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/제주한면가?c=14,126.6999511,33.5120465,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "해봉이네생태동태마당",
+      "location": "제주 제주시 은남길 14",
+      "link": "https://map.naver.com/p/entry/place/32041592?c=13.00,0,0,0,dh",
+      "summary": "동태탕 내장탕",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/해봉이네생태동태마당?c=14,126.4956629,33.4884839,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "화성식당",
+      "location": "제주 제주시 일주동로 383",
+      "link": "https://map.naver.com/p/entry/place/32156714?c=13.00,0,0,0,dh",
+      "summary": "국 전문점 뼈국",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/화성식당?c=14,126.5860621,33.5213744,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "중문갈치노릇 서귀포중문점",
+      "location": "제주 서귀포시 1100로49번길 2819",
+      "link": "https://map.naver.com/p/entry/place/1575915609?c=16.07,0,0,0,dh",
+      "summary": "애객러 남자성기삽니다님 추천 갈치 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/중문갈치노릇 서귀포중문점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "성산봄죽칼국수 성산점",
+      "location": "제주 서귀포시 성산읍 해맞이해안로 2725",
+      "link": "https://map.naver.com/p/entry/place/1351670584?c=16.07,0,0,0,dh",
+      "summary": "애객러 남자성기삽니다님 추천 칼국수 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/성산봄죽칼국수 성산점?c=14,126.9171053,33.4716831,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "임성반점",
+      "location": "제주 제주시 용화로 571",
+      "link": "https://map.naver.com/p/entry/place/16749427?c=16.07,0,0,0,dh",
+      "summary": "애객러 남자성기삽니다님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/임성반점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "돈방석조개구이",
+      "location": "제주 제주시 조천읍 함덕30길 8",
+      "link": "https://map.naver.com/p/entry/place/16730399?c=19.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 acho님 추천 조개구이 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/돈방석조개구이?c=14,126.6763509,33.5396856,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "마우돈",
+      "location": "제주 서귀포시 성산읍 서성일로 1240",
+      "link": "https://map.naver.com/p/entry/place/963854279?c=19.00,0,0,0,dh",
+      "summary": "애객러 acho님 추천 말고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/마우돈?c=14,126.9110143,33.4468088,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "오는정김밥",
+      "location": "제주 서귀포시 동문동로 2 1층",
+      "link": "https://map.naver.com/p/entry/place/1011125170?c=17.40,0,0,0,dh",
+      "summary": "웨이팅 심함 먹기 힘든 김밥집",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오는정김밥?c=14,126.5675910,33.2496182,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "한림칠돈가",
+      "location": "제주 제주시 한림읍 동명리 1846",
+      "link": "https://map.naver.com/p/search/%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%ED%95%9C%EB%A6%BC%EC%9D%8D%20%EB%8F%99%EB%AA%85%EB%A6%AC%201846/place/21031635?c=19.00,0,0,0,dh&placePath=/home&isCorrectAnswer=true",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한림칠돈가?c=14,126.2615309,33.4075187,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "명호마농갈비 연동본점",
+      "location": "제주 제주시 신대로12길 15 1층",
+      "link": "https://map.naver.com/p/search/%EB%AA%85%ED%98%B8%EB%A7%88%EB%86%8D%EA%B0%88%EB%B9%84/place/1835331356?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "단체",
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/명호마농갈비 연동본점?c=14,126.4948630,33.4885958,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "칠사돈 원조명란삼겹살",
+      "location": "제주 제주시 애월읍 애월해안로 906 1층",
+      "link": "https://map.naver.com/p/search/%EC%B9%A0%EC%82%AC%EB%8F%88/place/32305102?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/칠사돈 원조명란삼겹살?c=14,126.3920377,33.4847137,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "불특정식당",
+      "location": "제주 제주시 원노형6길 2 1층 불특정식당",
+      "link": "https://map.naver.com/p/search/%EB%B6%88%ED%8A%B9%EC%A0%95%EC%8B%9D%EB%8B%B9/place/1285282963?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 acho님 추천  술집",
+      "tags": [
+        "양식",
+        "체인",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/불특정식당?c=14,126.4826865,33.4856536,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "산지해장국",
+      "location": "제주 제주시 임항로 34",
+      "link": "https://map.naver.com/p/entry/place/35606863?c=15.00,0,0,0,dh",
+      "summary": "애객러 파라미타님 추천 해장국 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/산지해장국?c=14,126.5285121,33.5163626,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "태산봉해장국",
+      "location": "제주 제주시 성지로 671",
+      "link": "https://map.naver.com/p/entry/place/19649892?c=15.00,0,0,0,dh",
+      "summary": "애객러 호롤롤로님 추천 해장국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태산봉해장국",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "혼바띠국수",
+      "location": "제주 제주시 중앙로2길 151",
+      "link": "https://map.naver.com/p/search/%ED%98%BC%EB%B0%94%EB%9D%A0%EA%B5%AD%EC%88%98/place/1887333410?c=15.00,0,0,0,dh&placePath=/home&isCorrectAnswer=true",
+      "summary": "애객러 고무장갑님 추천 고기국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/혼바띠국수",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "정수용식당",
+      "location": "제주 제주시 서부두남길 162 1층",
+      "link": "https://map.naver.com/p/entry/place/1848192551?c=15.00,0,0,0,dh",
+      "summary": "목살 온리",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/정수용식당",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "금능해장국",
+      "location": "제주 제주시 한림읍 금능길 85 1층",
+      "link": "https://map.naver.com/p/entry/place/1263448786?c=19.00,0,0,0,dh",
+      "summary": "애객러 산토도밍고님 추천 콩국수 맛집 여름",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/금능해장국?c=14,126.2321238,33.3892355,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "고릴라뷔페",
+      "location": "제주 서귀포시 월드컵로 1611 1층",
+      "link": "https://map.naver.com/p/entry/place/1525672210?c=18.16,0,0,0,dh",
+      "summary": "애객러 블랑팡님 추천 한식뷔페 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고릴라뷔페",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "좀녀네집",
+      "location": "제주 제주시 구좌읍 김녕리 6145",
+      "link": "https://map.naver.com/p/search/%EC%A2%80%EB%85%80%EB%84%A4%EC%A7%91/place/17033113?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 첫판부터장난질이냐님 추천 전복죽 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/좀녀네집?c=14,126.7301479,33.5603051,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "한동네",
+      "location": "제주 서귀포시 동부로 4 1층",
+      "link": "https://map.naver.com/p/entry/place/1173460485?c=15.00,0,0,0,dh&placePath=/menu",
+      "summary": "애객러 첫판부터장난질이냐님 추천 보말 칼국수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한동네?c=14,126.5699896,33.2452599,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "중문수두리보말칼국수",
+      "location": "제주 서귀포시 천제연로 192 1층",
+      "link": "https://map.naver.com/p/entry/place/1296235294?c=15.00,0,0,0,dh",
+      "summary": "애객러 첫판부터장난질이냐님 추천 보말 칼국수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/중문수두리보말칼국수?c=14,126.4249998,33.2515785,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "중문쌍둥이회포차",
+      "location": "제주 서귀포시 천제연로 193",
+      "link": "https://map.naver.com/p/entry/place/1908364842?c=15.00,0,0,0,dh",
+      "summary": "애객러 첫판부터장난질이냐님 추천 회 맛집",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/중문쌍둥이회포차?c=14,126.4251784,33.2518509,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "뽈살집 본점",
+      "location": "제주 서귀포시 중정로91번길 41 1층",
+      "link": "https://map.naver.com/p/search/%EB%BD%88%EC%82%B4%EC%A7%91/place/16898812?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 첫판부터장난질이냐님 추천 흑돼지 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/뽈살집 본점?c=14,126.5628582,33.2508226,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "색달바당",
+      "location": "제주 서귀포시 색달로 99",
+      "link": "https://map.naver.com/p/entry/place/1089452165?c=15.00,0,0,0,dh",
+      "summary": "애객러 첫판부터장난질이냐님 추천 회 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/색달바당?c=14,126.4137563,33.2621066,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "용담생국수",
+      "location": "제주 제주시 용담로 95",
+      "link": "https://map.naver.com/p/search/%EC%9A%A9%EB%8B%B4%EC%83%9D%EA%B5%AD%EC%88%98%20/place/16752440?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "신라호텔 교육관리 고기국수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/용담생국수?c=14,126.5129694,33.5119649,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "신성할망식당",
+      "location": "제주시 신대로7길 23 놀이터 무료주차장 앞",
+      "link": "https://map.naver.com/p/search/%EC%8B%A0%EC%84%B1%ED%95%A0%EB%A7%9D%EC%8B%9D%EB%8B%B9%20/place/32162520?c=15.00,0,0,0,dh&placePath=/review&isCorrectAnswer=true",
+      "summary": "신라호텔 교육관리 고기국수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신성할망식당?c=14,126.4991479,33.4919798,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "동동차이나",
+      "location": "제주 서귀포시 남원읍 태위로689번길 7",
+      "link": "https://map.naver.com/p/entry/place/1437242470?c=13.70,0,0,0,dh&placePath=/home",
+      "summary": "중식대가 후덕죽 교육관리 동동짬뽕",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/동동차이나?c=14,126.7198309,33.2800309,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "메로식당",
+      "location": "제주 서귀포시 중정로91번길 16 은성여관",
+      "link": "https://map.naver.com/p/entry/place/16896645?c=13.70,0,0,0,dh&placePath=/home",
+      "summary": "신라호텔 교육관리 메로구이",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/메로식당?c=14,126.5653568,33.2496582,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "보말과 풍경",
+      "location": "제주 서귀포시 대정읍 하모중앙로 17",
+      "link": "https://map.naver.com/p/entry/place/16937419?c=13.70,0,0,0,dh",
+      "summary": "신라호텔 교육관리 보말칼국수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/보말과 풍경?c=14,126.2527848,33.2266160,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "진미네식당",
+      "location": "제주 제주시 수덕5길 42",
+      "link": "https://map.naver.com/p/search/%EB%85%B8%ED%98%95%EB%8F%99%20%EC%88%98%EB%8D%955%EA%B8%B8%2042/place/19653629?c=17.11,0,0,0,dh&placePath=/home",
+      "summary": "신라호텔 교육관리 한정식",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/진미네식당?c=14,126.4744369,33.4850204,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "해성도뚜리",
+      "location": "제주 제주시 애월읍 애월해안로 682",
+      "link": "https://map.naver.com/p/search/%ED%95%B4%EC%84%B1%EB%8F%84%EB%9A%9C%EB%A6%AC/place/17024872?c=17.74,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "신라호텔 교육관리 토마토 짬뽕",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/해성도뚜리?c=14,126.3749966,33.4817582,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "천보식당",
+      "location": "제주 서귀포시 중앙로89번길 13",
+      "link": "https://map.naver.com/p/search/%EC%B2%9C%EB%B3%B4%EC%8B%9D%EB%8B%B9%09%09%20%09%09/place/32036745?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "신라호텔 교육관리 오리주물럭",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/천보식당?c=14,126.5590952,33.2521943,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "행복맛집",
+      "location": "제주 제주시 진남로6길 32",
+      "link": "https://map.naver.com/p/search/%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%ED%99%94%EB%B6%81%EC%9D%BC%EB%8F%99%201948-18/place/16758686?c=17.26,0,0,0,dh&placePath=/home&isCorrectAnswer=true",
+      "summary": "신라호텔 교육관리 아구찜",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/행복맛집?c=14,126.5657090,33.5215912,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "청춘테이블",
+      "location": "제주 제주시 동문로 89",
+      "link": "https://map.naver.com/p/entry/place/16739624?c=17.26,0,0,0,dh",
+      "summary": "신라호텔 교육관리 떡볶이",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청춘테이블?c=14,126.5360773,33.5139568,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "낭쿰낭쿰",
+      "location": "제주 서귀포시 중앙로79번길 4",
+      "link": "https://map.naver.com/p/search/%EB%83%A5%EC%BF%B0%EB%83%A5%EC%BF%B0/place/1495301401?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "신라호텔 교육관리 흑돼지해물갈비전골",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/낭쿰낭쿰?c=14,126.5607531,33.2517409,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "제주돔베막국수",
+      "location": "제주 제주시 한경면 고산로 35",
+      "link": "https://map.naver.com/p/entry/place/21645057?c=15.00,0,0,0,dh",
+      "summary": "신라호텔 교육관리 돔베 막국수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/제주돔베막국수?c=14,126.1793437,33.3041656,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "제주 콩순옥",
+      "location": "제주 서귀포시 대정읍 신영로 1292",
+      "link": "https://map.naver.com/p/search/%EC%A0%9C%EC%A3%BC%20%EC%BD%A9%EC%88%9C%EC%98%A5%20/place/1998909541?c=15.00,0,0,0,dh&placePath=/home&isCorrectAnswer=true",
+      "summary": "신라호텔 교육관리 수제 순두부",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/제주 콩순옥",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "세평맛집",
+      "location": "제주시 구좌읍 평대리 1481 세평맛집",
+      "link": "https://map.naver.com/p/entry/place/1148506572?c=17.29,0,0,0,dh",
+      "summary": "신라호텔 교육관리 양지 해장국",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/세평맛집?c=14,126.8342247,33.5212517,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "차이나마씸",
+      "location": "제주 서귀포시 칠십리로 474",
+      "link": "https://map.naver.com/p/entry/place/36605093?c=17.91,0,0,0,dh",
+      "summary": "신라호텔 교육관리 해물짬뽕",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/차이나마씸?c=14,126.6013542,33.2414042,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "시니어손맛 아리랑",
+      "location": "제주 제주시 이도이동 동광로2길 7",
+      "link": "https://map.naver.com/p/entry/place/38275844?c=17.91,0,0,0,dh",
+      "summary": "신라호텔 교육관리 순두부",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/시니어손맛 아리랑",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/21524881"
+    },
+    {
+      "name": "엄블랑디",
+      "location": "제주 서귀포시 일주동로 8713",
+      "link": "https://map.naver.com/p/entry/place/1834245829?c=17.91,0,0,0,dh",
+      "summary": "신라호텔 교육관리 점심 정식 도시락",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/엄블랑디?c=14,126.5575566,33.2523771,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "뉴 남원분식",
+      "location": "제주 서귀포시 남원읍 태위로679번길 2 1층",
+      "link": "https://map.naver.com/p/entry/place/1033846528?c=19.15,0,0,0,adh",
+      "summary": "신라호텔 교육관리 흑돼지 불고기 김밥",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/뉴 남원분식?c=14,126.7192436,33.2792987,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "혜자이모네",
+      "location": "제주 제주시 다랑곶길 7 1층",
+      "link": "https://map.naver.com/p/entry/place/1721946988?c=19.15,0,0,0,dh",
+      "summary": "신라호텔 교육관리 도토리 묵 무침",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/혜자이모네?c=14,126.4791362,33.4873098,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "비양도 식당",
+      "location": "제주 제주시 한림읍 한림로 167 1층",
+      "link": "https://map.naver.com/p/entry/place/17023204?c=19.15,0,0,0,dh",
+      "summary": "신라호텔 교육관리 우럭조림",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/비양도 식당?c=14,126.2257570,33.3860670,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "남양통닭",
+      "location": "제주 제주시 중앙로 25",
+      "link": "https://map.naver.com/p/entry/place/16687336?c=19.15,0,0,0,dh",
+      "summary": "애객러 바이올린해장국님 추천 통닭 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/남양통닭?c=14,126.5248864,33.5159114,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "문화통닭",
+      "location": "제주 서귀포시 성산읍 고성오조로 81",
+      "link": "https://map.naver.com/p/search/%EB%AC%B8%ED%99%94%ED%86%B5%EB%8B%AD/place/12816849?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "맛있는 통닭집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/문화통닭?c=14,126.9143557,33.4508916,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "산방산 국수맛집",
+      "location": "제주 서귀포시 안덕면 사계남로216번길 47",
+      "link": "https://map.naver.com/p/entry/place/1326062458?c=15.00,0,0,0,dh",
+      "summary": "무난하게 먹을 수 있는 국수집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/산방산 국수맛집?c=14,126.3091245,33.2342605,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "착한갈치",
+      "location": "제주 서귀포시 보목포로 35",
+      "link": "https://map.naver.com/p/entry/place/1491225475?c=15.01,0,0,0,dh",
+      "summary": "애객러 순대삼촌님 추천 갈치 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/착한갈치?c=14,126.6061121,33.2398767,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "제갈양",
+      "location": "제주 제주시 한림읍 한림로 155",
+      "link": "https://map.naver.com/p/entry/place/16866249?c=15.01,0,0,0,dh",
+      "summary": "애객러 순대삼촌님 추천 갈치 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/제갈양?c=14,126.2244437,33.3860276,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "금메달식당",
+      "location": "제주 제주시 오현길 85",
+      "link": "https://map.naver.com/p/entry/place/16701737?c=17.73,0,0,0,dh&placePath=/home",
+      "summary": "애객러 소시민님 추천 갈치조림 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/금메달식당?c=14,126.5251592,33.5123593,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "어가 제주공항점",
+      "location": "제주 제주시 1100로 32138",
+      "link": "https://map.naver.com/p/search/%EC%A0%9C%EC%A3%BC%20%EB%85%B8%ED%98%95%EB%8F%99%20%EC%96%B4%EA%B0%80/place/37651380?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 아이스크림님 추천 갈치 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/어가 제주공항점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "황해식당",
+      "location": "제주 제주시 일주서로 7682",
+      "link": "https://map.naver.com/p/entry/place/1272584236?c=15.00,0,0,0,dh",
+      "summary": "애객러 개같은금형님 추처 갈치조림 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/황해식당?c=14,126.4671745,33.4938149,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "돌담땅콩국수",
+      "location": "제주 제주시 애월읍 애월로 531 1층",
+      "link": "https://map.naver.com/p/entry/place/1253782237?c=11.20,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241148&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 도어락님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/돌담땅콩국수",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "코코분식",
+      "location": "제주 제주시 신성로 104 1층",
+      "link": "https://map.naver.com/p/entry/place/16814778?c=16.05,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241527&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 블랑팡님 추천 콩국수 맛집",
+      "tags": [
+        "분식",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/코코분식?c=14,126.5300406,33.4967531,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "옛날국수집",
+      "location": "제주 제주시 애월읍 하귀로 56",
+      "link": "https://map.naver.com/p/search/%ED%95%98%EA%B7%80%EC%98%9B%EB%82%A0%EA%B5%AD%EC%88%98%EC%A7%91/place/181921983?c=15.00,0,0,0,dh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241528&locale=ko&svcName=map_pcv5&searchText=%ED%95%98%EA%B7%80%EC%98%9B%EB%82%A0%EA%B5%AD%EC%88%98%EC%A7%91",
+      "summary": "애객러 블랑팡님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/옛날국수집?c=14,126.4033074,33.4802737,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "모슬포에서",
+      "location": "제주 서귀포시 대정읍 영서중로13번길 10 1층 104호",
+      "link": "https://map.naver.com/p/entry/place/37168364?placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202508011529&locale=ko&svcName=map_pcv5&c=15.00,0,0,0,dh",
+      "summary": "우니 감태 김밥",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/모슬포에서?c=14,126.2549185,33.2219496,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "초원도야지",
+      "location": "제주 제주시 애월읍 하소로 14 1층",
+      "link": "https://map.naver.com/p/entry/place/1672725190?c=15.00,0,0,0,dh&placePath=/photo?feedId=18143611&from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509081713&locale=ko&svcName=map_pcv5&filterType=%EB%B0%A9%EB%AC%B8%EC%9E%90&scrollTo=feed&fromPanelNum=1&additionalHeight=76&timestamp=202509081711&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 블랑팡님 추천 1인 9천원 무한리필 뷔페",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/초원도야지?c=14,126.3993303,33.4787143,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "용이식당",
+      "location": "제주 서귀포시 중앙로79번길 9 1층",
+      "link": "https://map.naver.com/p/entry/place/11613269?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509081712&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 블랑팡님 추천 흑돼지 두루치기",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/용이식당?c=14,126.5604605,33.2510931,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:33:07.563399",
+    "total_groups": 7,
+    "source": "동해",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "부흥회집",
+      "location": "강원 동해시 일출로 93 부흥횟집",
+      "link": "https://map.naver.com/p/entry/place/20361843?c=14.99,0,0,0,dh",
+      "summary": "뷰 좋은 물회 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/부흥회집?c=14,129.1179553,37.5520892,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "선창 횟집",
+      "location": "강원 동해시 일출로 233",
+      "link": "https://map.naver.com/p/entry/place/1906435788?c=14.99,0,0,0,dh",
+      "summary": "모듬회",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/선창 횟집?c=14,129.1196173,37.5628803,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "소나무식당",
+      "location": "강원 동해시 한섬로 619",
+      "link": "https://map.naver.com/p/entry/place/15400756?c=14.99,0,0,0,dh&placePath=/home",
+      "summary": "오리 불고기 로스",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/소나무식당",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "유정청국장",
+      "location": "강원 동해시 천곡2길 7",
+      "link": "https://map.naver.com/p/entry/place/15393830?c=14.99,0,0,0,dh&placePath=/home",
+      "summary": "맛있는 청국장",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/유정청국장?c=14,129.1120865,37.5245924,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "평릉한우설렁탕",
+      "location": "강원 동해시 평원1길 98 1층",
+      "link": "https://map.naver.com/p/entry/place/1629448232?c=14.99,0,0,0,dh",
+      "summary": "설렁탕  도가니 우족탕",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/평릉한우설렁탕?c=14,129.1167686,37.5319636,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "홍대포 본점",
+      "location": "강원 동해시 감추로 61",
+      "link": "https://map.naver.com/p/entry/place/21175897?c=14.99,0,0,0,dh",
+      "summary": "푸짐하고 깔끔한 국물 맛",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/홍대포 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "행복식당",
+      "location": "강원 동해시 묵호시장길 18",
+      "link": "https://map.naver.com/p/search/%EB%8F%99%ED%95%B4%20%ED%96%89%EB%B3%B5%EC%8B%9D%EB%8B%B9/place/1620020255?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 무릎어깨님 추천 장치조림 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/행복식당?c=14,129.1148330,37.5524782,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

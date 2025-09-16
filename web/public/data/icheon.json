@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:31:59.688086",
+    "total_groups": 14,
+    "source": "이천",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "온정손만두 본점",
+      "location": "경기 이천시 애련정로 491 온정빌딩 1층",
+      "link": "https://map.naver.com/p/entry/place/19799014?c=14.56,0,0,0,dh",
+      "summary": "만두국 만두전골 찐만두 등",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/온정손만두 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "외할머니집",
+      "location": "경기 이천시 모가면 사실로 646",
+      "link": "https://map.naver.com/p/entry/place/18519688?c=14.56,0,0,0,dh",
+      "summary": "14인상차림 할머니 밥상",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/외할머니집?c=14,127.4390644,37.1689566,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "우정식당",
+      "location": "경기 이천시 부발읍 가좌로61번길 92",
+      "link": "https://map.naver.com/p/entry/place/37871109?c=14.56,0,0,0,dh&placePath=/home",
+      "summary": "국밥과 소금구이 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우정식당?c=14,127.4676935,37.2556233,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "원조주막칡냉면",
+      "location": "경기 이천시 증신로 2249",
+      "link": "https://map.naver.com/p/entry/place/13573717?c=14.56,0,0,0,dh&placePath=/home",
+      "summary": "칡 냉면 들깨 칼국수 만두 등",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원조주막칡냉면",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "청 목",
+      "location": "경기 이천시 경충대로 3046",
+      "link": "https://map.naver.com/p/entry/place/11687237?c=14.56,0,0,0,dh",
+      "summary": "이천 쌀 한정식",
+      "tags": [
+        "데이트",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청 목?c=14,127.4085974,37.2996505,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "희망의숲가든",
+      "location": "경기 이천시 부발읍 무촌로 6867",
+      "link": "https://map.naver.com/p/entry/place/32083143?c=14.56,0,0,0,dh",
+      "summary": "하우스에서 먹는 흑돼지",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/희망의숲가든",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "모가명품한우촌",
+      "location": "경기 이천시 모가면 사실로1012번길 2011",
+      "link": "https://map.naver.com/p/search/%EB%AA%A8%EA%B0%80%EB%AA%85%ED%92%88%ED%95%9C%EC%9A%B0%EC%B4%8C/place/20121663?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/모가명품한우촌",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "점촌해장국",
+      "location": "경기 이천시 백사면 이여로88번길 30 1호",
+      "link": "https://map.naver.com/p/search/%EC%9D%B4%EC%B2%9C%20%EC%A0%90%EC%B4%8C%ED%95%B4%EC%9E%A5%EA%B5%AD/place/1033928951?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 바이올린해장국님 추천 해장국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/점촌해장국?c=14,127.4637960,37.3056710,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "호운",
+      "location": "경기 이천시 신둔면 황무로 200",
+      "link": "https://map.naver.com/p/search/%EC%9D%B4%EC%B2%9C%ED%98%B8%EC%9A%B4/place/1417314194?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 도둑고양이님 추천 생선구이 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/호운?c=14,127.3743719,37.3049760,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "승우 돈까스",
+      "location": "경기 이천시 부발읍 가좌로 123 1층 101호",
+      "link": "https://map.naver.com/p/search/%EC%8A%B9%EC%9A%B0%EB%8F%88%EA%B9%8C%EC%8A%A4/place/1030544414?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 도둑고양이님 추천 돈까스 맛집",
+      "tags": [
+        "체인",
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/승우 돈까스?c=14,127.4685247,37.2628696,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이천돌솥밥",
+      "location": "경기 이천시 신둔면 경충대로 3194",
+      "link": "https://map.naver.com/p/entry/place/13301852?c=15.00,0,0,0,dh",
+      "summary": "애객러 도둑고양이님 추천 한정식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이천돌솥밥?c=14,127.4009689,37.3113481,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "신갈미추어탕생선국수",
+      "location": "경기 이천시 경충대로 2494",
+      "link": "https://map.naver.com/p/search/%EC%8B%A0%EA%B0%88%EB%AF%B8%EC%B6%94%EC%96%B4%ED%83%95/place/13189696?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 도둑고양이님 추천 추어탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신갈미추어탕생선국수?c=14,127.4550752,37.2720876,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "온정 손만두 본점",
+      "location": "경기 이천시 애련정로 491",
+      "link": "https://map.naver.com/p/entry/place/19799014?c=15.00,0,0,0,dh",
+      "summary": "애객러 도둑고양이님 추천 만두 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/온정 손만두 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "또또한식부페",
+      "location": "경기 이천시 마장면 둔터로 3",
+      "link": "https://map.naver.com/p/search/%EB%98%90%EB%98%90%ED%95%9C%EC%8B%9D%EB%B6%80%ED%8E%98/place/1255755273?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 도둑고양이님 추천 한식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/또또한식부페?c=14,127.3981114,37.2838636,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

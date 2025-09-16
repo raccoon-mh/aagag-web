@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:32:33.631270",
+    "total_groups": 10,
+    "source": "포천",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "횡성생고기",
+      "location": "경기 포천시 소흘읍 봉솔로 62",
+      "link": "https://map.naver.com/p/entry/place/1045375989?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/횡성생고기?c=14,127.1424841,37.8290181,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "오리가",
+      "location": "경기 포천시 소흘읍 봉솔로4길 111",
+      "link": "https://map.naver.com/p/entry/place/1417217111?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 오리요리 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오리가",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "스시센",
+      "location": "경기 포천시 소흘읍 봉솔로3길 10",
+      "link": "https://map.naver.com/p/search/%EC%8A%A4%EC%8B%9C%EC%84%BC/place/1971240470?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 네모대가리님 추천 스시 맛집",
+      "tags": [
+        "일식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/스시센?c=14,127.1424784,37.8272982,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "생고기제작소 송우리점",
+      "location": "경기 포천시 소흘읍 송우로 53 2층",
+      "link": "https://map.naver.com/p/entry/place/1953665136?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 고기무한리필 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/생고기제작소 송우리점?c=14,127.1430703,37.8287100,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이흥선참치 송우직영점",
+      "location": "경기 포천시 소흘읍 태봉로 138 201호",
+      "link": "https://map.naver.com/p/entry/place/47945086?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 스시 맛집",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이흥선참치 송우직영점?c=14,127.1398899,37.8299878,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "송우리손칼국수 본점",
+      "location": "경기 포천시 호국로 923",
+      "link": "https://map.naver.com/p/entry/place/35557966?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/송우리손칼국수 본점?c=14,127.1616435,37.8482105,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "칼뽕",
+      "location": "경기 포천시 호국로 910",
+      "link": "https://map.naver.com/p/entry/place/1293230555?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 짬뽕 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/칼뽕?c=14,127.1612174,37.8468781,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "찐스야꼬마김밥 선단점",
+      "location": "경기 포천시 호국로 100715 1층 102호",
+      "link": "https://map.naver.com/p/entry/place/1192199219?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 분식 맛집",
+      "tags": [
+        "분식",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/찐스야꼬마김밥 선단점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "내고향 돌솥 순대국",
+      "location": "경기 포천시 호국로 1323",
+      "link": "https://map.naver.com/p/entry/place/1362586760?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 순대국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/내고향 돌솥 순대국?c=14,127.1844494,37.8784178,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "대도평양식돌김치찌개",
+      "location": "경기 포천시 호국로 1343",
+      "link": "https://map.naver.com/p/search/%EB%8C%80%EB%8F%84%ED%8F%89%EC%96%91%EC%8B%9D%EB%8F%8C%EA%B9%80%EC%B9%98%EC%B0%8C%EA%B0%9C/place/11707182?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 네모대가리님 추천 찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대도평양식돌김치찌개?c=14,127.1856546,37.8799202,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

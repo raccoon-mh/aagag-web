@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:34:39.619040",
+    "total_groups": 15,
+    "source": "충주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "공아춘",
+      "location": "충북 충주시 중원대로 3033 1층 공아춘",
+      "link": "https://map.naver.com/p/entry/place/1188726772?c=18.00,0,0,0,dh",
+      "summary": "애객러 누수탐지기님 추천 짜장 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/공아춘?c=14,127.9176524,36.9432430,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "우미칼국수",
+      "location": "충북 충주시 범바위길 9 1층",
+      "link": "https://map.naver.com/p/search/%EC%9A%B0%EB%AF%B8%EC%B9%BC%EA%B5%AD%EC%88%98/place/1046167514?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 누수탐지기님 추천 사골칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우미칼국수?c=14,127.9427300,36.9520884,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "평양칼국수",
+      "location": "충북 충주시 연원17길 21",
+      "link": "https://map.naver.com/p/search/%ED%8F%89%EC%96%91%EC%B9%BC%EA%B5%AD%EC%88%98/place/20309760?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 누수탐지기님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/평양칼국수?c=14,127.9328210,36.9843634,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "일번지순대국",
+      "location": "충북 충주시 연수상가2길 9",
+      "link": "https://map.naver.com/p/search/%EC%9D%BC%EB%B2%88%EC%A7%80%EC%88%9C%EB%8C%80%EA%B5%AD/place/19888528?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 누수탐지기님 추천 호불호 순대국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/일번지순대국?c=14,127.9300812,36.9884417,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이름난순대의신 본점",
+      "location": "충북 충주시 동수5길 41",
+      "link": "https://map.naver.com/p/entry/place/37401051?c=15.00,0,0,0,dh",
+      "summary": "애객러 누수탐지기님 추천 호불호 순대국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이름난순대의신 본점?c=14,127.9381220,36.9845223,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "대미순대",
+      "location": "충북 충주시 동량면 무너미길 27",
+      "link": "https://map.naver.com/p/entry/place/17574921?c=15.00,0,0,0,dh",
+      "summary": "애객러 누수탐지기님 추천 호불호 순대국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대미순대?c=14,127.9288925,37.0328850,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "만복이쭈꾸미낙지볶음 충주점",
+      "location": "충북 충주시 안림로 161",
+      "link": "https://map.naver.com/p/search/%EB%A7%8C%EB%B3%B5%EC%9D%B4%20%EC%AD%88%EA%BE%B8%EB%AF%B8%20%EC%B6%A9%EC%A3%BC/place/1411673961?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 누수탐지기님 추천 낙지쭈꾸미 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/만복이쭈꾸미낙지볶음 충주점?c=14,127.9631958,36.9741140,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "중앙관",
+      "location": "충북 충주시 노은면 연하중앙길 24",
+      "link": "https://map.naver.com/p/entry/place/17571509?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202506131024&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 누수탐지기님 추천 짬뽕 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/중앙관?c=14,127.7548977,37.0475175,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "원조중앙탑막국수 충주점",
+      "location": "충북 충주시 중원대로 3018",
+      "link": "https://map.naver.com/p/entry/place/33771231?c=15.00,0,0,0,dh",
+      "summary": "애객러 누수탐지기님 추천 막국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원조중앙탑막국수 충주점?c=14,127.9191718,36.9426126,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "만선식당",
+      "location": "충북 충주시 대소원면 중원대로 4020",
+      "link": "https://map.naver.com/p/search/%EB%A7%8C%EC%84%A0%EC%8B%9D%EB%8B%B9/place/1398096538?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 누수탐지기님 추천 오징어볶음 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/만선식당?c=14,127.8605903,36.9649040,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "더봉춘",
+      "location": "충북 충주시 수안보면 수회리로 126",
+      "link": "https://map.naver.com/p/entry/place/1562333896?c=15.00,0,0,0,dh",
+      "summary": "애객러 누수탐지기님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/더봉춘?c=14,127.9775317,36.8796792,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "상촌식당",
+      "location": "충북 충주시 수안보면 중산신촌길 99",
+      "link": "https://map.naver.com/p/entry/place/17568715?c=15.00,0,0,0,dh",
+      "summary": "애객러 누수탐지기님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/상촌식당?c=14,127.9950380,36.8846894,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "중앙탑메밀마당",
+      "location": "충북 충주시 중앙탑면 탑평리 42",
+      "link": "https://map.naver.com/p/search/%EC%A4%91%EC%95%99%ED%83%91%EB%A9%94%EB%B0%80%EB%A7%88%EB%8B%B9/place/11817590?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 난알아요님 추천 메밀 음식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/중앙탑메밀마당?c=14,127.8643314,37.0176034,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "만수네 연수본점",
+      "location": "충북 충주시 동수13길 6 1층",
+      "link": "https://map.naver.com/p/entry/place/1472032114?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202506131017&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 누수탐지기님 추천 닭매운탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/만수네 연수본점?c=14,127.9386313,36.9835693,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "중화덕선생",
+      "location": "충북 충주시 형설로 149 1층",
+      "link": "https://map.naver.com/p/entry/place/1808200637?c=15.48,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202506131019&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 누수탐지기님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/중화덕선생?c=14,127.9383515,36.9672569,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

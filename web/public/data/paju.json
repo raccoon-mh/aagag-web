@@ -1,0 +1,477 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:32:15.284684",
+    "total_groups": 34,
+    "source": "파주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "도가네",
+      "location": "경기 파주시 조리읍 통일로 412",
+      "link": "https://map.naver.com/p/entry/place/11838240?c=14.99,0,0,0,dh",
+      "summary": "로스구이 서비스 이슈가 있음",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/도가네?c=14,126.8031743,37.7501085,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "물빛하늘정원 본점",
+      "location": "경기 파주시 탄현면 새오리로 20923",
+      "link": "https://map.naver.com/p/entry/place/21012207?c=14.99,0,0,0,dh",
+      "summary": "해신탕",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/물빛하늘정원 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "민바리고추장매운탕",
+      "location": "경기 파주시 쌀뚜기길 4442",
+      "link": "https://map.naver.com/p/entry/place/11715770?c=14.99,0,0,0,dh",
+      "summary": "메기매운탕 맛집",
+      "tags": [
+        "술안주",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/민바리고추장매운탕",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "반구정나루터집",
+      "location": "경기 파주시 문산읍 반구정로85번길 13",
+      "link": "https://map.naver.com/p/entry/place/11817094?c=14.99,0,0,0,dh",
+      "summary": "장어 소금 간장 구이 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/반구정나루터집?c=14,126.7517522,37.8684220,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/ddef6a42999c6ab3f88c8c295c69d1a58bbf100d?original"
+      ],
+      "review_url": "https://place.map.kakao.com/7897203"
+    },
+    {
+      "name": "복두부집",
+      "location": "경기 파주시 탄현면 평화로 615",
+      "link": "https://map.naver.com/p/entry/place/11678421?c=15.00,0,0,0,dh",
+      "summary": "두부 맛집 볏짚 청국장도",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/복두부집?c=14,126.7167561,37.7744910,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "심학산 도토리 국수",
+      "location": "경기 파주시 교하로681번길 12",
+      "link": "https://map.naver.com/p/entry/place/31634478?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "도토리 국수 전 무침",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/심학산 도토리 국수?c=14,126.7038978,37.7094485,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "언칼국수 금촌본점",
+      "location": "경기 파주시 금정20길 23",
+      "link": "https://map.naver.com/p/entry/place/21037670?c=15.00,0,0,0,dh",
+      "summary": "얼큰 칼국수 바지락 수제비 등",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/언칼국수 금촌본점?c=14,126.7748053,37.7619797,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "심학산 이가네봉평메밀향",
+      "location": "경기 파주시 교하로 685",
+      "link": "https://map.naver.com/p/entry/place/33878867?c=15.00,0,0,0,dh",
+      "summary": "메밀 요리 전문점",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/심학산 이가네봉평메밀향?c=14,126.7040948,37.7097629,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이가덕보갈비탕갈비찜 본점",
+      "location": "경기 파주시 쇠재개울길 6214",
+      "link": "https://map.naver.com/p/entry/place/1360939532?c=15.00,0,0,0,dh",
+      "summary": "양 많은 갈비탕집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이가덕보갈비탕갈비찜 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "큰손집",
+      "location": "경기 파주시 중앙로 270",
+      "link": "https://map.naver.com/p/entry/place/13124807?c=15.00,0,0,0,dh",
+      "summary": "꽉 찬 순대국",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/큰손집?c=14,126.7776835,37.7602260,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "파주닭국수 파주본점",
+      "location": "경기 파주시 새꽃로 307",
+      "link": "https://map.naver.com/p/entry/place/36668840?c=15.00,0,0,0,dh",
+      "summary": "탕수육도 같이 드세요",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/파주닭국수 파주본점?c=14,126.7856419,37.7698382,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "명가숯불갈비 파주출판단지본점",
+      "location": "경기 파주시 책향기로 2871",
+      "link": "https://map.naver.com/p/search/%EB%AA%85%EA%B0%80%EC%88%AF%EB%B6%88%EA%B0%88%EB%B9%84/place/37572748?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/명가숯불갈비 파주출판단지본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "늑대소곱창",
+      "location": "경기 파주시 동산8길 29 신진빌딩 1층",
+      "link": "https://map.naver.com/p/search/%EB%8A%91%EB%8C%80%EC%86%8C%EA%B3%B1%EC%B0%BD/place/1656657207?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "술안주",
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/늑대소곱창?c=14,126.7723625,37.7584867,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "고급양식 파주점",
+      "location": "경기 파주시 경의로 1024 110호",
+      "link": "https://map.naver.com/p/entry/place/1023204114?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 양식 맛집",
+      "tags": [
+        "양식",
+        "체인"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고급양식 파주점?c=14,126.7593514,37.7088573,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "운미정",
+      "location": "경기 파주시 경의로1004번길 33 1층101호",
+      "link": "https://map.naver.com/p/entry/place/1360896332?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/운미정?c=14,126.7599274,37.7091861,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "양계장집아들 야당역점",
+      "location": "경기 파주시 경의로1004번길 37",
+      "link": "https://map.naver.com/p/entry/place/1535832658?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 치킨 맛집",
+      "tags": [
+        "체인"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/양계장집아들 야당역점?c=14,126.7598109,37.7097155,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "모토이시 파주야당점",
+      "location": "경기 파주시 소리천로 25 유은타워 7차 1층",
+      "link": "https://map.naver.com/p/entry/place/1883874382?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 고기 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/모토이시 파주야당점?c=14,126.7614804,37.7148478,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "마편당",
+      "location": "경기 파주시 가온로 122 105호 1051호",
+      "link": "https://map.naver.com/p/search/%EB%A7%88%ED%8E%B8%EB%8B%B9/place/1269554676?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 네모대가리님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/마편당?c=14,126.7460665,37.7207046,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "우마이라멘",
+      "location": "경기 파주시 경의로 1108 월드타워7차 2층",
+      "link": "https://map.naver.com/p/search/%EC%9A%B0%EB%A7%88%EC%9D%B4%EB%9D%BC%EB%A9%98/place/1157370735?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 네모대가리님 추천 라멘 맛집",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우마이라멘?c=14,126.7602273,37.7161646,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "산뜨락곤드레",
+      "location": "경기 파주시 교하로681번길 16",
+      "link": "https://map.naver.com/p/entry/place/13455460?c=15.00,0,0,0,dh",
+      "summary": "애객러 외노자 핫산님 추천 곤드레밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/산뜨락곤드레?c=14,126.7037789,37.7092366,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "광화문미진 파주직영점",
+      "location": "경기 파주시 경의로 1030 헤리움 오피스텔 1층",
+      "link": "https://map.naver.com/p/search/%EA%B4%91%ED%99%94%EB%AC%B8%EB%AF%B8%EC%A7%84%09%09%20%09%09/place/1989302764?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 네모대가리님 추천 보쌈들기름 막국수 맛집",
+      "tags": [
+        "단체",
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/광화문미진 파주직영점?c=14,126.7593326,37.7093618,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "사천성",
+      "location": "경기 파주시 문산읍 사임당로 47",
+      "link": "https://map.naver.com/p/entry/place/1341387417?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "가성비 킹 식당",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/사천성?c=14,126.7985091,37.8611982,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "은하장",
+      "location": "경기 파주시 문산읍 문향로 78",
+      "link": "https://map.naver.com/p/entry/place/19176232?c=15.00,0,0,0,dh",
+      "summary": "애객러 광사마님 추천 유니짜장 고기튀김 맛집",
+      "tags": [
+        "술안주",
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/은하장?c=14,126.7860544,37.8585066,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "농부우리밀손칼국수",
+      "location": "경기 파주시 탄현면 헤이리마을길 9375",
+      "link": "https://map.naver.com/p/entry/place/1188092980?c=13.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241206&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 남자성기사님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/농부우리밀손칼국수",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "미요우라멘",
+      "location": "경기 파주시 경의로 1050 1층 110호",
+      "link": "https://map.naver.com/p/entry/place/1571066694?c=13.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082052&locale=ko&svcName=map_pcv5]",
+      "summary": "애객러 먹태먹태깡깡님 추천 라멘 맛집",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/미요우라멘?c=14,126.7594720,37.7110756,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "운정탕수육",
+      "location": "경기 파주시 동패로63번길 4821",
+      "link": "https://map.naver.com/p/entry/place/1654023305?c=13.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082103&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 먹태먹태깡깡님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/운정탕수육",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "동오부대찌개",
+      "location": "경기 파주시 돌곶이길 844",
+      "link": "https://map.naver.com/p/entry/place/1204042879?c=13.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082105&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 먹태먹태깡깡님 추천 부대찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/동오부대찌개",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "오실장강남면옥 운정점",
+      "location": "경기 파주시 와석순환로515번길 81",
+      "link": "https://map.naver.com/p/entry/place/1134181473?c=15.38,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082106&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 먹태먹태깡깡님 추천 갈비요리 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오실장강남면옥 운정점?c=14,126.7633380,37.7276018,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "라까냐 파주야당본점",
+      "location": "경기 파주시 송학1길 15814 1층",
+      "link": "https://map.naver.com/p/entry/place/1702126876?c=15.38,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082109&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 먹태먹태깡깡님 추천 스페인요리 맛집",
+      "tags": [
+        "지중해"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/라까냐 파주야당본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "A PLAT 버거파스타 파주운정본점",
+      "location": "경기 파주시 동패로63번길 35 1층",
+      "link": "https://map.naver.com/p/search/A%20PLAT%20%EB%B2%84%EA%B1%B0%26%ED%8C%8C%EC%8A%A4%ED%83%80%20%ED%8C%8C%EC%A3%BC%EC%9A%B4%EC%A0%95%EB%B3%B8%EC%A0%90/place/35734702?c=15.00,0,0,0,dh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082110&locale=ko&svcName=map_pcv5&searchText=A%20PLAT%20%EB%B2%84%EA%B1%B0%26%ED%8C%8C%EC%8A%A4%ED%83%80%20%ED%8C%8C%EC%A3%BC%EC%9A%B4%EC%A0%95%EB%B3%B8%EC%A0%90",
+      "summary": "애객러 먹태먹태깡깡님 추천 버거 파스타 맛집",
+      "tags": [
+        "양식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/A PLAT 버거파스타 파주운정본점?c=14,126.7370277,37.7105087,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "나비우동",
+      "location": "경기 파주시 가람로 39 1층 110호",
+      "link": "https://map.naver.com/p/entry/place/1053395248?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082111&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 먹태먹태깡깡님 추천 우동 맛집",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/나비우동?c=14,126.7544801,37.7343361,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "개성손만두 파주점",
+      "location": "경기 파주시 돌곶이길 818",
+      "link": "https://map.naver.com/p/entry/place/896458815?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082113&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 먹태먹태깡깡님 추천 만두 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/개성손만두 파주점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "차반",
+      "location": "경기 파주시 동패로63번길 33 1층",
+      "link": "https://map.naver.com/p/entry/place/1652477422?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082114&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 먹태먹태깡깡님 추천 한식 맛집",
+      "tags": [
+        "데이트",
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/차반?c=14,126.7370618,37.7103671,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "황가네부대찌개운정점",
+      "location": "경기 파주시 가람로21번길 74",
+      "link": "https://map.naver.com/p/entry/place/36754978?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509082115&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 먹태먹태깡깡님 추천 부대찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/황가네부대찌개운정점?c=14,126.7538575,37.7355140,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

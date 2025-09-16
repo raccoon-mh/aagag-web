@@ -91,7 +91,7 @@ export default function CardList({
                     <div className="h-8 bg-muted rounded w-48 mb-2 animate-pulse"></div>
                     <div className="h-4 bg-muted rounded w-64 animate-pulse"></div>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
                     {Array.from({ length: 6 }).map((_, index) => (
                         <div key={index} className="animate-pulse">
                             <div className="bg-muted rounded-lg aspect-video mb-4"></div>
@@ -147,19 +147,19 @@ export default function CardList({
     }
 
     return (
-        <div className="container py-8">
-            <div className="mb-6">
-                <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
+        <div className="container py-4 sm:py-8">
+            <div className="mb-4 sm:mb-6">
+                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
                     <div>
-                        <h2 className="text-2xl font-semibold mb-2">
+                        <h2 className="text-xl sm:text-2xl font-semibold mb-2">
                             {source} 맛집 {filteredAndSortedRestaurants.length}개
                         </h2>
-                        <p className="text-muted-foreground">
+                        <p className="text-sm sm:text-base text-muted-foreground">
                             별점 및 사진은 카카오 맵의 데이터를 사용합니다.
                         </p>
                     </div>
                     {metadata && (
-                        <div className="text-sm text-muted-foreground mt-2 md:mt-0">
+                        <div className="text-xs sm:text-sm text-muted-foreground mt-2 sm:mt-0">
                             <p>총 {totalCount}개 그룹</p>
                             <p>업데이트: {new Date(lastUpdated || '').toLocaleDateString('ko-KR')}</p>
                         </div>

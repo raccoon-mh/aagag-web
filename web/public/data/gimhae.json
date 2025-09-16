@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:40:14.531040",
+    "total_groups": 5,
+    "source": "김해",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "물꽁 아구찜",
+      "location": "경남 김해시 구산로30번길 22",
+      "link": "https://map.naver.com/p/entry/place/1701301426?c=15.00,0,0,0,dh",
+      "summary": "아구찜 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/물꽁 아구찜?c=14,128.8713560,35.2468327,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "사재감참숯왕소금구이 본점",
+      "location": "경남 창원시 마산합포구 문화동15길 16 1층",
+      "link": "https://map.naver.com/p/entry/place/20701462?c=15.00,0,0,0,dh",
+      "summary": "돌판 김치찌개 추천",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/사재감참숯왕소금구이 본점?c=14,128.5621974,35.1814003,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "신라명품해장국 본점",
+      "location": "경남 김해시 진영읍 서부로 243",
+      "link": "https://map.naver.com/p/entry/place/15506209?c=18.16,0,0,0,dh",
+      "summary": "애객러 Maverick님 추천 해장국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신라명품해장국 본점?c=14,128.7655201,35.2764769,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "평사리참숯뒷통구이",
+      "location": "경남 김해시 삼안로217번길 22",
+      "link": "https://map.naver.com/p/entry/place/15180803?c=18.16,0,0,0,dh",
+      "summary": "애객러 무릎어깨님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/평사리참숯뒷통구이?c=14,128.9089294,35.2469672,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "미미식당 새우짬뽕",
+      "location": "경남 김해시 진영읍 김해대로 592 1층",
+      "link": "https://map.naver.com/p/entry/place/1496640036?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509091626&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 왕만두님 추천 짬뽕 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/미미식당 새우짬뽕?c=14,128.7524457,35.3042707,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

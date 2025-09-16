@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:35:55.539211",
+    "total_groups": 3,
+    "source": "서산",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "미래수산식당",
+      "location": "충남 서산시 대산읍 삼길포1로 47",
+      "link": "https://map.naver.com/p/search/%EC%84%9C%EC%82%B0%20%EB%AF%B8%EB%9E%98%EC%88%98%EC%82%B0%EC%8B%9D%EB%8B%B9/place/17295290?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "회덮밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/미래수산식당?c=14,126.4522042,37.0019400,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "콩사랑 팥사랑",
+      "location": "충남 서산시 인지면 야철지길 974",
+      "link": "https://map.naver.com/p/entry/place/20005719?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241541&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 시간재미님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/콩사랑 팥사랑",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "치비카츠",
+      "location": "충남 서산시 호수공원12로 22 1층",
+      "link": "https://map.naver.com/p/entry/place/1231786956?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202508121653&locale=ko&svcName=map_pcv5",
+      "summary": "고퀄리티 로스카츠 돈까스",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/치비카츠?c=14,126.4484528,36.7727434,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

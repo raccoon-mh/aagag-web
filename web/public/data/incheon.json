@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "parsed_at": "2025-09-16T06:19:47.268098",
+    "parsed_at": "2025-09-16T07:25:45.741168",
     "total_groups": 84,
     "source": "인천",
     "has_actual_links": true,
@@ -32,8 +32,8 @@
       "summary": "인천에만 3개 체인 고추장 추어탕",
       "tags": [
         "단체",
-        "한식",
-        "체인"
+        "체인",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/연락골 고추장추어탕 본점?c=14,126.7255126,37.5854203,0,dh",
       "review_star": 3,
@@ -72,8 +72,8 @@
       "summary": "양념구이 구워주는 고깃집",
       "tags": [
         "단체",
-        "한식",
-        "체인"
+        "체인",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/촌장골 당하점?c=14,126.6743367,37.5930584,0,dh",
       "review_star": 1,
@@ -89,9 +89,9 @@
       "link": "https://map.naver.com/p/entry/place/35086606?c=14.41,0,0,0,dh",
       "summary": "능이 오리닭 백숙",
       "tags": [
+        "술안주",
         "단체",
-        "한식",
-        "술안주"
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/울능이버섯백숙",
       "review_star": null,
@@ -120,9 +120,9 @@
       "link": "https://map.naver.com/p/entry/place/16495380?c=15.00,0,0,0,dh",
       "summary": "김치 맛있다고 소문난 집",
       "tags": [
-        "한식",
         "술안주",
-        "체인"
+        "체인",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/송도막창구이연수본점?c=14,126.6805899,37.4151055,0,dh",
       "review_star": 5,
@@ -139,8 +139,8 @@
       "summary": "후기가 극과 극인  육계장 맛집",
       "tags": [
         "단체",
-        "한식",
-        "체인"
+        "체인",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/송돗골 본점?c=14,126.6575998,37.4136579,0,dh",
       "review_star": null,
@@ -169,8 +169,8 @@
       "summary": "가족 모임으로 가기 좋은 고깃집",
       "tags": [
         "단체",
-        "한식",
-        "체인"
+        "체인",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/송도갈비 본점?c=14,126.6361346,37.4295503,0,dh",
       "review_star": 5,
@@ -187,9 +187,9 @@
       "link": "https://map.naver.com/p/search/%EC%98%A4%EC%84%9C%EB%B0%A9%20%EC%97%B0%ED%83%84%EC%84%9D%EC%87%A0%EA%B5%AC%EC%9D%B4/place/33039995?c=15.00,0,0,0,dh&placePath=/home&isCorrectAnswer=true",
       "summary": "멸치회 생선구이 꼼장어",
       "tags": [
+        "술안주",
         "단체",
-        "한식",
-        "술안주"
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/오서방연탄석쇠구이?c=14,126.6808712,37.4136757,0,dh",
       "review_star": 4,
@@ -274,9 +274,9 @@
       "link": "https://map.naver.com/p/search/%EC%86%8C%EB%82%98%EB%AC%B4%EC%8B%9D%EB%8B%B9/place/1219918481?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
       "summary": "생선구이정식조개찜 추천",
       "tags": [
+        "술안주",
         "단체",
-        "한식",
-        "술안주"
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/소나무식당?c=14,126.4204718,37.4218267,0,dh",
       "review_star": 5,
@@ -291,8 +291,8 @@
       "link": "https://map.naver.com/p/entry/place/37800687?c=15.00,0,0,0,dh",
       "summary": "횟집 의외로 떡볶이 맛집",
       "tags": [
-        "한식",
-        "술안주"
+        "술안주",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/슬기네?c=14,126.4266577,37.4232541,0,dh",
       "review_star": null,
@@ -305,9 +305,9 @@
       "link": "https://map.naver.com/p/search/%EC%9A%B0%EB%A6%AC%EB%B0%80%EC%B9%BC%EA%B5%AD%EC%88%98/place/37944159?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
       "summary": "간판부터 맛집임",
       "tags": [
+        "데이트",
         "단체",
-        "한식",
-        "데이트"
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/우리밀칼국수?c=14,126.4232471,37.4288195,0,dh",
       "review_star": 3,
@@ -337,9 +337,9 @@
       "link": "https://map.naver.com/p/entry/place/13458575?c=15.00,0,0,0,dh",
       "summary": "스지탕 전요리 술집",
       "tags": [
+        "술안주",
         "단체",
-        "한식",
-        "술안주"
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/다복집",
       "review_star": 3,
@@ -369,9 +369,9 @@
       "link": "https://map.naver.com/p/entry/place/36004070?c=15.00,0,0,0,dh",
       "summary": "애객러 슈퍼초흰둥이님 추천 보쌈집",
       "tags": [
+        "술안주",
         "단체",
-        "한식",
-        "술안주"
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/연희보쌈?c=14,126.7275580,37.5182120,0,dh",
       "review_star": null,
@@ -412,8 +412,8 @@
       "link": "https://map.naver.com/p/search/%EB%B6%80%ED%8F%89%20%EB%8F%BC%EC%A7%80%EC%BD%94/place/38381526?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
       "summary": "애객러 거짓말입니다님 추천 조개구이집",
       "tags": [
-        "한식",
-        "술안주"
+        "술안주",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/돼지코회조개구이",
       "review_star": 5,
@@ -428,8 +428,8 @@
       "link": "https://map.naver.com/p/entry/place/1719851115?c=15.00,0,0,0,dh",
       "summary": "애객러 거짓말입니다님 추천 닭구이집",
       "tags": [
-        "한식",
-        "술안주"
+        "술안주",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/기찻길 닭숯불구이",
       "review_star": 3,
@@ -547,8 +547,8 @@
       "link": "https://map.naver.com/p/entry/place/1446754688?c=15.00,0,0,0,dh",
       "summary": "애객러 이승만님 추천 빈대떡집",
       "tags": [
-        "한식",
-        "술안주"
+        "술안주",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/큰마당 녹두빈대떡?c=14,126.7217952,37.4991936,0,dh",
       "review_star": 3,
@@ -660,8 +660,8 @@
       "link": "https://map.naver.com/p/entry/place/37469683?c=15.00,0,0,0,dh",
       "summary": "애객러 acho님 추천 고기 맛집",
       "tags": [
-        "데이트",
-        "양식"
+        "양식",
+        "데이트"
       ],
       "navermapurl": "https://map.naver.com/p/search/화레무 송도신도시 본점?c=14,126.6511606,37.3945712,0,dh",
       "review_star": 5,
@@ -677,8 +677,8 @@
       "link": "https://map.naver.com/p/search/%EB%A7%88%EC%9D%84%ED%9A%8C%EA%B4%80%ED%8F%AC%EC%B0%A8/place/1206329103?c=15.00,0,0,0,dh&placePath=/home",
       "summary": "애객러 노모야동님 추천 술집",
       "tags": [
-        "데이트",
-        "술안주"
+        "술안주",
+        "데이트"
       ],
       "navermapurl": "https://map.naver.com/p/search/마을회관 포차?c=14,126.6525399,37.4272280,0,dh",
       "review_star": 5,
@@ -866,8 +866,8 @@
       "link": "https://map.naver.com/p/entry/place/36342244?c=15.00,0,0,0,dh",
       "summary": "애객러 노모야동님 추천 콩국수 맛집",
       "tags": [
-        "한식",
-        "체인"
+        "체인",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/명인콩국수",
       "review_star": 4,
@@ -1080,8 +1080,8 @@
       "link": "https://map.naver.com/p/search/%ED%9A%A8%EC%A0%95%ED%86%B5%EB%8B%AD/place/1248500186?c=15.00,0,0,0,dh&placePath=/home&isCorrectAnswer=true",
       "summary": "애객러 노모야동님 추천 통닭 맛집",
       "tags": [
-        "한식",
-        "술안주"
+        "술안주",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/효정닭집?c=14,126.6734297,37.4956440,0,dh",
       "review_star": 5,
@@ -1097,8 +1097,8 @@
       "link": "https://map.naver.com/p/entry/place/1911830399?c=15.00,0,0,0,dh",
       "summary": "애객러 노모야동님 추천 통닭 맛집",
       "tags": [
-        "한식",
-        "술안주"
+        "술안주",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/대박 치킨?c=14,126.6748250,37.5008821,0,dh",
       "review_star": 5,
@@ -1113,8 +1113,8 @@
       "link": "https://map.naver.com/p/entry/place/1285554956?c=15.00,0,0,0,dh",
       "summary": "애객러 노모야동님 추천 치킨 맛집",
       "tags": [
-        "한식",
-        "술안주"
+        "술안주",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/원조닭강정?c=14,126.6565363,37.4627048,0,dh",
       "review_star": 5,
@@ -1144,8 +1144,8 @@
       "link": "https://map.naver.com/p/search/%EC%84%A0%EB%85%80%ED%92%8D/place/13502872?c=15.00,0,0,0,dh&placePath=/home",
       "summary": "애객러 이승만님 추천 물회 맛집",
       "tags": [
-        "한식",
-        "데이트"
+        "데이트",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/선녀풍?c=14,126.3776362,37.4418863,0,dh",
       "review_star": 4,
@@ -1239,8 +1239,8 @@
       "link": "https://map.naver.com/p/entry/place/1569638970?c=15.00,0,0,0,dh",
       "summary": "애객러 네모대가리님 추천 닭칼국수 맛집",
       "tags": [
-        "한식",
-        "체인"
+        "체인",
+        "한식"
       ],
       "navermapurl": "https://map.naver.com/p/search/언양닭칼국수 용현점?c=14,126.6466132,37.4570593,0,dh",
       "review_star": 5,
@@ -1255,8 +1255,8 @@
       "link": "https://map.naver.com/p/entry/place/1049076381?c=15.00,0,0,0,dh",
       "summary": "애객러 네모대가리님 추천 중식 맛집",
       "tags": [
-        "단체",
-        "중식"
+        "중식",
+        "단체"
       ],
       "navermapurl": "https://map.naver.com/p/search/삼일반점?c=14,126.6491490,37.4588926,0,dh",
       "review_star": 5,

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:41:13.491063",
+    "total_groups": 2,
+    "source": "경상북도",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "포항시",
+      "location": "포항시",
+      "link": "포항시",
+      "summary": "포항시",
+      "tags": [],
+      "navermapurl": "https://map.naver.com/p/search/포항시?c=14,129.34339,36.019033,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/11227880"
+    },
+    {
+      "name": "할매닭발",
+      "location": "할배돌곱창",
+      "link": "장기식당",
+      "summary": "인천식당",
+      "tags": [],
+      "navermapurl": "https://map.naver.com/p/search/할매닭발",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

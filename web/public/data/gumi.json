@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:28:42.252542",
+    "total_groups": 1,
+    "source": "구미",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "명륜등심해장국 옥계점",
+      "location": "경북 구미시 옥계북로1길 39",
+      "link": "https://map.naver.com/p/entry/place/15523359?c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 뼈찜 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/명륜등심해장국 옥계점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

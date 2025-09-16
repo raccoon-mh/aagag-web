@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:40:47.428346",
+    "total_groups": 3,
+    "source": "울릉",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "봉래갈비",
+      "location": "경북 울릉군 울릉읍 봉래2길 3216",
+      "link": "https://map.naver.com/p/entry/place/1604073402?c=13.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507272345&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 carllewiz님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/봉래갈비",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "배가네 화로구이",
+      "location": "경북 울릉군 울릉읍 도동3길 27",
+      "link": "https://map.naver.com/p/entry/place/1442118041?c=13.00,0,0,0,dh&placePath=/home?filterType=%EB%B0%A9%EB%AC%B8%EC%9E%90&fromPanelNum=1&additionalHeight=76&timestamp=202507272346&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 carllewiz님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/배가네 화로구이?c=14,130.9048782,37.4840415,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "신비섬 횟집",
+      "location": "경북 울릉군 울릉읍 울릉순환로 592",
+      "link": "https://map.naver.com/p/entry/place/15665229?c=13.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509041543&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 MAech님 추천 물회 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신비섬 횟집?c=14,130.8890561,37.4735777,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

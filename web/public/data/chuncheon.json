@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:33:31.373054",
+    "total_groups": 17,
+    "source": "춘천",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "춘천원조명물닭갈비",
+      "location": "경기 남양주시 와부읍 수레로 59",
+      "link": "https://map.naver.com/p/search/%EC%B6%98%EC%B2%9C%EC%9B%90%EC%A1%B0%EB%AA%85%EB%AC%BC%EB%8B%AD%EA%B0%88%EB%B9%84/place/31609608?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 acho님 추천 닭갈비 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/춘천원조명물닭갈비?c=14,127.2172119,37.5894044,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "육설모 춘천점",
+      "location": "강원 춘천시 영서로2279번길 16 1층",
+      "link": "https://map.naver.com/p/entry/place/1732019386?c=15.00,0,0,0,dh",
+      "summary": "애객러 acho님 추천 고기 맛집",
+      "tags": [
+        "단체",
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/육설모 춘천점?c=14,127.7205965,37.8638473,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "큰집닭갈비막국수",
+      "location": "강원 춘천시 영서로 2275",
+      "link": "https://map.naver.com/p/entry/place/15087572?c=15.00,0,0,0,dh",
+      "summary": "애객러 옷씨1님 추천 닭갈비 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/큰집닭갈비막국수?c=14,127.7217975,37.8644194,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "시골막국수",
+      "location": "강원 춘천시 신북읍 율문길 100",
+      "link": "https://map.naver.com/p/entry/place/15116396?c=15.00,0,0,0,dh",
+      "summary": "애객러 옷씨1님 추천 막국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/시골막국수?c=14,127.7487013,37.9246925,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "퇴계막국수",
+      "location": "강원 춘천시 영서로 2231",
+      "link": "https://map.naver.com/p/entry/place/11720975?c=15.00,0,0,0,dh",
+      "summary": "애객러 옷씨1님 추천 막국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/퇴계막국수?c=14,127.7257380,37.8623008,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "국수닭",
+      "location": "강원 춘천시 남춘로36번길 48",
+      "link": "https://map.naver.com/p/entry/place/21126097?c=15.00,0,0,0,dh",
+      "summary": "애객러 옷씨1님 추천 초계국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/국수닭?c=14,127.7355981,37.8615702,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "회영루",
+      "location": "강원 춘천시 금강로 38",
+      "link": "https://map.naver.com/p/search/%ED%9A%8C%EC%98%81%EB%A3%A8/place/15040932?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 옷씨1님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/회영루?c=14,127.7263647,37.8808873,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "스시장",
+      "location": "강원 춘천시 가연길 111",
+      "link": "https://map.naver.com/p/search/%EC%8A%A4%EC%8B%9C%EC%9E%A5/place/1871208430?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 옷씨1님 추천 오마카세 맛집",
+      "tags": [
+        "일식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/스시장",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "일흥불고기",
+      "location": "강원 춘천시 서부대성로44번길 151",
+      "link": "https://map.naver.com/p/search/%EC%9D%BC%ED%99%8D%EB%B6%88%EA%B3%A0%EA%B8%B0/place/15040585?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 옷씨1님 추천 생고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/일흥불고기",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "평양냉면",
+      "location": "강원 춘천시 영서로 3036",
+      "link": "https://map.naver.com/p/search/%EC%B6%98%EC%B2%9C%20%ED%8F%89%EC%96%91%EB%83%89%EB%A9%B4/place/15067632?c=10.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 옷씨1님 추천 평양냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/평양냉면?c=14,127.7213774,37.9232792,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "골목손두부",
+      "location": "강원 춘천시 공지로439번길 164",
+      "link": "https://map.naver.com/p/entry/place/11642090?c=10.00,0,0,0,dh",
+      "summary": "애객러 옷씨1님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/골목손두부",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "황토집",
+      "location": "강원 춘천시 벌말길 541",
+      "link": "https://map.naver.com/p/search/%EC%B6%98%EC%B2%9C%20%ED%99%A9%ED%86%A0%EC%A7%91/place/15105574?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 옷씨1님 추천 한식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/황토집",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "함지 레스토랑",
+      "location": "강원 춘천시 중앙로 101",
+      "link": "https://map.naver.com/p/entry/place/15043555?c=15.00,0,0,0,dh",
+      "summary": "애객러 옷씨1님 추천 양식 맛집",
+      "tags": [
+        "양식",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/함지 레스토랑?c=14,127.7238147,37.8771200,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "팬더 하우스",
+      "location": "강원 춘천시 명동길 49",
+      "link": "https://map.naver.com/p/search/%ED%8E%9C%EB%8D%94%ED%95%98%EC%9A%B0%EC%8A%A4/place/15045795?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 옷씨1님 추천 분식 맛집",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/팬더 하우스?c=14,127.7243497,37.8768925,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "정일품손두부청국장",
+      "location": "강원 춘천시 남춘로5번길 26",
+      "link": "https://map.naver.com/p/entry/place/88414049?c=15.00,0,0,0,dh",
+      "summary": "애객러 외노자핫산님 추천 청국장 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/정일품손두부청국장?c=14,127.7273265,37.8633162,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "보문각",
+      "location": "강원 춘천시 약사고개길 42",
+      "link": "https://map.naver.com/p/entry/place/15049514?placePath=%2Fhome&c=15.00,0,0,0,dh",
+      "summary": "애객러 파인애플피자님 추천 비빔국수 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/보문각?c=14,127.7264100,37.8746693,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "육앤콩",
+      "location": "강원 춘천시 솟발1길 451 1층",
+      "link": "https://map.naver.com/p/search/%EC%9C%A1%EC%95%A4%EC%BD%A9/place/1236945432?c=15.00,0,0,0,dh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241116&locale=ko&svcName=map_pcv5&searchText=%EC%9C%A1%EC%95%A4%EC%BD%A9",
+      "summary": "애객러 limit님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/육앤콩",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

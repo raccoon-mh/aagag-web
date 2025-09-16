@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:32:58.809954",
+    "total_groups": 19,
+    "source": "강릉",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "이만구교동짬뽕",
+      "location": "강원 강릉시 강릉대로 1998",
+      "link": "https://map.naver.com/p/entry/place/37928095?c=15.00,0,0,0,dh",
+      "summary": "교동 짬뽕  등심 탕수육",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이만구교동짬뽕",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "강릉현대장칼국수 본점",
+      "location": "강원 강릉시 임영로182번길 71",
+      "link": "https://map.naver.com/p/entry/place/20099799?c=15.00,0,0,0,dh",
+      "summary": "방송 출연 다수 장칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/강릉현대장칼국수 본점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "9남매두부집",
+      "location": "강원 강릉시 초당원길 632",
+      "link": "https://map.naver.com/p/entry/place/13070504?c=15.00,0,0,0,dh",
+      "summary": "전골 or 청국장 집밥 스타일",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/9남매두부집",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "강릉전집",
+      "location": "강원 강릉시 솔올로5번길 9",
+      "link": "https://map.naver.com/p/entry/place/58248179?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "모듬  꼬막 전  막걸리",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/강릉전집?c=14,128.8762566,37.7626109,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "오월에초당",
+      "location": "강원 강릉시 난설헌로 2345",
+      "link": "https://map.naver.com/p/entry/place/36952290?c=15.00,0,0,0,dh",
+      "summary": "국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오월에초당",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "장안횟집",
+      "location": "강원 강릉시 사천면 진리항구길 51",
+      "link": "https://map.naver.com/p/entry/place/19891301?c=15.00,0,0,0,dh",
+      "summary": "물회 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/장안횟집?c=14,128.8754159,37.8375955,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "청송장칼국수",
+      "location": "강원특별자치도 강릉시 포남1동 11933",
+      "link": "https://map.naver.com/p/entry/place/15385027?c=15.00,0,0,0,dh",
+      "summary": "현지인 맛집 칼국수  만두",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/청송장칼국수",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/10580fd4bb1b8ae363060bcc30cf4aad403ce613?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8600433"
+    },
+    {
+      "name": "옛태광식당",
+      "location": "강원 강릉시 난설헌로 105 라동103호",
+      "link": "https://map.naver.com/p/entry/place/32294458?c=15.00,0,0,0,dh",
+      "summary": "우럭 미역국 아침 식사 됩니다",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/옛태광식당?c=14,128.9037059,37.7853251,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "토담 순두부",
+      "location": "강원 강릉시 난설헌로193번길 119",
+      "link": "https://map.naver.com/p/entry/place/21607674?c=16.33,0,0,0,dh",
+      "summary": "얼큰  고소한 순두부 1인분 가능",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/토담 순두부",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "강릉해마루횟집",
+      "location": "강원 강릉시 공항길127번길 64",
+      "link": "https://map.naver.com/p/entry/place/37205714?c=16.33,0,0,0,dh",
+      "summary": "모듬회",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/강릉해마루횟집?c=14,128.9538336,37.7642209,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "건도리 횟집",
+      "location": "강원 강릉시 창해로 427 건도리횟집",
+      "link": "https://map.naver.com/p/entry/place/37765913?c=14.99,0,0,0,dh",
+      "summary": "경포대 데이트 하기 좋은 횟집",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/건도리 횟집?c=14,128.9136471,37.7994384,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이모네 생선찜",
+      "location": "강원 강릉시 가작로 8",
+      "link": "https://map.naver.com/p/entry/place/15377620?c=14.99,0,0,0,dh",
+      "summary": "가오리찜 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이모네 생선찜?c=14,128.8764812,37.7691712,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "삼교리동치미막국수 강릉본점",
+      "location": "강원 강릉시 구정면 범일로 364",
+      "link": "https://map.naver.com/p/entry/place/37800217?c=19.00,0,0,0,dh",
+      "summary": "애객러 크라드메서님 추천 막국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/삼교리동치미막국수 강릉본점?c=14,128.8823532,37.7216106,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "강릉꼬막집 독도네 본점",
+      "location": "강원 강릉시 옥천로 47 1층",
+      "link": "https://map.naver.com/p/entry/place/1606537999?c=19.00,0,0,0,dh&placePath=/home",
+      "summary": "꼬막무침비빔밥육사시미",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/강릉꼬막집 독도네 본점?c=14,128.9005425,37.7592896,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "철뚝소머리집",
+      "location": "강원 강릉시 주문진읍 철둑길 42",
+      "link": "https://map.naver.com/p/entry/place/36777124?c=15.00,0,0,0,dh",
+      "summary": "애객러 휘어라등골핑님 추천 소머리국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/철뚝소머리집?c=14,128.8243702,37.8920822,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "강릉짬뽕순두부 동화가든 본점",
+      "location": "강원 강릉시 초당순두부길77번길 15",
+      "link": "https://map.naver.com/p/entry/place/11859878?c=14.99,0,0,0,dh",
+      "summary": "웨이팅 있는 짬뽕 순두부집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/강릉짬뽕순두부 동화가든 본점?c=14,128.9146711,37.7911711,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "옥계진가락",
+      "location": "강원 강릉시 옥계면 현내시장길 60",
+      "link": "https://map.naver.com/p/search/%EC%A7%84%EA%B0%80%EB%9D%BD/place/1440986919?c=9.43,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 먄셩퓌료님 추천 중화비빔밥 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/옥계진가락?c=14,129.0362789,37.6103146,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "최대게",
+      "location": "강원 강릉시 주문진읍 해안로 17272 1층",
+      "link": "https://map.naver.com/p/entry/place/13281876?c=15.44,0,0,0,dh",
+      "summary": "애객러 무릎어깨님 추천 대게 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/최대게",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "장군시오야끼 체인1호점",
+      "location": "강원 강릉시 문화의길7번길 7",
+      "link": "https://map.naver.com/p/entry/place/15290973?c=15.44,0,0,0,dh",
+      "summary": "대패 삼겹살  볶음밥",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/장군시오야끼 체인1호점?c=14,128.8941655,37.7542320,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

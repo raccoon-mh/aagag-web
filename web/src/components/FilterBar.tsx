@@ -1,7 +1,7 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
-import { Search, Filter, X, Heart, ArrowUpDown } from 'lucide-react';
+import React, { useState, useMemo, useRef, useEffect } from 'react';
+import { Search, Filter, X, Heart, ArrowUpDown, ChevronDown } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
@@ -23,6 +23,158 @@ interface FilterBarProps {
     isLoading?: boolean;
     showFavoritesOnly?: boolean;
     sortOption?: SortOption;
+}
+
+// 검색 가능한 지역 선택 컴포넌트
+interface SearchableRegionSelectProps {
+    regions: Array<{ key: string, source: string }>;
+    selectedRegion: string;
+    onRegionChange: (regionKey: string) => void;
+    loading?: boolean;
+}
+
+function SearchableRegionSelect({ regions, selectedRegion, onRegionChange, loading = false }: SearchableRegionSelectProps) {
+    const [isOpen, setIsOpen] = useState(false);
+    const [searchQuery, setSearchQuery] = useState('');
+    const [highlightedIndex, setHighlightedIndex] = useState(-1);
+    const dropdownRef = useRef<HTMLDivElement>(null);
+    const searchInputRef = useRef<HTMLInputElement>(null);
+
+    // 검색된 지역 목록
+    const filteredRegions = useMemo(() => {
+        if (!searchQuery) return regions;
+        return regions.filter(region =>
+            region.source.toLowerCase().includes(searchQuery.toLowerCase()) ||
+            region.key.toLowerCase().includes(searchQuery.toLowerCase())
+        );
+    }, [regions, searchQuery]);
+
+    // 선택된 지역 정보
+    const selectedRegionInfo = regions.find(r => r.key === selectedRegion);
+
+    // 드롭다운 열기/닫기
+    const toggleDropdown = () => {
+        setIsOpen(!isOpen);
+        if (!isOpen) {
+            setTimeout(() => searchInputRef.current?.focus(), 100);
+        } else {
+            setSearchQuery('');
+            setHighlightedIndex(-1);
+        }
+    };
+
+    // 지역 선택
+    const selectRegion = (regionKey: string) => {
+        onRegionChange(regionKey);
+        setIsOpen(false);
+        setSearchQuery('');
+        setHighlightedIndex(-1);
+    };
+
+    // 키보드 네비게이션
+    const handleKeyDown = (e: React.KeyboardEvent) => {
+        if (!isOpen) return;
+
+        switch (e.key) {
+            case 'ArrowDown':
+                e.preventDefault();
+                setHighlightedIndex(prev =>
+                    prev < filteredRegions.length - 1 ? prev + 1 : 0
+                );
+                break;
+            case 'ArrowUp':
+                e.preventDefault();
+                setHighlightedIndex(prev =>
+                    prev > 0 ? prev - 1 : filteredRegions.length - 1
+                );
+                break;
+            case 'Enter':
+                e.preventDefault();
+                if (highlightedIndex >= 0 && filteredRegions[highlightedIndex]) {
+                    selectRegion(filteredRegions[highlightedIndex].key);
+                }
+                break;
+            case 'Escape':
+                setIsOpen(false);
+                setSearchQuery('');
+                setHighlightedIndex(-1);
+                break;
+        }
+    };
+
+    // 외부 클릭 시 드롭다운 닫기
+    useEffect(() => {
+        const handleClickOutside = (event: MouseEvent) => {
+            if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
+                setIsOpen(false);
+                setSearchQuery('');
+                setHighlightedIndex(-1);
+            }
+        };
+
+        document.addEventListener('mousedown', handleClickOutside);
+        return () => document.removeEventListener('mousedown', handleClickOutside);
+    }, []);
+
+    return (
+        <div className="relative w-full" ref={dropdownRef}>
+            <button
+                type="button"
+                onClick={toggleDropdown}
+                onKeyDown={handleKeyDown}
+                className="w-full h-10 px-3 py-2 text-left bg-background border border-input rounded-md shadow-sm hover:bg-accent hover:text-accent-foreground focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 flex items-center justify-between"
+            >
+                <span className="truncate">
+                    {loading ? "로딩 중..." : selectedRegionInfo?.source || "지역을 선택하세요"}
+                </span>
+                <ChevronDown className={`h-4 w-4 transition-transform ${isOpen ? 'rotate-180' : ''}`} />
+            </button>
+
+            {isOpen && (
+                <div className="absolute z-50 w-full mt-1 bg-popover border border-border rounded-md shadow-lg">
+                    {/* 검색 입력 */}
+                    <div className="p-2 border-b">
+                        <div className="relative">
+                            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+                            <Input
+                                ref={searchInputRef}
+                                type="text"
+                                placeholder="지역 검색..."
+                                value={searchQuery}
+                                onChange={(e) => {
+                                    setSearchQuery(e.target.value);
+                                    setHighlightedIndex(-1);
+                                }}
+                                onKeyDown={handleKeyDown}
+                                className="pl-10 h-8 text-sm"
+                            />
+                        </div>
+                    </div>
+
+                    {/* 지역 목록 */}
+                    <div className="max-h-60 overflow-y-auto scrollbar-hide">
+                        {filteredRegions.length === 0 ? (
+                            <div className="px-3 py-2 text-sm text-muted-foreground">
+                                검색 결과가 없습니다.
+                            </div>
+                        ) : (
+                            filteredRegions.map((region, index) => (
+                                <button
+                                    key={region.key}
+                                    type="button"
+                                    onClick={() => selectRegion(region.key)}
+                                    className={`w-full px-3 py-2 text-left text-sm hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground focus:outline-none ${index === highlightedIndex ? 'bg-accent text-accent-foreground' : ''
+                                        } ${region.key === selectedRegion ? 'bg-primary text-primary-foreground' : ''}`}
+                                >
+                                    {region.source}
+                                </button>
+                            ))
+                        )}
+                    </div>
+                </div>
+            )}
+        </div>
+    );
 }
 
 export default function FilterBar({
@@ -101,21 +253,15 @@ export default function FilterBar({
         <div className="w-full bg-background border-b">
             <div className="container py-4">
                 {/* Top Row: Region + Search + Sort */}
-                <div className="flex flex-col md:flex-row gap-4 mb-4">
-                    {/* Region Filter - 모바일에서는 위, 데스크톱에서는 왼쪽 */}
+                <div className="space-y-3 md:space-y-0 md:flex md:flex-row md:gap-4 mb-4">
+                    {/* Region Filter - 검색 가능한 드롭다운 */}
                     <div className="w-full md:w-48 flex-shrink-0">
-                        <Select value={selectedRegion} onValueChange={onRegionChange}>
-                            <SelectTrigger>
-                                <SelectValue placeholder={regionsLoading ? "로딩 중..." : "지역을 선택하세요"} />
-                            </SelectTrigger>
-                            <SelectContent>
-                                {availableRegions.map((region) => (
-                                    <SelectItem key={region.key} value={region.key}>
-                                        {region.source}
-                                    </SelectItem>
-                                ))}
-                            </SelectContent>
-                        </Select>
+                        <SearchableRegionSelect
+                            regions={availableRegions}
+                            selectedRegion={selectedRegion}
+                            onRegionChange={onRegionChange}
+                            loading={regionsLoading}
+                        />
                     </div>
 
                     {/* Search Bar - 모바일에서는 아래, 데스크톱에서는 오른쪽 */}
@@ -127,11 +273,12 @@ export default function FilterBar({
                                 placeholder="이름 또는 태그 검색..."
                                 value={searchQuery}
                                 onChange={(e) => setSearchQuery(e.target.value)}
-                                className="pl-10"
+                                className="pl-10 h-10"
                             />
                         </div>
-                        <Button type="submit" size="lg">
-                            검색
+                        <Button type="submit" size="lg" className="h-10 px-4">
+                            <span className="hidden sm:inline">검색</span>
+                            <Search className="h-4 w-4 sm:hidden" />
                         </Button>
                     </form>
 
@@ -139,7 +286,7 @@ export default function FilterBar({
                     {onSortChange && (
                         <div className="w-full md:w-48 flex-shrink-0">
                             <Select value={getCurrentSortValue()} onValueChange={handleSortChange}>
-                                <SelectTrigger>
+                                <SelectTrigger className="h-10">
                                     <SelectValue placeholder="정렬 기준" />
                                 </SelectTrigger>
                                 <SelectContent>
@@ -155,16 +302,16 @@ export default function FilterBar({
                 </div>
 
                 {/* Filter Toggle */}
-                <div className="flex items-center justify-between mb-4">
+                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4">
                     <div className="flex items-center gap-2">
                         <Button
                             variant="outline"
                             size="sm"
                             onClick={() => setShowFilters(!showFilters)}
-                            className="flex items-center gap-2"
+                            className="flex items-center gap-2 h-9"
                         >
                             <Filter className="h-4 w-4" />
-                            필터
+                            <span className="hidden sm:inline">필터</span>
                         </Button>
 
                         {/* 즐겨찾기 필터 버튼 - 항상 표시 */}
@@ -173,10 +320,11 @@ export default function FilterBar({
                                 variant={showFavoritesOnly ? "default" : "outline"}
                                 size="sm"
                                 onClick={() => onFavoritesOnly(!showFavoritesOnly)}
-                                className="flex items-center gap-2 transition-all duration-300"
+                                className="flex items-center gap-2 transition-all duration-300 h-9"
                             >
                                 <Heart className={`h-4 w-4 ${showFavoritesOnly ? 'fill-current' : ''}`} />
-                                <span>{currentRegionName} 즐겨찾기만 보기</span>
+                                <span className="hidden sm:inline">{currentRegionName} 즐겨찾기만 보기</span>
+                                <span className="sm:hidden">즐겨찾기</span>
                             </Button>
                         )}
                     </div>

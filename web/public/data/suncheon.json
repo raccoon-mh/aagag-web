@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:38:14.224395",
+    "total_groups": 9,
+    "source": "순천",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "인사동",
+      "location": "전남 순천시 영동길 45",
+      "link": "https://map.naver.com/p/search/%EC%88%9C%EC%B2%9C%20%EC%9D%B8%EC%82%AC%EB%8F%99/place/17025005?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 니도곧이렇게될끼다님 추천 한식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/인사동?c=14,127.4820308,34.9552135,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/26939731"
+    },
+    {
+      "name": "태경원조동경낙지",
+      "location": "전남 순천시 금곡길 11",
+      "link": "https://map.naver.com/p/entry/place/12061704?c=15.00,0,0,0,dh",
+      "summary": "애객러 니도곧이렇게될끼다님 추천 낙지전골 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태경원조동경낙지?c=14,127.4828997,34.9547249,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "양지쌈밥",
+      "location": "전남 순천시 금곡길 8",
+      "link": "https://map.naver.com/p/entry/place/19862022?c=15.00,0,0,0,dh",
+      "summary": "애객러 니도곧이렇게될끼다님 추천 쌈밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/양지쌈밥?c=14,127.4835042,34.9549984,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "옛날할머니순대국밥",
+      "location": "전남 순천시 황전면 괴목길 21",
+      "link": "https://map.naver.com/p/search/%EC%98%9B%EB%82%A0%20%ED%95%A0%EB%A8%B8%EB%8B%88%20%EC%88%9C%EB%8C%80%EA%B5%AD%EB%B0%A5/place/12798702?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "막창 베이스 옛날식 순대국밥",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/옛날할머니순대국밥?c=14,127.4284566,35.1025025,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "괴목국밥",
+      "location": "전남 순천시 북문길 40",
+      "link": "https://map.naver.com/p/entry/place/17101298?c=15.00,0,0,0,dh",
+      "summary": "한끼 식사로 좋은 순대국밥집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/괴목국밥?c=14,127.4850485,34.9586490,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "거목순대국밥",
+      "location": "전남 순천시 장평로 50",
+      "link": "https://map.naver.com/p/entry/place/17075129?c=15.00,0,0,0,dh",
+      "summary": "잡내 안나고 맛있는 순대국밥",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/거목순대국밥?c=14,127.4943338,34.9441404,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "솔가든",
+      "location": "전남 순천시 상사면 상사호길 218",
+      "link": "https://map.naver.com/p/entry/place/17142837?c=15.00,0,0,0,dh",
+      "summary": "애객러 바이올린 해장국님 추천 닭볶음탕 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/솔가든?c=14,127.4646114,34.9304370,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "우미정",
+      "location": "전남 순천시 용당둑길 183 183",
+      "link": "https://map.naver.com/p/entry/place/17039942?c=14.58,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241151&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 이웃집토토즐님 추천 콩국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우미정",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "장대콩국수",
+      "location": "전남 순천시 이수로 51",
+      "link": "https://map.naver.com/p/search/%EC%88%9C%EC%B2%9C%20%EC%9E%A5%EB%8C%80%EC%BD%A9%EA%B5%AD%EC%88%98/place/17094305?c=14.47,0,0,0,dh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507241552&locale=ko&svcName=map_pcv5&searchText=%EC%88%9C%EC%B2%9C%20%EC%9E%A5%EB%8C%80%EC%BD%A9%EA%B5%AD%EC%88%98",
+      "summary": "애객러 도조희대키님 추천 콩국수 맛집",
+      "tags": [],
+      "navermapurl": "https://map.naver.com/p/search/장대콩국수?c=14,127.4927869,34.9496310,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

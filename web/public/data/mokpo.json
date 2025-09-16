@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:38:04.855124",
+    "total_groups": 7,
+    "source": "목포",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "장수촌닭",
+      "location": "전남 목포시 미항로 19 1층",
+      "link": "https://map.naver.com/p/entry/place/16795567?c=16.94,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 닭 코스요리 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/장수촌닭?c=14,126.4267425,34.7963176,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "포미아구찜용해포미점",
+      "location": "전남 목포시 용당로331번길 8",
+      "link": "https://map.naver.com/p/entry/place/1748194706?placePath=/home?from=map&from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507041106&locale=ko&svcName=map_pcv5&fromPanelNum=1&additionalHeight=76&timestamp=202507041106&locale=ko&svcName=map_pcv5&c=15.00,0,0,0,dh",
+      "summary": "애객러 네모대가리님 추천 아구찜 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/포미아구찜용해포미점?c=14,126.3989618,34.8161195,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "태동반점",
+      "location": "전남 목포시 마인계터로40번길 101",
+      "link": "https://map.naver.com/p/entry/place/16762623?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507071442&locale=ko&svcName=map_pcv5",
+      "summary": "중깐이라는 특이한 메뉴",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태동반점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "김정림선지해장국",
+      "location": "전남 목포시 번화로 413",
+      "link": "https://map.naver.com/p/entry/place/13456840?c=14.47,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507071445&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 윤옥에in님 추천 해장국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/김정림선지해장국",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "마을콩물",
+      "location": "전남 목포시 양을로397번길 1711 1층",
+      "link": "https://map.naver.com/p/search/%EB%A7%88%EC%9D%84%EC%BD%A9%EB%AC%BC/place/1515827349?c=15.00,0,0,0,dh&placePath=/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202509091618&locale=ko&svcName=map_pcv5&searchText=%EB%A7%88%EC%9D%84%EC%BD%A9%EB%AC%BC",
+      "summary": "애객러 limchan님 추천 콩국수 맛집",
+      "tags": [
+        "한철장사",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/마을콩물",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이가본가",
+      "location": "전남 목포시 해안로165번길 19",
+      "link": "https://map.naver.com/p/entry/place/17269360?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509091621&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 limchan님 추천 한식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이가본가?c=14,126.3812597,34.7839835,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "해촌",
+      "location": "전남 목포시 미항로 133",
+      "link": "https://map.naver.com/p/entry/place/19593884?c=14.99,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509091622&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 limchan님 추천 회 초무침 맛집",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/해촌?c=14,126.4346481,34.7968677,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:40:52.502987",
+    "total_groups": 2,
+    "source": "전라북도",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "익산시",
+      "location": "익산시",
+      "link": "익산시",
+      "summary": "익산시",
+      "tags": [
+        "익산시",
+        "순두부백반",
+        "민물고기 매운탕빠가매기",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/익산시?c=14,126.957786,35.948295,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/8051856"
+    },
+    {
+      "name": "부송국수",
+      "location": "보신명가",
+      "link": "화산돌판아귀찜",
+      "summary": "청량리 꼬기냉면",
+      "tags": [
+        "익산 금마 미륵산앞 순두부식당중 가장 괜찮은집",
+        "미륵산순두부",
+        "민물 매운탕 맛집 메기탕빠가사리등 예약하고 가야 먹을수있음",
+        "물머리집"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/부송국수",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

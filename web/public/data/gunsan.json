@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:37:18.015921",
+    "total_groups": 8,
+    "source": "군산",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "유성가든",
+      "location": "전북 군산시 성산면 철새로 61",
+      "link": "https://map.naver.com/p/search/%EC%9C%A0%EC%84%B1%EA%B0%80%EB%93%A0/place/17190828?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "손질 게장  돌솥밥",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/유성가든?c=14,126.7619708,36.0152667,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "국제반점",
+      "location": "전북 군산시 구영6길 100",
+      "link": "https://map.naver.com/p/entry/place/17145237?c=15.00,0,0,0,dh",
+      "summary": "애객러 판다를판다님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/국제반점?c=14,126.7108978,35.9881114,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "형제반점",
+      "location": "전북 군산시 축동안길 69",
+      "link": "https://map.naver.com/p/entry/place/17163860?c=15.00,0,0,0,dh",
+      "summary": "옛날 전통 중식집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/형제반점?c=14,126.7136673,35.9696260,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5bee9fa9602ce54765fdc9b1417697ae455ecf67?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1994669693"
+    },
+    {
+      "name": "빈해원",
+      "location": "전북 군산시 동령길 57",
+      "link": "https://map.naver.com/p/entry/place/19985662?c=15.00,0,0,2,dh",
+      "summary": "수타 중국집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/빈해원?c=14,126.7139649,35.9888393,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "돼지코 생곱창갈비 본점",
+      "location": "전북 군산시 신설로 15",
+      "link": "https://map.naver.com/p/entry/place/31895985?c=17.90,0,0,2,dh",
+      "summary": "나리곱창 사장님이 차린 가게",
+      "tags": [
+        "술안주",
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/돼지코 생곱창갈비 본점?c=14,126.6953502,35.9697624,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "또또생곱창",
+      "location": "전북 군산시 하나운안2길 154",
+      "link": "https://map.naver.com/p/entry/place/13053016?c=17.90,0,0,2,dh",
+      "summary": "나리곱창 직원이 차린 가게",
+      "tags": [
+        "데이트",
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/또또생곱창",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "가나순대",
+      "location": "전북 군산시 신평길 15",
+      "link": "바로가기",
+      "summary": "애객러 하늘3님 추천 순대국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/가나순대?c=14,126.7130292,35.9566596,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "만흥집",
+      "location": "전북 군산시 동신영길 21",
+      "link": "https://map.naver.com/p/entry/place/17147968?c=18.59,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202506021103&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 하늘3님 추천 순대국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/만흥집?c=14,126.7199780,35.9840803,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:34:51.295104",
+    "total_groups": 22,
+    "source": "청주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "흙에서",
+      "location": "충북 청주시 서원구 산미로 116 흙에서",
+      "link": "https://map.naver.com/p/search/%ED%9D%99%EC%97%90%EC%84%9C%EB%AA%85%ED%92%88%EC%8C%80%EB%B0%A5%EC%A7%91/place/1089981008?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "정갈하게 잘나옴",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/흙에서?c=14,127.4735692,36.6071672,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/25b2f955aa6f44244d57e107d657d6f8001e9f53?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1219580318"
+    },
+    {
+      "name": "원조중앙탑막국수 본점",
+      "location": "충북 청주시 서원구 대림로 391",
+      "link": "https://map.naver.com/p/entry/place/375750569?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "웨이팅있는 막국수  수육",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원조중앙탑막국수 본점?c=14,127.4403106,36.6056088,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "푸에고네그로",
+      "location": "충북 청주시 청원구 상당로 314",
+      "link": "https://map.naver.com/p/entry/place/1075129651?c=15.00,0,0,0,dh",
+      "summary": "스페인 음식 전문 문어구이 추천",
+      "tags": [
+        "지중해",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/푸에고네그로?c=14,127.4895849,36.6554237,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/92cadfaedfdb33c61e030196a77011e230fc7731?original"
+      ],
+      "review_url": "https://place.map.kakao.com/90097317"
+    },
+    {
+      "name": "무심천드래곤",
+      "location": "충북 청주시 상당구 상당로121번길 34 1층",
+      "link": "https://map.naver.com/p/entry/place/1163691074?c=15.00,0,0,0,dh",
+      "summary": "드래곤 간짜장",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/무심천드래곤?c=14,127.4879177,36.6392002,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3cc6a44c8f74ab0a55f94f06b7d348f0a08f29cd?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e7c7a5b1ac80d2ea036b2ec20dd0d81785cca169?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/15f8f158b956391a11883a5a3a0550a06623e0ea?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/cb719be3a42f78f3faa66bdafee33603d1237a7a?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1872404464"
+    },
+    {
+      "name": "조선면옥",
+      "location": "충북 청주시 상당구 상당로69번길 58",
+      "link": "https://map.naver.com/p/search/%EC%A1%B0%EC%84%A0%20%EB%A9%B4%EC%98%A5/place/17214310?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "냉면  불고기 or 갈비탕",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/조선면옥?c=14,127.4871186,36.6346677,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3e8929721461c8d89ae3c08c70873b2e0e73fe37?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1fcdf8866f3b749b931247caebd2597efa33155f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11161843"
+    },
+    {
+      "name": "대명도리탕전문",
+      "location": "충북 청주시 흥덕구 백봉로 1881",
+      "link": "https://map.naver.com/p/entry/place/21037907?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "닭볶음탕 먹고 볶음밥 필수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대명도리탕전문",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/716073153ed6a02ac3376995f0ee864d70e4aed5?original"
+      ],
+      "review_url": "https://place.map.kakao.com/16386830"
+    },
+    {
+      "name": "보테가",
+      "location": "충북 청주시 흥덕구 가로수로1164번길 4120",
+      "link": "https://naver.me/Gh8g1rs3",
+      "summary": "특별한 날 예약하고 가기 좋은 양식집",
+      "tags": [
+        "양식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/보테가",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/15510d97e5bfb80c86a43b80750d966175cb13d0?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1183568476"
+    },
+    {
+      "name": "봉달이해물칼국수",
+      "location": "충북 청주시 서원구 안뜸로54번길 23",
+      "link": "https://map.naver.com/p/search/%ED%95%B4%EB%AC%BC%EC%B9%BC%EA%B5%AD%EC%88%98/place/17391652?c=13.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "칼국수 맛집 만두 안시키면 서운함",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/봉달이해물칼국수?c=14,127.4834817,36.6111487,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/dcf2dd537d2e642ab30ef17308612e380d56bc50?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11487874"
+    },
+    {
+      "name": "고복막국수해장국",
+      "location": "청주 오송읍 오송생명3로 1371 1층",
+      "link": "https://map.naver.com/p/entry/place/17545701?c=14.87,0,0,0,dh&placePath=/home",
+      "summary": "애객러 팔로비빈년님 추천 막국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고복막국수해장국",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "마시33 사창점",
+      "location": "충북 청주시 서원구 1순환로648번길 5",
+      "link": "https://map.naver.com/p/entry/place/1646251656?c=14.64,0,0,0,dh&placePath=/home",
+      "summary": "라면 돈까스 제육 등 극한의 가성비 맛집",
+      "tags": [
+        "분식",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/마시33 사창점?c=14,127.4592873,36.6354545,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "백송짜글짜글",
+      "location": "충북 청주시 흥덕구 옥산면 옥산시내1길 63",
+      "link": "https://map.naver.com/p/search/%EB%B0%B1%EC%86%A1%EC%A7%9C%EA%B8%80%EC%A7%9C%EA%B8%80%09%09%20%09%09/place/1307624881?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 Tsuji 님 추천 찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/백송짜글짜글?c=14,127.3783824,36.6643530,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bf3d6cd53bc8b273ce6819225742126c7bd82f7c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c265c8a0f5e03693dca0de5adf9f8276985bd796?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1579559361"
+    },
+    {
+      "name": "부강옥 청주직영점",
+      "location": "충북 청주시 서원구 남이면 연청로 13831 1층",
+      "link": "https://map.naver.com/p/search/%EB%B6%80%EA%B0%95%EC%98%A5%EC%B2%AD%EC%A3%BC/place/1515933485?c=15.00,0,0,0,adh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202505301325&locale=ko&svcName=map_pcv5&searchText=%EB%B6%80%EA%B0%95%EC%98%A5%EC%B2%AD%EC%A3%BC",
+      "summary": "애객러 갑오징어님 추천 순대 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/부강옥 청주직영점",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "대추나무집",
+      "location": "충북 청주시 청원구 사천로18번길 5",
+      "link": "https://map.naver.com/p/entry/place/11718277?c=15.00,0,0,0,dh",
+      "summary": "애객러 해롱이님 추천 찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대추나무집?c=14,127.4806861,36.6772817,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/66577368b76c93849b00c2d82a978d3387f8aa3c?original"
+      ],
+      "review_url": "https://place.map.kakao.com/21346457"
+    },
+    {
+      "name": "강서순대",
+      "location": "충북 청주시 서원구 구룡산로326번길 26 장규빌 1층",
+      "link": "https://map.naver.com/p/entry/place/17464832?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202505301326&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 갑오징어님 추천 순대 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/강서순대?c=14,127.4796942,36.6174110,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fc5aaf20a77aea37201476e40ce1afb411fd4c38?original"
+      ],
+      "review_url": "https://place.map.kakao.com/16799988"
+    },
+    {
+      "name": "토속된장찌개",
+      "location": "충북 청주시 흥덕구 오송읍 만수길 22 1층",
+      "link": "https://map.naver.com/p/entry/place/1397052575?c=13.89,0,0,0,dh",
+      "summary": "제육 맛있는 무한리필 백반집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/토속된장찌개?c=14,127.3274926,36.6239830,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5ba67f53d7ea970a27bc3b247eef0238f21f77de?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1214920160"
+    },
+    {
+      "name": "토속김치찌개",
+      "location": "충북 청주시 흥덕구 오송읍 만수길 271",
+      "link": "https://map.naver.com/p/entry/place/38620153?c=13.89,0,0,0,dh&placePath=/home",
+      "summary": "애객러 jdk18님 추천 김치찌개 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/토속김치찌개",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/6484c6f13624e14fa34202b02a9798af3c81ca4c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/47b1f1358d409b4a324897dfdedbac636d6c216a?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b43d9342626048b8162746a6061b187dffc0e2a7?original"
+      ],
+      "review_url": "https://place.map.kakao.com/599058444"
+    },
+    {
+      "name": "토속순대국밥",
+      "location": "충북 청주시 흥덕구 오송읍 오송생명13로 3 12층",
+      "link": "https://map.naver.com/p/search/%ED%86%A0%EC%86%8D%EC%88%9C%EB%8C%80%EA%B5%AD%EB%B0%A5/place/1320367892?c=18.09,0,0,0,adh&placePath=%3Fentry%253Dbmp",
+      "summary": "오송의 토속가게 3번째 428 추후 구글지도업뎃",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/토속순대국밥?c=14,127.3233353,36.6205923,0,dh",
+      "review_star": 1,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/aad36b1740f5c63f62fde16dfeb878c81d5394de?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fab999481a0b3510ce54ef85370df7a2e306465c?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1939479513"
+    },
+    {
+      "name": "육거리소문난만두",
+      "location": "충북 청주시 상당구 상당로1번길 36 1층",
+      "link": "https://map.naver.com/p/search/%EC%9C%A1%EA%B1%B0%EB%A6%AC%EC%86%8C%EB%AC%B8%EB%82%9C%EB%A7%8C%EB%91%90%09%09%20%09%09/place/1122226122?c=15.00,0,0,0,dh&placePath=/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202507071439&locale=ko&svcName=map_pcv5&searchText=%EC%9C%A1%EA%B1%B0%EB%A6%AC%EC%86%8C%EB%AC%B8%EB%82%9C%EB%A7%8C%EB%91%90%09%09%20%09%09",
+      "summary": "칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/육거리소문난만두?c=14,127.4888609,36.6283255,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2307ec648015bb75b0d437fd821197d754e74c6d?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/195ef401e12519b74dc249ce5723d58c4e15a19a?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/aa02b02d00db9cfdab97f37f80ed480514fc9d86?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/e4d600437fb05758268804561c85cbdf4b57177c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/1d7abca77474552809442b0863dbc84a8a03c5a3?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/972315f687644b1b88709575fdb12eb31dfd251b?original"
+      ],
+      "review_url": "https://place.map.kakao.com/367735226"
+    },
+    {
+      "name": "딱점",
+      "location": "충북 청주시 청원구 오창읍 중심상업로 3214",
+      "link": "https://map.naver.com/p/entry/place/2017285778?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507071438&locale=ko&svcName=map_pcv5",
+      "summary": "8000원 한식뷔페",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/딱점",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/09af1a28937c28f60c65b586ebf2340bd625f33d?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1548573941"
+    },
+    {
+      "name": "용만두전골",
+      "location": "충북 청주시 흥덕구 옥산면 청주역로 637",
+      "link": "https://map.naver.com/p/entry/place/1617492834?c=16.35,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507171337&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 맛집만받아요님 추천 만두 전골 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/용만두전골?c=14,127.3750909,36.6643790,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/fc31a943d11116dc0a47d67a65fb8df48a538584?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1731580460"
+    },
+    {
+      "name": "만두가",
+      "location": "충북 청주시 흥덕구 강내면 가로수로 4807",
+      "link": "https://map.naver.com/p/search/%EB%A7%8C%EB%91%90%EA%B0%80/place/19812899?c=13.69,0,0,0,dh&placePath=/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202507171339&locale=ko&svcName=map_pcv5&searchText=%EB%A7%8C%EB%91%90%EA%B0%80",
+      "summary": "애객러 맛집만받아요님 추천 만두 전골 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/만두가",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/cce6ad46a2b4433c47be6df9d201faceb1c28047?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/bb033ffb581a61332d911d9715363b0484cff8df?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/452dbc84e54578f999967851c2e6e3bee18018b7?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a4ca14eefd0515eac1a4bcdceda0fe4fdf04ae4a?original"
+      ],
+      "review_url": "https://place.map.kakao.com/27140131"
+    },
+    {
+      "name": "오스테리아문",
+      "location": "충북 청주시 상당구 상당로143번길 3122 1층",
+      "link": "https://map.naver.com/p/entry/place/1240867035?c=12.09,0,0,0,cdh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507171341&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 맛집만받아요님 추천 양식 맛집",
+      "tags": [
+        "양식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오스테리아문",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2d0543b117caad475d57538155d2309cf5820acf?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a727e38d7956ed3869c26792d8ca139b284935d2?original"
+      ],
+      "review_url": "https://place.map.kakao.com/570749895"
+    }
+  ]
+}

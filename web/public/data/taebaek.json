@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:33:35.849243",
+    "total_groups": 4,
+    "source": "태백",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "태백닭갈비",
+      "location": "강원 태백시 중앙남1길 10",
+      "link": "https://map.naver.com/p/entry/place/15439624?c=14.96,0,0,0,dh&placePath=/home",
+      "summary": "냉이향 가득 맛있는 닭갈비",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태백닭갈비?c=14,128.9906924,37.1713799,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "얼큰이com",
+      "location": "강원 태백시 감천로 17",
+      "link": "https://map.naver.com/p/entry/place/15458640?c=14.96,0,0,0,dh",
+      "summary": "애객러 성기삽니다님 추천 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/얼큰이com?c=14,128.9878733,37.1595477,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "태백한우마을",
+      "location": "강원 태백시 번영로 3491 이림상가",
+      "link": "https://map.naver.com/p/search/%EA%B0%95%EC%9B%90%20%ED%83%9C%EB%B0%B1%EC%8B%9C%20%EB%B2%88%EC%98%81%EB%A1%9C%20349-1/place/15441520?c=19.00,0,0,0,adh&isCorrectAnswer=true",
+      "summary": "애객러 Monolife님 추천 고기 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태백한우마을",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "라온돈가스치킨",
+      "location": "강원 태백시 황지연못길 15",
+      "link": "https://map.naver.com/p/search/%ED%83%9C%EB%B0%B1%20%EB%8F%88%EA%B9%8C%EC%8A%A4/place/880200110?c=11.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "우연히 들렸다가 초 대박으로 기억남은 집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/라온돈가스치킨?c=14,128.9903226,37.1730092,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

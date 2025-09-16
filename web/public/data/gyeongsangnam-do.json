@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:41:08.345302",
+    "total_groups": 4,
+    "source": "경상남도",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "양산시",
+      "location": "양산시",
+      "link": "진주시",
+      "summary": "진주시",
+      "tags": [
+        "고기",
+        "목살짬뽕",
+        "짬뽕",
+        "고기집",
+        "창원시"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/양산시?c=14,129.037339,35.335049,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2ed34d446c9239542f84609b53912f854105c94a?original"
+      ],
+      "review_url": "https://place.map.kakao.com/7995062"
+    },
+    {
+      "name": "매콤이순진이 칼국수",
+      "location": "해양산국밥양산북정점",
+      "link": "성지원",
+      "summary": "한정식 아리랑",
+      "tags": [
+        "목살을 직화후 짬뽕에 올려주는 맛집",
+        "진영 백천참숯갈비",
+        "3000도씨",
+        "마산 3000도씨",
+        "초벌구이된 삼겹살이 맛있는 맛집",
+        "백천참숯갈비"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/매콤이순진이 칼국수",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "창원시",
+      "location": "통영시",
+      "link": "통영시",
+      "summary": "통영시",
+      "tags": [],
+      "navermapurl": "https://map.naver.com/p/search/창원시?c=14,128.433112,34.85439,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "토담고디탕",
+      "location": "벅수다찌",
+      "link": "미주뚝배기",
+      "summary": "통영생선구이",
+      "tags": [],
+      "navermapurl": "https://map.naver.com/p/search/토담고디탕",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:36:48.985527",
+    "total_groups": 20,
+    "source": "세종",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "부강옥 세종부강본점",
+      "location": "세종 부강면 부강외천로 103 1층",
+      "link": "https://map.naver.com/p/search/%EB%B6%80%EA%B0%95%EC%98%A5/place/1982933000?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 집요정님 추천 순대국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/부강옥 세종부강본점?c=14,127.3789045,36.5274547,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "코이라멘 새롬점",
+      "location": "세종 새롬로 26 B158호",
+      "link": "https://map.naver.com/p/entry/place/1274333799?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 라멘 맛집",
+      "tags": [
+        "체인",
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/코이라멘 새롬점?c=14,127.2562053,36.4874321,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "부산면관 세종청사점",
+      "location": "세종 가름로 180 1층 124호",
+      "link": "https://map.naver.com/p/entry/place/1486786793?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 냉면 맛집",
+      "tags": [
+        "체인",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/부산면관 세종청사점?c=14,127.2599138,36.4974451,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "세종복칼국수",
+      "location": "세종 금남면 신촌1길 34",
+      "link": "https://map.naver.com/p/entry/place/34015545?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/세종복칼국수?c=14,127.2877600,36.4692395,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "인생냉면",
+      "location": "세종 금남면 용포로 423 1층",
+      "link": "https://map.naver.com/p/entry/place/1784514678?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/인생냉면",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "돌솥순두부",
+      "location": "세종특별자치 금남면 발산1길 57 2층",
+      "link": "https://map.naver.com/p/entry/place/1504204735?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 순두부 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/돌솥순두부",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "원조감자탕",
+      "location": "세종 금남면 신촌1길 34",
+      "link": "https://map.naver.com/p/entry/place/32791705?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 감자탕 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원조감자탕?c=14,127.2877600,36.4692395,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "려원풍천민물장어",
+      "location": "세종 나성북로 15 1층 101104호",
+      "link": "https://map.naver.com/p/entry/place/1588791338?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 장어 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/려원풍천민물장어?c=14,127.2583865,36.4897295,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "워커스버거",
+      "location": "세종 절재로 194 1층 130호",
+      "link": "https://map.naver.com/p/entry/place/1609928068?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 수제버거 맛집",
+      "tags": [
+        "양식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/워커스버거?c=14,127.2624604,36.5082343,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "다이너 세종점",
+      "location": "세종 마음안1로 137 2층 DNER",
+      "link": "바로가기",
+      "summary": "애객러 집요정님 추천 양식 맛집",
+      "tags": [
+        "양식",
+        "데이트"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/다이너 세종점?c=14,127.2361831,36.5203004,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "진본가",
+      "location": "세종 장군면 월현윗길 391 1층",
+      "link": "https://map.naver.com/p/entry/place/1744105116?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 집요정님 추천 비빔밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/진본가",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "고등어밥상",
+      "location": "세종 장군면 월현윗길 387",
+      "link": "https://map.naver.com/p/entry/place/1885411411?c=15.00,0,0,0,dh",
+      "summary": "애객러 집요정님 추천 고등어 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고등어밥상",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "돈스",
+      "location": "세종 조치원읍 돌마루7길 6",
+      "link": "https://map.naver.com/p/entry/place/11833144?c=19.00,0,0,0,adh&placePath=/home",
+      "summary": "동네 주민이라면 다 아는 웨이팅 돈가스집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/돈스?c=14,127.2934467,36.6073602,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "수구레국밥",
+      "location": "세종 조치원읍 새내9길 7",
+      "link": "https://map.naver.com/p/entry/place/31022623?c=19.00,0,0,0,dh",
+      "summary": "내배카로뽕따사먹음님 추천 국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/수구레국밥?c=14,127.2979134,36.6001188,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "부뚜막",
+      "location": "세종 조치원읍 건너말고샅길 3115",
+      "link": "https://map.naver.com/p/entry/place/1530176564?c=14.87,0,0,0,dh&placePath=/home",
+      "summary": "애객러 Enterkey님 추천 김치찜 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/부뚜막",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "주문리메밀동치미막국수",
+      "location": "세종 연기면 당산로 201",
+      "link": "https://map.naver.com/p/entry/place/37682906?c=16.49,0,0,0,dh",
+      "summary": "애객러 Enterkey님 추천 막국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/주문리메밀동치미막국수?c=14,127.2776978,36.5510675,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "큰집뼈대있는짬뽕",
+      "location": "세종 노을3로 19 첫마을2단지 201동 1층상가",
+      "link": "https://map.naver.com/p/search/%ED%81%B0%EC%A7%91%EB%BC%88%EB%8C%80%EC%9E%88%EB%8A%94%EC%A7%AC%EB%BD%95/place/35177502?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "참아라제발눈팅만해라님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/큰집뼈대있는짬뽕?c=14,127.2598103,36.4815889,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "갈비가좋아 조치원점",
+      "location": "세종 조치원읍 행복4길 35",
+      "link": "https://map.naver.com/p/entry/place/21230589?c=16.49,0,0,0,dh",
+      "summary": "너는난독증이지님 추천 갈비찜 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/갈비가좋아 조치원점?c=14,127.2936315,36.6048055,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "산장가든",
+      "location": "세종 연서면 도신고복로 11317",
+      "link": "https://map.naver.com/p/search/%EC%82%B0%EC%9E%A5%EA%B0%80%EB%93%A0%20/place/11664351?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 해롱이님 추천 석갈비 맛집",
+      "tags": [
+        "단체",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/산장가든",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "세종냉면콩국수",
+      "location": "세종 보듬7로 76",
+      "link": "바로가기",
+      "summary": "진한 콩국수",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/세종냉면콩국수?c=14,127.2508858,36.5196514,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

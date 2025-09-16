@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:36:09.174688",
+    "total_groups": 3,
+    "source": "보령",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "신평화식당",
+      "location": "충남 보령시 큰오랏6길 50 신평화식당",
+      "link": "https://map.naver.com/p/search/%EC%8B%A0%ED%8F%89%ED%99%94%EC%8B%9D%EB%8B%B9/place/17481103?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "낚지철판볶음 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신평화식당?c=14,126.6082901,36.3487720,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "오양손칼국수",
+      "location": "충남 보령시 옥마역길 77",
+      "link": "https://map.naver.com/p/search/%EC%98%A4%EC%96%91%EC%86%90%EC%B9%BC%EA%B5%AD%EC%88%98/place/1969439971?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 망망대해님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/오양손칼국수?c=14,126.6201301,36.3329014,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "성지",
+      "location": "충남 보령시 주포면 보령읍성길 8028",
+      "link": "https://map.naver.com/p/search/%EC%84%B1%EC%A7%80%20%EC%A4%91%EA%B5%AD%EC%A7%91/place/1096461319?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 망망대해님 추천 간짜장 맛집",
+      "tags": [
+        "중식",
+        "체인"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/성지",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:40:23.514152",
+    "total_groups": 8,
+    "source": "진주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "한정식 아리랑",
+      "location": "경남 진주시 남강로471번길 5",
+      "link": "https://map.naver.com/p/entry/place/12943723?c=15.00,0,0,0,dh",
+      "summary": "숨어있는 정갈한 한정식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한정식 아리랑?c=14,128.0722146,35.1801699,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "황포냉면",
+      "location": "경남 진주시 호탄길34번길 10",
+      "link": "https://map.naver.com/p/entry/place/15525285?c=15.00,0,0,0,dh",
+      "summary": "냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/황포냉면?c=14,128.1172971,35.1642726,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "천황식당",
+      "location": "경남 진주시 촉석로207번길 3",
+      "link": "https://map.naver.com/p/entry/place/11710336?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "육회비빔밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/천황식당?c=14,128.0844884,35.1961092,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "제일식당",
+      "location": "경남 진주시 중앙시장길 378",
+      "link": "https://map.naver.com/p/entry/place/11816470?c=15.00,0,0,0,dh",
+      "summary": "육회비빔밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/제일식당",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "명성반점",
+      "location": "경남 진주시 일반성면 동부로1960번길 4",
+      "link": "https://map.naver.com/p/search/%EA%B2%BD%EB%82%A8%20%EC%A7%84%EC%A3%BC%EC%8B%9C%20%EC%9D%BC%EB%B0%98%EC%84%B1%EB%A9%B4%20%EB%8F%99%EB%B6%80%EB%A1%9C1960%EB%B2%88%EA%B8%B8%204/place/154065686?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "애객러 난알아요님 추천 중식 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/명성반점?c=14,128.2762424,35.1710386,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "순토해송돌판닭찜",
+      "location": "경남 진주시 호탄길13번길 10",
+      "link": "https://map.naver.com/p/entry/place/15524893?c=15.00,0,0,0,dh",
+      "summary": "애객러 Gagaa님 추천 찜닭 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/순토해송돌판닭찜?c=14,128.1155158,35.1628871,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "락영루",
+      "location": "경남 진주시 석갑로 132 신안국제맨션 상가5호",
+      "link": "https://map.naver.com/p/entry/place/15498258?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507071436&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 Gagaa님 추천 탕수육 맛집",
+      "tags": [
+        "중식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/락영루?c=14,128.0632377,35.1819601,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "진주냉면산홍 본점",
+      "location": "경남 진주시 금산면 금산로 62",
+      "link": "https://map.naver.com/p/entry/place/38567228?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507071435&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 해모수님 추천 냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/진주냉면산홍 본점?c=14,128.1433856,35.2140997,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

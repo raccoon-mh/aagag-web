@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:30:21.069946",
+    "total_groups": 4,
+    "source": "김포",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "홍대뼈다귀",
+      "location": "경기 김포시 대곶면 대명항로 300 2층",
+      "link": "https://map.naver.com/p/entry/place/1928649850?c=15.00,0,0,0,dh",
+      "summary": "애객러 대학원생님 추천 뼈해장국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/홍대뼈다귀?c=14,126.5872869,37.6502529,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "엄마의 봄날",
+      "location": "경기 김포시 모담공원로 178 1층",
+      "link": "https://map.naver.com/p/entry/place/1051488057?c=15.00,0,0,0,dh",
+      "summary": "애객러 난알아요님 추천 한정식 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/엄마의 봄날?c=14,126.6977458,37.6472225,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "연호정 칼국수",
+      "location": "경기 김포시 월곶면 군하로 242",
+      "link": "https://map.naver.com/p/entry/place/33879564?c=15.00,0,0,0,dh",
+      "summary": "애객러 지루한 선생님 추천 칼국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/연호정 칼국수?c=14,126.5558576,37.7150981,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "일산 칼국수",
+      "location": "경기 김포시 돌문로 15",
+      "link": "https://map.naver.com/p/search/%EA%B9%80%ED%8F%AC%EC%9D%BC%EC%82%B0%EC%B9%BC%EA%B5%AD%EC%88%98/place/18592265?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 지루한 선생님 추천 닭 칼국수 맛집",
+      "tags": [],
+      "navermapurl": "https://map.naver.com/p/search/일산 칼국수?c=14,126.7212627,37.6181259,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

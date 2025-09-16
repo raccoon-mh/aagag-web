@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:37:01.987555",
+    "total_groups": 21,
+    "source": "전주",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "전북 전주시 완산구 쑥고개로 391",
+      "location": "전북 전주시 완산구 쑥고개로 39",
+      "link": "https://map.naver.com/p/entry/place/16964878?c=15.00,0,0,0,dh",
+      "summary": "애객러 특수스색대님 추천 순대 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/전북 전주시 완산구 쑥고개로 391",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "원두막",
+      "location": "전북 전주시 덕진구 건지산로 538",
+      "link": "https://map.naver.com/p/search/%EC%9B%90%EB%91%90%EB%A7%89/place/13291601?c=15.00,0,0,0,dh&placePath=/review",
+      "summary": "유비빔 추천 갈치조림 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/원두막",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/9366484"
+    },
+    {
+      "name": "소리마당",
+      "location": "전북 전주시 덕진구 건지산로 531",
+      "link": "https://map.naver.com/p/search/%EC%86%8C%EB%A6%AC%EB%A7%88%EB%8B%B9/place/17040263?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/소리마당",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/adf0d2b285f637381e6f82562a16df724fcd50d0?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f73a7928da17e99e680e5cf54f0eb4f124eda4b8?original"
+      ],
+      "review_url": "https://place.map.kakao.com/9138116"
+    },
+    {
+      "name": "고궁 전주본점",
+      "location": "전북 전주시 덕진구 송천중앙로 33",
+      "link": "https://map.naver.com/p/entry/place/11710588?c=15.00,0,0,0,dh",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/고궁 전주본점?c=14,127.1194232,35.8500850,0,dh",
+      "review_star": 3,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a4d320248f80241eaf5b5ab101e27a005bbfd80c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/47ece123b9791725c0bb877f56a048d9e6f8a5e1?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/87bbe07318ec01d8a9c4441c494d978c09ecffa0?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10168334"
+    },
+    {
+      "name": "가족회관",
+      "location": "전북 전주시 완산구 전라감영5길 17 가족회관",
+      "link": "바로가기",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/가족회관?c=14,127.1459609,35.8170882,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c8c6f5b32df05a3097b7c6fc531590709e93faff?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8676321"
+    },
+    {
+      "name": "성미당",
+      "location": "전북 전주시 완산구 전라감영5길 199",
+      "link": "https://map.naver.com/p/entry/place/11707231?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/성미당",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b9971daca2948532472a52c6f27a11862a597f41?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8374461"
+    },
+    {
+      "name": "한국식당",
+      "location": "전북 전주시 완산구 전라감영로 481",
+      "link": "https://map.naver.com/p/search/%ED%95%9C%EA%B5%AD%EC%8B%9D%EB%8B%B9/place/11806856?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한국식당",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/0cb419ec663326ee4beaac059ad8af3acad7d9b2?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/69ed66783a71d1caeb0282fbc8f9aa1d8234e6dc?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f696da202a7cdb14b06e19aa83b0619a03a0e1b1?original"
+      ],
+      "review_url": "https://place.map.kakao.com/11218878"
+    },
+    {
+      "name": "갑기회관 본점",
+      "location": "전북 전주시 덕진구 상리로 50",
+      "link": "https://map.naver.com/p/entry/place/11627365?c=15.00,0,0,0,dh",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/갑기회관 본점?c=14,127.1042898,35.8525747,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "풍남정",
+      "location": "전북 전주시 완산구 태조로 52",
+      "link": "https://map.naver.com/p/entry/place/16795271?c=15.00,0,0,0,dh",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/풍남정?c=14,127.1490464,35.8139701,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/aea264ec8f05c4921473019c3f3297f798f82a56?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/58eeb78f14caa099cb98de502b8e739478d1d1be?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8120583"
+    },
+    {
+      "name": "한국관 본점",
+      "location": "전북 전주시 덕진구 기린대로 425",
+      "link": "https://map.naver.com/p/entry/place/11728244?c=15.00,0,0,0,dh",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/한국관 본점?c=14,127.1295813,35.8390851,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/285c52fb5082a35976dbe2fc36dabe858798360b?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f848497d9bd1f94bf9fa943bb6d47ac9450c7fe5?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d1128ee37164ecb604a1ad50f22fe8fda1835d6f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8645482"
+    },
+    {
+      "name": "전주왱이콩나물국밥전문점",
+      "location": "전북 전주시 완산구 동문길 88",
+      "link": "https://map.naver.com/p/search/%EC%99%B1%EC%9D%B4%EC%A7%91/place/33342797?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/전주왱이콩나물국밥전문점?c=14,127.1491843,35.8183364,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b9df6278be10174eee0baf96fa4eaeb00888198c?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2f93672a86992ab53d699c3c972886c848a782b1?original"
+      ],
+      "review_url": "https://place.map.kakao.com/26615208"
+    },
+    {
+      "name": "조점례남문피순대",
+      "location": "전북 전주시 완산구 풍남문2길 39",
+      "link": "https://map.naver.com/p/entry/place/11797314?c=15.00,0,0,0,dh",
+      "summary": "유비빔 추천 맛집 호불호",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/조점례남문피순대?c=14,127.1471680,35.8125984,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/53165d2dfc49f7c7dc7b53722e857edd91466ba1?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10186580"
+    },
+    {
+      "name": "금암피순대",
+      "location": "전북 전주시 덕진구 기린대로 40061",
+      "link": "https://map.naver.com/p/entry/place/11877551?placePath=%2Fhome&c=15.00,0,0,0,dh",
+      "summary": "애객러 상식적으로님 추천 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/금암피순대",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f4692335b46c1a03e6b592aff514aeba6071a01f?original"
+      ],
+      "review_url": "https://place.map.kakao.com/21291721"
+    },
+    {
+      "name": "금암소바",
+      "location": "전북 전주시 덕진구 기린대로 40075",
+      "link": "https://map.naver.com/p/entry/place/17122958?c=15.00,0,0,0,dh",
+      "summary": "애객러 가능님 추천 소바 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/금암소바",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/32bce64ebd502dbb6775f47daff2adbcc3ec0b25?original"
+      ],
+      "review_url": "https://place.map.kakao.com/16779100"
+    },
+    {
+      "name": "태평집",
+      "location": "전북 전주시 덕진구 조경단로 36",
+      "link": "https://map.naver.com/p/search/%ED%83%9C%ED%8F%89%EC%A7%91/place/13163796?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "소바와 콩국수 팔아서 빌딩세운 집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/태평집?c=14,127.1378508,35.8374412,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/9f2cef441f0fafe395368d942c36b0b59d108f8d?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f77d83eb317876b932a856ac0605032c11cddade?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/2c3c191b90ed80c59fb6e730218b5cb03c67ea7b?original"
+      ],
+      "review_url": "https://place.map.kakao.com/24169275"
+    },
+    {
+      "name": "우리순대집",
+      "location": "전북 전주시 덕진구 호성1길 9",
+      "link": "https://map.naver.com/p/entry/place/12909540?c=15.00,0,0,0,dh",
+      "summary": "애객러 바이올린 해장국님 추천 순대국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우리순대집?c=14,127.1551608,35.8557610,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/7734729a282aee70f3361f160d8003cb7bee0cd0?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/27c9b891ea8ed2d275c845349078d0acc8167f0b?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/29b82f447c5bc8075bc920ffa746c3b2ea347e52?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/c3dc45b8ecd5dca63fc3dd64c814fb5b2d44c724?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/580cc7445d198b66ca9f09ff03bdde894823de44?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d016b874b8ef01a1e658f0b607bf89aed1a32072?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/04c328f0c2896896a0d094a06dfd55ef4b2110f0?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/74a9f0db6709a68635a5f0e163c731b2bea4eb06?original"
+      ],
+      "review_url": "https://place.map.kakao.com/10703921"
+    },
+    {
+      "name": "소문난순대",
+      "location": "전북 전주시 덕진구 우아로 23",
+      "link": "https://map.naver.com/p/entry/place/11734528?c=15.27,0,0,0,dh",
+      "summary": "애객러 바이올린 해장국님 추천 순대국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/소문난순대?c=14,127.1560844,35.8500053,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/d0e43b58905e53e3150fc1ed0465ab9561a5ec04?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/3ce7fd1f6e1e7d10346ac8c3d566ee691daf3cb9?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/a62427145e10d45bf86d216e7defd004b0753d0f?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/77a6911f3d428b659d1c52f1101fb8b578b952e8?original"
+      ],
+      "review_url": "https://place.map.kakao.com/937662499"
+    },
+    {
+      "name": "진돈까스",
+      "location": "전북 전주시 덕진구 견훤로 237 1층",
+      "link": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%20%EC%A7%84%EB%8F%88%EA%B9%8C%EC%8A%A4/place/1629759943?c=15.00,0,0,0,dh&isCorrectAnswer=true",
+      "summary": "돈까스 전문점",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/진돈까스?c=14,127.1579128,35.8328429,0,dh",
+      "review_star": 5,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/f29801b18403949b587afacc871fc711378c8fb1?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/41bf5a577fdcd21c2ad9831534eca50822818eb9?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8ba083cec98cec929a9aea681fdaa37b3e23472e?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/8f007aa9afdeefacf644c421c903e99635f40148?original"
+      ],
+      "review_url": "https://place.map.kakao.com/482430588"
+    },
+    {
+      "name": "곰소 정육 셀프 식당",
+      "location": "전북 전주시 완산구 홍산중앙로 26",
+      "link": "https://map.naver.com/p/entry/place/1948158367?c=15.00,0,0,0,dh",
+      "summary": "8000원 고기 무한 뷔페",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/곰소 정육 셀프 식당?c=14,127.1093458,35.8159596,0,dh",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/5752117dc1c8c2241f03d0a58ef06ed1efb6f946?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/da35259a7a80e2c5d7b9d2c7f2fa00d15a04c126?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/01abe7403efe3a56d13d7288988a9af32c494d7b?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/77ecf368653e2a65bd8d4fd24e803278a00ab4f7?original",
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/7544b9236ed2f7b4f658ce8973ca448a27774326?original"
+      ],
+      "review_url": "https://place.map.kakao.com/371282532"
+    },
+    {
+      "name": "카츠모리조",
+      "location": "전북 전주시 완산구 선너머2길 26 2층",
+      "link": "https://map.naver.com/p/entry/place/1106670769?c=15.00,0,0,0,dh",
+      "summary": "비싸지만 맛있음",
+      "tags": [
+        "일식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/카츠모리조?c=14,127.1284876,35.8142621,0,dh",
+      "review_star": 4,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/aca0294fbb0cb16b753dca5257e835c88b610bdd?original"
+      ],
+      "review_url": "https://place.map.kakao.com/1701299826"
+    },
+    {
+      "name": "대성식품",
+      "location": "전북 전주시 완산구 팔달로 1575",
+      "link": "https://map.naver.com/p/entry/place/16784569?placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509030914&locale=ko&svcName=map_pcv5&c=15.00,0,0,0,dh",
+      "summary": "노포 라면 등 분식 맛집",
+      "tags": [
+        "분식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/대성식품",
+      "review_star": 2,
+      "review_img": [
+        "http://t1.daumcdn.net/local/kakaomapPhoto/review/b3fba26a126017cf9136ba340a44da980d3e3fd5?original"
+      ],
+      "review_url": "https://place.map.kakao.com/8867662"
+    }
+  ]
+}

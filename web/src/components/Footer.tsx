@@ -19,7 +19,7 @@ export default function Footer() {
                             </div>
                         </div>
                         <p className="text-sm text-muted-foreground">
-                            Orgin - https://docs.google.com/spreadsheets/d/1VkCrA0KODJUfr89z8vnWNDJLFz2AtOSGG-JsBLzdGww
+                            https://github.com/raccoon-mh/aagag-web
                         </p>
                     </div>
 

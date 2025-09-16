@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:33:16.799491",
+    "total_groups": 9,
+    "source": "속초",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "만석닭강정 본점",
+      "location": "강원 속초시 청초호반로 72",
+      "link": "https://map.naver.com/p/search/%EB%A7%8C%EC%84%9D%EB%8B%AD%EA%B0%95%EC%A0%95/place/31329578?c=13.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "쇄신의 대표적인 예",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/만석닭강정 본점?c=14,128.5869149,38.1903216,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "영광정막국수속초점",
+      "location": "강원 속초시 떡밭재로 229",
+      "link": "https://map.naver.com/p/search/%EC%98%81%EA%B4%91%EC%A0%95%20%EC%86%8D%EC%B4%88/place/37879574?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 생산관리님 추천 막국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/영광정막국수속초점?c=14,128.5814969,38.1832219,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "함흥냉면옥",
+      "location": "강원 속초시 청초호반로 299",
+      "link": "https://map.naver.com/p/search/%ED%95%A8%ED%9D%A5%EB%83%89%EB%A9%B4%EC%98%A5/place/11709011?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "애객러 생산관리님 추천 냉면  코다리 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/함흥냉면옥?c=14,128.5898537,38.2019719,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "진미막국수",
+      "location": "강원 속초시 설악금강대교로 461",
+      "link": "https://map.naver.com/p/entry/place/15017240?c=15.00,0,0,0,dh",
+      "summary": "애객러 님 추천 막국수 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/진미막국수",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "이조면옥",
+      "location": "강원 속초시 동해대로 3887",
+      "link": "https://map.naver.com/p/entry/place/12012104?c=15.00,0,0,0,dh&placePath=/home",
+      "summary": "애객러 님 추천 냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/이조면옥?c=14,128.6007299,38.1821433,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "아바이회국수",
+      "location": "강원 속초시 청호로 11512",
+      "link": "https://map.naver.com/p/search/%EC%95%84%EB%B0%94%EC%9D%B4%ED%9A%8C%EA%B5%AD%EC%88%98/place/35308401?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "회국수 덮밥 맛집",
+      "tags": [
+        "데이트",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/아바이회국수",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "모녀가리비",
+      "location": "강원 속초시 대포항희망길 53",
+      "link": "https://map.naver.com/p/search/%EB%AA%A8%EB%85%80%EA%B0%80%EB%A6%AC%EB%B9%84/place/1021223975?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+      "summary": "너무나 유명해서 줄서서 먹는 집 주변도",
+      "tags": [
+        "술안주",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/모녀가리비?c=14,128.6058366,38.1732910,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "풍년식당",
+      "location": "강원 속초시 청초호반로 304",
+      "link": "https://map.naver.com/p/entry/place/1460134269?c=15.00,0,0,0,dh",
+      "summary": "애객러 내정보님 추천 오징어 해장국 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/풍년식당?c=14,128.5904958,38.2017613,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "신유네 회포장",
+      "location": "강원 속초시 번영로 200",
+      "link": "https://map.naver.com/p/entry/place/217654348?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202509111641&locale=ko&svcName=map_pcv5",
+      "summary": "애객러 돌거북이님 추천 회 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/신유네 회포장?c=14,128.5906898,38.2164359,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}

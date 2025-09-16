@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-16T07:31:08.341459",
+    "total_groups": 2,
+    "source": "안성",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "안성장터국밥",
+      "location": "경기 안성시 미양면 구례골길 17017",
+      "link": "https://map.naver.com/p/entry/place/12041900?c=17.01,0,0,0,dh",
+      "summary": "애객러 응니얼구르님 추천 소고기 국밥 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/안성장터국밥",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    },
+    {
+      "name": "우정집",
+      "location": "경기 안성시 낙원길 43",
+      "link": "https://map.naver.com/p/search/%EC%95%88%EC%84%B1%EC%9A%B0%EC%A0%95%EC%A7%91/place/1701887535?c=15.00,0,0,0,dh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202507041104&locale=ko&svcName=map_pcv5&searchText=%EC%95%88%EC%84%B1%EC%9A%B0%EC%A0%95%EC%A7%91",
+      "summary": "애객러 후두리찹님 추천 냉면 맛집",
+      "tags": [
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/우정집?c=14,127.2713602,37.0055863,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": ""
+    }
+  ]
+}
