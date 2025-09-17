@@ -11,7 +11,6 @@ export default function About() {
             <Header />
 
             <main className="flex-1">
-                {/* Hero Section */}
                 <section className="bg-gradient-to-br from-primary/5 to-accent/5 py-16">
                     <div className="container">
                         <div className="max-w-3xl mx-auto text-center">
@@ -39,7 +38,6 @@ export default function About() {
                     </div>
                 </section>
 
-                {/* Problem & Solution */}
                 <section className="py-16">
                     <div className="container">
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
@@ -75,7 +73,6 @@ export default function About() {
                     </div>
                 </section>
 
-                {/* Features */}
                 <section className="py-16 bg-muted/50">
                     <div className="container">
                         <h2 className="text-3xl font-bold text-center mb-12">핵심 기능</h2>
@@ -123,7 +120,6 @@ export default function About() {
                     </div>
                 </section>
 
-                {/* Stats */}
                 <section className="py-16">
                     <div className="container">
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
@@ -143,7 +139,6 @@ export default function About() {
                     </div>
                 </section>
 
-                {/* CTA */}
                 <section className="py-16 bg-primary/5">
                     <div className="container text-center">
                         <h2 className="text-3xl font-bold mb-4">

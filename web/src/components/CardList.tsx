@@ -41,10 +41,8 @@ export default function CardList({
         source
     } = useFetchData(region);
 
-    // props로 받은 데이터가 있으면 사용, 없으면 fetch한 데이터 사용
     const allRestaurants = propRestaurants || fetchedRestaurants;
 
-    // 랜덤 정렬 함수 (Fisher-Yates 셔플 알고리즘)
     const shuffleArray = (array: Restaurant[]): Restaurant[] => {
         const shuffled = [...array];
         for (let i = shuffled.length - 1; i > 0; i--) {
@@ -54,10 +52,8 @@ export default function CardList({
         return shuffled;
     };
 
-    // 정렬 함수
     const sortRestaurants = (restaurants: Restaurant[], sortOption?: SortOption): Restaurant[] => {
         if (!sortOption || !sortOption.enabled || sortOption.field === 'none') {
-            // 정렬 옵션이 없으면 랜덤 정렬
             return shuffleArray(restaurants);
         }
 
@@ -76,28 +72,23 @@ export default function CardList({
         });
     };
 
-    // 필터링 및 정렬 로직 - useMemo로 최적화
     const filteredAndSortedRestaurants = useMemo(() => {
         if (!allRestaurants.length) return [];
 
         const filtered = allRestaurants.filter((restaurant) => {
-            // 검색 쿼리 필터
             const matchesSearch = searchQuery === '' ||
                 restaurant.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
                 restaurant.summary.toLowerCase().includes(searchQuery.toLowerCase()) ||
                 restaurant.tags.some(tag => tag.toLowerCase().includes(searchQuery.toLowerCase()));
 
-            // 태그 필터 - 선택한 모든 태그가 포함된 레스토랑만 표시
             const matchesTags = selectedTags.length === 0 ||
                 selectedTags.every(tag => restaurant.tags.includes(tag));
 
-            // 즐겨찾기 필터
             const matchesFavorites = !showFavoritesOnly || favorites.includes(restaurant.name);
 
             return matchesSearch && matchesTags && matchesFavorites;
         });
 
-        // 정렬 적용 (shuffleTrigger가 변경되면 랜덤 정렬)
         return sortRestaurants(filtered, sortOption);
     }, [allRestaurants, searchQuery, selectedTags, showFavoritesOnly, favorites, sortOption, shuffleTrigger]);
 

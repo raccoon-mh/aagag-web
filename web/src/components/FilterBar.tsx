@@ -26,7 +26,6 @@ interface FilterBarProps {
     sortOption?: SortOption;
 }
 
-// 검색 가능한 지역 선택 컴포넌트
 interface SearchableRegionSelectProps {
     regions: Array<{ key: string, source: string }>;
     selectedRegion: string;
@@ -41,7 +40,6 @@ function SearchableRegionSelect({ regions, selectedRegion, onRegionChange, loadi
     const dropdownRef = useRef<HTMLDivElement>(null);
     const searchInputRef = useRef<HTMLInputElement>(null);
 
-    // 검색된 지역 목록
     const filteredRegions = useMemo(() => {
         if (!searchQuery) return regions;
         return regions.filter(region =>
@@ -50,10 +48,8 @@ function SearchableRegionSelect({ regions, selectedRegion, onRegionChange, loadi
         );
     }, [regions, searchQuery]);
 
-    // 선택된 지역 정보
     const selectedRegionInfo = regions.find(r => r.key === selectedRegion);
 
-    // 드롭다운 열기/닫기
     const toggleDropdown = () => {
         setIsOpen(!isOpen);
         if (!isOpen) {
@@ -64,7 +60,6 @@ function SearchableRegionSelect({ regions, selectedRegion, onRegionChange, loadi
         }
     };
 
-    // 지역 선택
     const selectRegion = (regionKey: string) => {
         onRegionChange(regionKey);
         setIsOpen(false);
@@ -72,7 +67,6 @@ function SearchableRegionSelect({ regions, selectedRegion, onRegionChange, loadi
         setHighlightedIndex(-1);
     };
 
-    // 키보드 네비게이션
     const handleKeyDown = (e: React.KeyboardEvent) => {
         if (!isOpen) return;
 
@@ -103,7 +97,6 @@ function SearchableRegionSelect({ regions, selectedRegion, onRegionChange, loadi
         }
     };
 
-    // 외부 클릭 시 드롭다운 닫기
     useEffect(() => {
         const handleClickOutside = (event: MouseEvent) => {
             if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
@@ -133,7 +126,6 @@ function SearchableRegionSelect({ regions, selectedRegion, onRegionChange, loadi
 
             {isOpen && (
                 <div className="absolute z-50 w-full mt-1 bg-popover border border-border rounded-md shadow-lg">
-                    {/* 검색 입력 */}
                     <div className="p-2 border-b">
                         <div className="relative">
                             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
@@ -152,7 +144,6 @@ function SearchableRegionSelect({ regions, selectedRegion, onRegionChange, loadi
                         </div>
                     </div>
 
-                    {/* 지역 목록 */}
                     <div className="max-h-60 overflow-y-auto scrollbar-hide">
                         {filteredRegions.length === 0 ? (
                             <div className="px-3 py-2 text-sm text-muted-foreground">
@@ -196,13 +187,8 @@ export default function FilterBar({
     const [showFilters, setShowFilters] = useState(false);
     const [tagSearchQuery, setTagSearchQuery] = useState('');
 
-    // 동적 지역 목록 로드
     const { regions: availableRegions, loading: regionsLoading } = useAvailableRegions();
-
-    // 즐겨찾기 기능만 사용 (개수 표시 제거)
     const { favorites } = useFavorites();
-
-    // 현재 지역의 source 정보 가져오기 (CardList와 동일한 방식)
     const { source: currentRegionName } = useFetchData(selectedRegion);
 
     const handleSearch = (e: React.FormEvent) => {
@@ -230,7 +216,6 @@ export default function FilterBar({
         return `${sortOption.field}-${sortOption.order}`;
     };
 
-    // 실제 데이터에서 태그를 동적으로 추출
     const availableTags = useMemo(() => {
         const allTags = new Set<string>();
 
@@ -243,7 +228,6 @@ export default function FilterBar({
         return Array.from(allTags).sort();
     }, [restaurants]);
 
-    // 태그 검색 필터링
     const filteredTags = useMemo(() => {
         if (!tagSearchQuery) return availableTags;
         return availableTags.filter(tag =>
@@ -254,9 +238,7 @@ export default function FilterBar({
     return (
         <div className="w-full bg-background border-b">
             <div className="container py-4">
-                {/* Top Row: Region + Search + Sort */}
                 <div className="space-y-3 md:space-y-0 md:flex md:flex-row md:gap-4 mb-4">
-                    {/* Region Filter - 검색 가능한 드롭다운 */}
                     <div className="w-full md:w-48 flex-shrink-0">
                         <SearchableRegionSelect
                             regions={availableRegions}
@@ -266,7 +248,6 @@ export default function FilterBar({
                         />
                     </div>
 
-                    {/* Search Bar - 모바일에서는 아래, 데스크톱에서는 오른쪽 */}
                     <form onSubmit={handleSearch} className="flex gap-2 flex-1">
                         <div className="relative flex-1">
                             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
@@ -284,7 +265,6 @@ export default function FilterBar({
                         </Button>
                     </form>
 
-                    {/* Sort Filter */}
                     {onSortChange && (
                         <div className="w-full md:w-48 flex-shrink-0">
                             <Select value={getCurrentSortValue()} onValueChange={handleSortChange}>
@@ -303,7 +283,6 @@ export default function FilterBar({
                     )}
                 </div>
 
-                {/* Filter Toggle */}
                 <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4">
                     <div className="flex items-center gap-2">
                         <Button
@@ -316,7 +295,6 @@ export default function FilterBar({
                             <span className="hidden sm:inline">필터</span>
                         </Button>
 
-                        {/* 즐겨찾기 필터 버튼 - 항상 표시 */}
                         {onFavoritesOnly && (
                             <Button
                                 variant={showFavoritesOnly ? "default" : "outline"}
@@ -330,7 +308,6 @@ export default function FilterBar({
                             </Button>
                         )}
 
-                        {/* I'm Feeling Lucky Button - 즐겨찾기 옆에 배치 */}
                         {onShuffle && (
                             <Button
                                 type="button"
@@ -346,7 +323,6 @@ export default function FilterBar({
                         )}
                     </div>
 
-                    {/* Selected Tags */}
                     {selectedTags.length > 0 && (
                         <div className="flex flex-wrap gap-2">
                             {selectedTags.map((tag) => (
@@ -368,14 +344,12 @@ export default function FilterBar({
                     )}
                 </div>
 
-                {/* Tags Filter - 필터 펼칠 때만 표시 */}
                 {showFilters && (
                     <div className="mb-4">
                         <label className="text-sm font-medium mb-2 block">
                             태그 ({availableTags.length}개)
                         </label>
 
-                        {/* 태그 검색 */}
                         {availableTags.length > 10 && (
                             <div className="mb-2">
                                 <Input

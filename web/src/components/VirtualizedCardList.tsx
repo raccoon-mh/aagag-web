@@ -22,7 +22,6 @@ export default function VirtualizedCardList({
     const [currentPage, setCurrentPage] = useState(1);
     const [isLoadingMore, setIsLoadingMore] = useState(false);
 
-    // 현재 페이지의 데이터만 렌더링
     const currentRestaurants = useMemo(() => {
         const startIndex = (currentPage - 1) * itemsPerPage;
         const endIndex = startIndex + itemsPerPage;
@@ -31,7 +30,6 @@ export default function VirtualizedCardList({
 
     const hasMore = currentRestaurants.length < restaurants.length;
 
-    // 무한 스크롤 구현
     useEffect(() => {
         const handleScroll = () => {
             if (window.innerHeight + document.documentElement.scrollTop
@@ -64,14 +62,12 @@ export default function VirtualizedCardList({
                 ))}
             </div>
 
-            {/* 로딩 인디케이터 */}
             {isLoadingMore && (
                 <div className="flex justify-center py-8">
                     <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary"></div>
                 </div>
             )}
 
-            {/* 더 이상 데이터가 없을 때 */}
             {!hasMore && restaurants.length > 0 && (
                 <div className="text-center py-8 text-muted-foreground">
                     모든 맛집을 불러왔습니다
