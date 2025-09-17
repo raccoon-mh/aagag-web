@@ -3,6 +3,19 @@
 import { useState, useEffect, useMemo } from 'react';
 import { Restaurant, RestaurantData } from '@/data/restaurants';
 
+// Next.js basePath 설정을 사용
+const getBasePath = () => {
+    // 브라우저 환경에서는 window.location을 확인
+    if (typeof window !== 'undefined') {
+        const pathname = window.location.pathname;
+        if (pathname.startsWith('/aagag-web')) {
+            return '/aagag-web';
+        }
+    }
+    // 서버 환경에서는 환경변수 사용
+    return process.env.NODE_ENV === 'production' ? '/aagag-web' : '';
+};
+
 interface UseFetchDataResult {
     data: Restaurant[];
     metadata: RestaurantData['metadata'] | null;
@@ -24,8 +37,9 @@ export function useFetchData(region: string = 'seoul'): UseFetchDataResult {
             setLoading(true);
             setError(null);
 
-            // 정적 JSON 파일에서 데이터 로드 (상대 경로 사용)
-            const response = await fetch(`/data/${region}.json`);
+            // 정적 JSON 파일에서 데이터 로드 (basePath 포함)
+            const basePath = getBasePath();
+            const response = await fetch(`${basePath}/data/${region}.json`);
 
             if (!response.ok) {
                 throw new Error(`Failed to fetch data: ${response.status}`);
@@ -75,8 +89,9 @@ export function usePreloadData(regions: string[] = ['seoul']) {
                 setLoading(true);
 
                 // 병렬로 모든 지역 데이터 로드
+                const basePath = getBasePath();
                 const dataPromises = regions.map(async (region) => {
-                    const response = await fetch(`/data/${region}.json`);
+                    const response = await fetch(`${basePath}/data/${region}.json`);
                     if (!response.ok) {
                         throw new Error(`Failed to fetch ${region} data`);
                     }
