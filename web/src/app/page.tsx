@@ -15,6 +15,7 @@ export default function Home() {
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
   const [sortOption, setSortOption] = useState<SortOption>({ field: 'none', order: 'asc', enabled: false });
+  const [shuffleTrigger, setShuffleTrigger] = useState(0);
 
   // 즐겨찾기 관리 (로컬 스토리지 연동)
   const { favorites, toggleFavorite, isFavorite, getCurrentRegionFavorites, updateTrigger } = useFavorites();
@@ -50,6 +51,12 @@ export default function Home() {
     );
   };
 
+  const handleShuffle = () => {
+    setShuffleTrigger(prev => prev + 1);
+    // 정렬 옵션을 랜덤으로 리셋
+    setSortOption({ field: 'none', order: 'asc', enabled: false });
+  };
+
   return (
     <div className="min-h-screen flex flex-col">
       <Header currentRegion={selectedRegion} />
@@ -59,6 +66,7 @@ export default function Home() {
         onTagFilter={handleTagFilter}
         onFavoritesOnly={setShowFavoritesOnly}
         onSortChange={handleSortChange}
+        onShuffle={handleShuffle}
         selectedRegion={selectedRegion}
         selectedTags={selectedTags}
         restaurants={restaurants}
@@ -76,6 +84,7 @@ export default function Home() {
           restaurants={restaurants}
           showFavoritesOnly={showFavoritesOnly}
           sortOption={sortOption}
+          shuffleTrigger={shuffleTrigger}
         />
       </main>
       <Footer />

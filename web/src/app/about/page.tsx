@@ -3,6 +3,7 @@
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Clock, Zap, Users, Heart } from 'lucide-react';
+import Link from 'next/link';
 
 export default function About() {
     return (
@@ -151,12 +152,12 @@ export default function About() {
                         <p className="text-muted-foreground mb-8">
                             3분 안에 마음에 드는 맛집을 찾을 수 있습니다.
                         </p>
-                        <a
+                        <Link
                             href="/"
                             className="inline-flex items-center justify-center px-8 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-primary/90 transition-colors"
                         >
                             맛집 탐색하기
-                        </a>
+                        </Link>
                     </div>
                 </section>
             </main>

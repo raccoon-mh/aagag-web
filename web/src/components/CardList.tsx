@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useEffect } from 'react';
+import { useMemo, useEffect, useState } from 'react';
 import { Restaurant } from '@/data/restaurants';
 import VirtualizedCardList from './VirtualizedCardList';
 import { useFetchData } from '@/hooks/useFetchData';
@@ -15,6 +15,8 @@ interface CardListProps {
     restaurants?: Restaurant[];
     showFavoritesOnly?: boolean;
     sortOption?: SortOption;
+    onShuffle?: () => void;
+    shuffleTrigger?: number;
 }
 
 export default function CardList({
@@ -25,7 +27,9 @@ export default function CardList({
     selectedTags = [],
     restaurants: propRestaurants,
     showFavoritesOnly = false,
-    sortOption
+    sortOption,
+    onShuffle,
+    shuffleTrigger = 0
 }: CardListProps) {
     const {
         data: fetchedRestaurants,
@@ -40,9 +44,22 @@ export default function CardList({
     // props로 받은 데이터가 있으면 사용, 없으면 fetch한 데이터 사용
     const allRestaurants = propRestaurants || fetchedRestaurants;
 
+    // 랜덤 정렬 함수 (Fisher-Yates 셔플 알고리즘)
+    const shuffleArray = (array: Restaurant[]): Restaurant[] => {
+        const shuffled = [...array];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+    };
+
     // 정렬 함수
     const sortRestaurants = (restaurants: Restaurant[], sortOption?: SortOption): Restaurant[] => {
-        if (!sortOption || !sortOption.enabled || sortOption.field === 'none') return restaurants;
+        if (!sortOption || !sortOption.enabled || sortOption.field === 'none') {
+            // 정렬 옵션이 없으면 랜덤 정렬
+            return shuffleArray(restaurants);
+        }
 
         return [...restaurants].sort((a, b) => {
             let comparison = 0;
@@ -80,9 +97,9 @@ export default function CardList({
             return matchesSearch && matchesTags && matchesFavorites;
         });
 
-        // 정렬 적용
+        // 정렬 적용 (shuffleTrigger가 변경되면 랜덤 정렬)
         return sortRestaurants(filtered, sortOption);
-    }, [allRestaurants, searchQuery, selectedTags, showFavoritesOnly, favorites, sortOption]);
+    }, [allRestaurants, searchQuery, selectedTags, showFavoritesOnly, favorites, sortOption, shuffleTrigger]);
 
     if (loading) {
         return (

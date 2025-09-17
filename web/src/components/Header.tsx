@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { Search, MapPin } from 'lucide-react';
+import Link from 'next/link';
 
 interface HeaderProps {
     currentRegion?: string;
@@ -24,18 +25,18 @@ export default function Header({ currentRegion = 'seoul' }: HeaderProps) {
 
                 {/* Navigation */}
                 <nav className="hidden md:flex items-center space-x-6">
-                    <a
+                    <Link
                         href="/"
                         className="text-sm font-medium text-foreground hover:text-primary transition-colors"
                     >
                         홈
-                    </a>
-                    <a
+                    </Link>
+                    <Link
                         href="/about"
                         className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors"
                     >
                         서비스 소개
-                    </a>
+                    </Link>
                 </nav>
 
                 {/* Mobile Menu Button */}

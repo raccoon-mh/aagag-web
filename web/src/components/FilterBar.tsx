@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useMemo, useRef, useEffect } from 'react';
-import { Search, Filter, X, Heart, ArrowUpDown, ChevronDown } from 'lucide-react';
+import { Search, Filter, X, Heart, ArrowUpDown, ChevronDown, Shuffle } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
@@ -17,6 +17,7 @@ interface FilterBarProps {
     onTagFilter: (tag: string) => void;
     onFavoritesOnly?: (showOnly: boolean) => void;
     onSortChange?: (sortOption: SortOption) => void;
+    onShuffle?: () => void;
     selectedRegion: string;
     selectedTags: string[];
     restaurants: Restaurant[];
@@ -183,6 +184,7 @@ export default function FilterBar({
     onTagFilter,
     onFavoritesOnly,
     onSortChange,
+    onShuffle,
     selectedRegion,
     selectedTags,
     restaurants,
@@ -325,6 +327,21 @@ export default function FilterBar({
                                 <Heart className={`h-4 w-4 ${showFavoritesOnly ? 'fill-current' : ''}`} />
                                 <span className="hidden sm:inline">{currentRegionName} 즐겨찾기만 보기</span>
                                 <span className="sm:hidden">즐겨찾기</span>
+                            </Button>
+                        )}
+
+                        {/* I'm Feeling Lucky Button - 즐겨찾기 옆에 배치 */}
+                        {onShuffle && (
+                            <Button
+                                type="button"
+                                variant="outline"
+                                size="sm"
+                                onClick={onShuffle}
+                                className="h-9 px-3 bg-gradient-to-r from-primary/10 to-accent/10 hover:from-primary/20 hover:to-accent/20 border-primary/20 hover:border-primary/40 transition-all duration-300"
+                            >
+                                <Shuffle className="h-4 w-4 mr-1" />
+                                <span className="hidden sm:inline">I'm Feeling Lucky</span>
+                                <span className="sm:hidden">랜덤</span>
                             </Button>
                         )}
                     </div>
