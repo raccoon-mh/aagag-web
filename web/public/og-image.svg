@@ -1,0 +1,28 @@
+
+    <svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+        </linearGradient>
+      </defs>
+      <rect width="1200" height="630" fill="url(#grad)"/>
+      
+      <!-- 메인 타이틀 -->
+      <text x="600" y="200" font-size="72" font-weight="bold" 
+            text-anchor="middle" fill="white">애객 세끼 With Web Finder</text>
+      
+      <!-- 서브타이틀 -->
+      <text x="600" y="280" font-size="36" 
+            text-anchor="middle" fill="white" opacity="0.9">3분 안에 맛집 찾기</text>
+      
+      <!-- 설명 -->
+      <text x="600" y="380" font-size="24" 
+            text-anchor="middle" fill="white" opacity="0.8">전국 15,000개 맛집을 빠르게 찾는 가장 쉬운 방법</text>
+      
+      <!-- 장식 요소 -->
+      <circle cx="200" cy="150" r="30" fill="white" opacity="0.2"/>
+      <circle cx="1000" cy="480" r="40" fill="white" opacity="0.2"/>
+      <circle cx="150" cy="500" r="25" fill="white" opacity="0.2"/>
+    </svg>
+  

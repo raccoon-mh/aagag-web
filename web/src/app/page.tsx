@@ -55,6 +55,17 @@ export default function Home() {
   return (
     <div className="min-h-screen flex flex-col">
       <Header currentRegion={selectedRegion} />
+
+      {/* SEO를 위한 숨겨진 헤딩 */}
+      <h1 className="sr-only">
+        {selectedRegion === 'seoul' ? '서울' :
+          selectedRegion === 'busan' ? '부산' :
+            selectedRegion === 'daegu' ? '대구' :
+              selectedRegion === 'gwangju' ? '광주' :
+                selectedRegion === 'daejeon' ? '대전' :
+                  selectedRegion === 'incheon' ? '인천' : '전국'} 맛집 검색 - 애객 세끼 With Web Finder
+      </h1>
+
       <FilterBar
         onSearch={handleSearch}
         onRegionChange={handleRegionChange}

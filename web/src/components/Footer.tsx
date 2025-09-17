@@ -18,14 +18,14 @@ export default function Footer() {
                             </div>
                         </div>
                         <p className="text-sm text-muted-foreground">
-                            https://github.com/raccoon-mh/aagag-web
+                            <a href="https://github.com/raccoon-mh/aagag-web" target="_blank" rel="noopener noreferrer">github</a>
                         </p>
                     </div>
                 </div>
 
                 <div className="border-t mt-8 pt-6 flex flex-col md:flex-row justify-between items-center">
                     <p className="text-sm text-muted-foreground">
-                        2024 애객 세끼 With Web Finder.
+                        2025 애객 세끼 With Web Finder.
                     </p>
                     <p className="text-sm text-muted-foreground mt-2 md:mt-0">
                         Made for 애객러들

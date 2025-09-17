@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raccoon-mh.github.io/aagag-web/sitemap.xml

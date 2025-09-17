@@ -1,13 +1,61 @@
-'use client';
-
+import type { Metadata } from 'next';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Clock, Zap, Users, Heart } from 'lucide-react';
 import Link from 'next/link';
+import Script from 'next/script';
+import { generateFAQStructuredData } from '@/lib/structured-data';
+
+export const metadata: Metadata = {
+    title: '서비스 소개',
+    description: '애객 세끼 With Web Finder는 전국 15,000개 맛집을 3분 안에 찾는 가장 빠른 맛집 검색 서비스입니다. 광고 없는 깔끔한 UI로 신뢰할 수 있는 맛집 정보만 제공합니다.',
+    keywords: [
+        '맛집 검색 서비스', '맛집 앱', '맛집 사이트', '식당 검색', '음식점 추천',
+        '한국 맛집', '서울 맛집', '부산 맛집', '대구 맛집', '맛집 정보',
+        '광고 없는 맛집', '맛집 추천 서비스', '맛집 찾기', '맛집 리스트'
+    ],
+    openGraph: {
+        title: '서비스 소개 | 애객 세끼 With Web Finder',
+        description: '전국 15,000개 맛집을 3분 안에 찾는 가장 빠른 맛집 검색 서비스. 광고 없는 깔끔한 UI로 신뢰할 수 있는 맛집 정보만 제공합니다.',
+        type: 'website',
+    },
+    twitter: {
+        title: '서비스 소개 | 애객 세끼 With Web Finder',
+        description: '전국 15,000개 맛집을 3분 안에 찾는 가장 빠른 맛집 검색 서비스. 광고 없는 깔끔한 UI로 신뢰할 수 있는 맛집 정보만 제공합니다.',
+    },
+};
 
 export default function About() {
+    const faqData = [
+        {
+            question: "애객 세끼 With Web Finder는 어떤 서비스인가요?",
+            answer: "전국 15,000개 맛집을 3분 안에 찾을 수 있는 가장 빠른 맛집 검색 서비스입니다. 지역별, 태그별 필터링으로 광고 없는 깔끔한 맛집 정보를 제공합니다."
+        },
+        {
+            question: "어떤 지역의 맛집 정보를 제공하나요?",
+            answer: "서울, 부산, 대구, 광주, 대전, 인천 등 전국 주요 도시의 맛집 정보를 제공합니다. 총 50개 이상의 지역을 커버하고 있습니다."
+        },
+        {
+            question: "맛집 정보는 어떻게 수집되나요?",
+            answer: "신뢰할 수 있는 다양한 소스에서 맛집 정보를 수집하여 정확하고 최신의 정보를 제공합니다. 광고나 협찬이 아닌 실제 맛집 정보만을 선별하여 제공합니다."
+        },
+        {
+            question: "서비스 이용은 무료인가요?",
+            answer: "네, 애객 세끼 With Web Finder는 완전 무료 서비스입니다. 별도의 가입이나 결제 없이 바로 이용하실 수 있습니다."
+        }
+    ];
+
     return (
         <div className="min-h-screen flex flex-col">
+            {/* FAQ 구조화된 데이터 */}
+            <Script
+                id="faq-structured-data"
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{
+                    __html: JSON.stringify(generateFAQStructuredData(faqData)),
+                }}
+            />
+
             <Header />
 
             <main className="flex-1">
