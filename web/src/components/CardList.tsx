@@ -45,6 +45,7 @@ export default function CardList({
     const allRestaurants = propRestaurants || fetchedRestaurants;
     const [shuffledRestaurants, setShuffledRestaurants] = useState<Restaurant[]>([]);
     const lastShuffleTrigger = useRef(0);
+    const lastRegion = useRef(region);
 
     const shuffleArray = (array: Restaurant[]): Restaurant[] => {
         const shuffled = [...array];
@@ -55,15 +56,25 @@ export default function CardList({
         return shuffled;
     };
 
-    // 초기 로드 시 자동으로 셔플 실행
+    // 리전 변경 감지 및 셔플 상태 초기화
     useEffect(() => {
-        if (allRestaurants.length > 0 && shuffledRestaurants.length === 0) {
-            // 페이지 로드 시 자동으로 셔플 실행
+        if (lastRegion.current !== region) {
+            // 리전이 변경되었을 때 셔플 상태 초기화
+            setShuffledRestaurants([]);
+            lastShuffleTrigger.current = 0;
+            lastRegion.current = region;
+        }
+    }, [region]);
+
+    // 데이터 로드 시 자동 셔플 실행
+    useEffect(() => {
+        if (allRestaurants.length > 0) {
+            // 새로운 데이터가 로드되면 자동으로 셔플 실행
             const newShuffled = shuffleArray(allRestaurants);
             setShuffledRestaurants(newShuffled);
             lastShuffleTrigger.current = 1; // 초기 셔플 트리거 설정
         }
-    }, [allRestaurants, shuffledRestaurants.length]);
+    }, [allRestaurants]);
 
     // shuffleTrigger prop과 lastShuffleTrigger.current 동기화
     useEffect(() => {

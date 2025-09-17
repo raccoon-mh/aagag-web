@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "parsed_at": "2025-09-17T06:16:07.910498",
+    "total_groups": 1,
+    "source": "주인장",
+    "has_actual_links": true,
+    "has_naver_map_urls": true,
+    "has_kakao_reviews": true,
+    "has_kakao_map_urls": true
+  },
+  "data": [
+    {
+      "name": "굿푸드 한식뷔페",
+      "location": "경기 과천시 갈현동 456",
+      "link": "https://naver.me/xnhkxM5m",
+      "summary": "과천 지정타 직장인 점심 맛집",
+      "tags": [
+        "점심",
+        "뷔페",
+        "한식"
+      ],
+      "navermapurl": "https://map.naver.com/p/search/굿푸드 한식뷔페?c=14,126.9756394,37.4165840,0,dh",
+      "review_star": null,
+      "review_img": [],
+      "review_url": "https://place.map.kakao.com/123971267"
+    }
+  ]
+}

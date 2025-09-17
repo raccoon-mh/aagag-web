@@ -119,6 +119,9 @@ export function usePreloadData(regions: string[] = ['seoul']) {
 // 사용 가능한 지역 목록을 가져오는 훅 (정적 목록)
 export function useAvailableRegions() {
     const [regions] = useState<Array<{ key: string, source: string }>>([
+        { key: 'owner', source: '주인장👍' },
+        { key: 'seoul', source: '서울' },
+        { key: 'incheon', source: '인천' },
         { key: 'gyeongsangnam-do', source: '경상남도' },
         { key: 'jeollanam-do', source: '전라남도' },
         { key: 'gyeongsangbuk-do', source: '경상북도' },
@@ -219,7 +222,6 @@ export function useAvailableRegions() {
         { key: 'yeongyang', source: '영양' },
         { key: 'hadong', source: '하동' },
         { key: 'haman', source: '함안' },
-        { key: 'incheon', source: '인천' },
         { key: 'namhae', source: '남해' },
         { key: 'goheung', source: '고흥' },
         { key: 'jeju', source: '제주' },
@@ -271,7 +273,6 @@ export function useAvailableRegions() {
         { key: 'uiseong', source: '의성' },
         { key: 'hongcheon', source: '홍천' },
         { key: 'miryang', source: '밀양' },
-        { key: 'seoul', source: '서울' },
         { key: 'cheongsong', source: '청송' },
         { key: 'yangyang', source: '양양' },
         { key: 'bonghwa', source: '봉화' },
