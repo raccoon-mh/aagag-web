@@ -5,6 +5,7 @@ import { Restaurant } from '@/data/restaurants';
 import VirtualizedCardList from './VirtualizedCardList';
 import { useFetchData } from '@/hooks/useFetchData';
 import { SortOption } from '@/types/sort';
+import { gtmRestaurantClick } from '@/lib/gtm';
 
 interface CardListProps {
     region?: string;

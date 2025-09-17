@@ -3,21 +3,11 @@
 import { useState, useEffect, useMemo } from 'react';
 import { Restaurant, RestaurantData } from '@/data/restaurants';
 
-/**
- * Next.js 설정과 일관성을 유지하는 basePath 및 assetPrefix 적용
- * next.config.ts의 설정과 동일한 로직을 사용하여 GitHub Pages 배포 시 올바른 경로 사용
- */
-
-// Next.js basePath와 assetPrefix 설정을 정확하게 반영
 const getBasePath = () => {
-    // Next.js 설정과 동일한 로직 사용
-    // next.config.ts의 basePath 설정: process.env.NODE_ENV === 'production' ? '/aagag-web' : ''
     return process.env.NODE_ENV === 'production' ? '/aagag-web' : '';
 };
 
-// assetPrefix도 함께 적용 (이미지나 정적 자산용)
 const getAssetPrefix = () => {
-    // next.config.ts의 assetPrefix 설정과 동일
     return process.env.NODE_ENV === 'production' ? '/aagag-web' : '';
 };
 

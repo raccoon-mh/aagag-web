@@ -10,6 +10,7 @@ import { Restaurant } from '@/data/restaurants';
 import { useAvailableRegions, useFetchData } from '@/hooks/useFetchData';
 import { useFavorites } from '@/hooks/useFavorites';
 import { SortOption, SORT_OPTIONS } from '@/types/sort';
+import { gtmSearch, gtmFilterChange } from '@/lib/gtm';
 
 interface FilterBarProps {
     onSearch: (query: string) => void;
@@ -65,6 +66,8 @@ function SearchableRegionSelect({ regions, selectedRegion, onRegionChange, loadi
         setIsOpen(false);
         setSearchQuery('');
         setHighlightedIndex(-1);
+        // GTM 이벤트 전송
+        gtmFilterChange('region', regionKey);
     };
 
     const handleKeyDown = (e: React.KeyboardEvent) => {
@@ -194,10 +197,16 @@ export default function FilterBar({
     const handleSearch = (e: React.FormEvent) => {
         e.preventDefault();
         onSearch(searchQuery);
+        // GTM 이벤트 전송
+        if (searchQuery.trim()) {
+            gtmSearch(searchQuery.trim());
+        }
     };
 
     const removeTag = (tagToRemove: string) => {
         onTagFilter(tagToRemove);
+        // GTM 이벤트 전송
+        gtmFilterChange('tag_remove', tagToRemove);
     };
 
     const handleSortChange = (value: string) => {

@@ -7,6 +7,7 @@ import { Button } from '@/components/ui/button';
 import { Restaurant } from '@/data/restaurants';
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
+import { gtmRestaurantClick, gtmFavoriteToggle } from '@/lib/gtm';
 
 interface RestaurantCardProps {
     restaurant: Restaurant;
@@ -44,6 +45,8 @@ export default function RestaurantCard({
     }, [isFavorite]);
 
     const handleNaverMapClick = () => {
+        // GTM 이벤트 전송
+        gtmRestaurantClick(restaurant.name, restaurant.name);
         window.open(restaurant.link, '_blank');
     };
 
@@ -78,6 +81,8 @@ export default function RestaurantCard({
             setIsAnimating(true);
             onFavorite(restaurant.name);
             setLocalIsFavorite(!localIsFavorite);
+            // GTM 이벤트 전송
+            gtmFavoriteToggle(restaurant.name, !localIsFavorite);
             setTimeout(() => {
                 setIsAnimating(false);
             }, 300);
