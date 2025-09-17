@@ -55,13 +55,28 @@ export default function CardList({
         return shuffled;
     };
 
-    // shuffleTrigger가 변경되었을 때만 셔플 실행
+    // 초기 로드 시 자동으로 셔플 실행
     useEffect(() => {
-        if (shuffleTrigger > lastShuffleTrigger.current) {
-            setShuffledRestaurants(shuffleArray(allRestaurants));
-            lastShuffleTrigger.current = shuffleTrigger;
+        if (allRestaurants.length > 0 && shuffledRestaurants.length === 0) {
+            // 페이지 로드 시 자동으로 셔플 실행
+            const newShuffled = shuffleArray(allRestaurants);
+            setShuffledRestaurants(newShuffled);
+            lastShuffleTrigger.current = 1; // 초기 셔플 트리거 설정
+        }
+    }, [allRestaurants, shuffledRestaurants.length]);
+
+    // shuffleTrigger prop과 lastShuffleTrigger.current 동기화
+    useEffect(() => {
+        if (shuffleTrigger !== lastShuffleTrigger.current) {
+            if (shuffleTrigger > lastShuffleTrigger.current) {
+                // 새로운 셔플 요청
+                const newShuffled = shuffleArray(allRestaurants);
+                setShuffledRestaurants(newShuffled);
+                lastShuffleTrigger.current = shuffleTrigger;
+            }
         }
     }, [shuffleTrigger, allRestaurants]);
+
 
     const sortRestaurants = (restaurants: Restaurant[], sortOption?: SortOption): Restaurant[] => {
         if (!sortOption || !sortOption.enabled || sortOption.field === 'none') {

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Header from '@/components/Header';
 import FilterBar from '@/components/FilterBar';
 import CardList from '@/components/CardList';
@@ -9,13 +9,28 @@ import { useFetchData } from '@/hooks/useFetchData';
 import { useFavorites } from '@/hooks/useFavorites';
 import { SortOption } from '@/types/sort';
 
+const LAST_REGION_STORAGE_KEY = '애객 세끼 For Web-last-region';
+
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedRegion, setSelectedRegion] = useState('seoul');
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
   const [sortOption, setSortOption] = useState<SortOption>({ field: 'none', order: 'asc', enabled: false });
-  const [shuffleTrigger, setShuffleTrigger] = useState(0);
+  const [shuffleTrigger, setShuffleTrigger] = useState(1); // 초기값을 1로 설정하여 자동 셔플 활성화
+
+  // 페이지 로드 시 마지막 선택 지역 복원
+  useEffect(() => {
+    try {
+      const storedRegion = localStorage.getItem(LAST_REGION_STORAGE_KEY);
+      if (storedRegion && storedRegion !== 'seoul') {
+        setSelectedRegion(storedRegion);
+      }
+    } catch (error) {
+      console.error('Error loading last region from localStorage:', error);
+    }
+  }, []);
+
 
   const { favorites, toggleFavorite, isFavorite, getCurrentRegionFavorites, updateTrigger } = useFavorites();
 
@@ -33,6 +48,14 @@ export default function Home() {
     setSelectedRegion(regionKey);
     setSelectedTags([]);
     setShowFavoritesOnly(false);
+    setShuffleTrigger(prev => prev + 1); // 지역 변경 시 새로운 셔플 실행
+
+    // 마지막 선택 지역을 localStorage에 저장
+    try {
+      localStorage.setItem(LAST_REGION_STORAGE_KEY, regionKey);
+    } catch (error) {
+      console.error('Error saving last region to localStorage:', error);
+    }
   };
 
   const handleSortChange = (newSortOption: SortOption) => {
