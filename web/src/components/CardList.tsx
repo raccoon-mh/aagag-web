@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useEffect, useState } from 'react';
+import { useMemo, useEffect, useState, useRef } from 'react';
 import { Restaurant } from '@/data/restaurants';
 import VirtualizedCardList from './VirtualizedCardList';
 import { useFetchData } from '@/hooks/useFetchData';
@@ -43,6 +43,8 @@ export default function CardList({
     } = useFetchData(region);
 
     const allRestaurants = propRestaurants || fetchedRestaurants;
+    const [shuffledRestaurants, setShuffledRestaurants] = useState<Restaurant[]>([]);
+    const lastShuffleTrigger = useRef(0);
 
     const shuffleArray = (array: Restaurant[]): Restaurant[] => {
         const shuffled = [...array];
@@ -53,9 +55,17 @@ export default function CardList({
         return shuffled;
     };
 
+    // shuffleTrigger가 변경되었을 때만 셔플 실행
+    useEffect(() => {
+        if (shuffleTrigger > lastShuffleTrigger.current) {
+            setShuffledRestaurants(shuffleArray(allRestaurants));
+            lastShuffleTrigger.current = shuffleTrigger;
+        }
+    }, [shuffleTrigger, allRestaurants]);
+
     const sortRestaurants = (restaurants: Restaurant[], sortOption?: SortOption): Restaurant[] => {
         if (!sortOption || !sortOption.enabled || sortOption.field === 'none') {
-            return shuffleArray(restaurants);
+            return restaurants; // 셔플은 별도로 관리
         }
 
         return [...restaurants].sort((a, b) => {
@@ -76,7 +86,10 @@ export default function CardList({
     const filteredAndSortedRestaurants = useMemo(() => {
         if (!allRestaurants.length) return [];
 
-        const filtered = allRestaurants.filter((restaurant) => {
+        // 셔플이 실행된 경우 셔플된 배열을 사용, 그렇지 않으면 원본 배열 사용
+        const restaurantsToUse = shuffledRestaurants.length > 0 ? shuffledRestaurants : allRestaurants;
+
+        const filtered = restaurantsToUse.filter((restaurant) => {
             const matchesSearch = searchQuery === '' ||
                 restaurant.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
                 restaurant.summary.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -91,7 +104,7 @@ export default function CardList({
         });
 
         return sortRestaurants(filtered, sortOption);
-    }, [allRestaurants, searchQuery, selectedTags, showFavoritesOnly, favorites, sortOption, shuffleTrigger]);
+    }, [allRestaurants, shuffledRestaurants, searchQuery, selectedTags, showFavoritesOnly, favorites, sortOption]);
 
     if (loading) {
         return (
